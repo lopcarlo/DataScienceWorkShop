@@ -1,0 +1,20407 @@
+her	1502
+ers	2294
+rst	929
+ste	2848
+tel	928
+ell	1060
+llk	24
+lko	56
+kos	81
+ost	330
+ten	3492
+en 	13862
+n s	1935
+ si	1849
+sin	495
+ind	1250
+nd 	5200
+d i	369
+ im	1602
+im 	1804
+m b	340
+ be	3783
+bet	372
+etr	378
+tri	604
+rie	1091
+ieb	463
+ebl	43
+bli	302
+lic	1639
+ich	4691
+che	4690
+hen	2606
+n r	473
+ re	1037
+rec	422
+ech	684
+chn	454
+hnu	72
+nun	289
+ung	3556
+ngs	749
+gsw	30
+swe	121
+wes	311
+ese	912
+sen	1138
+n d	3739
+ di	4647
+die	4991
+ie 	5461
+e k	655
+ ko	846
+en,	1221
+n, 	1637
+, d	1731
+e b	1096
+bei	1433
+ei 	1101
+i d	318
+ de	10066
+der	7613
+er 	13410
+r h	497
+ he	870
+llu	157
+lun	526
+ng 	2387
+g v	306
+ vo	2854
+von	1961
+on 	3054
+n p	538
+ pr	678
+pro	555
+rod	157
+odu	127
+duk	78
+ukt	115
+kte	274
+n o	319
+ od	436
+ode	692
+r d	1891
+ien	881
+ens	1117
+nst	796
+stl	237
+tle	151
+lei	691
+eis	966
+ist	1919
+stu	366
+tun	637
+nge	1843
+gen	2971
+n a	1699
+ an	1916
+anf	100
+nfa	192
+fal	226
+all	821
+lle	1206
+len	853
+en.	1602
+n. 	1478
+. d	1530
+ da	2308
+dav	55
+avo	45
+n z	687
+ zu	2384
+zu 	938
+u u	51
+ un	4887
+unt	741
+nte	1583
+ter	3266
+rsc	627
+sch	6776
+hei	736
+eid	294
+ide	427
+den	3763
+d d	1062
+e h	458
+gsk	41
+sko	60
+n.
+	502
+n b	1207
+ bi	860
+bil	285
+ild	293
+lde	303
+e z	576
+ ze	502
+zen	475
+ent	1672
+ntr	210
+tra	968
+ral	211
+ale	467
+le 	809
+ena	430
+nar	108
+art	607
+rt 	914
+t i	581
+ in	3756
+in 	4463
+r i	720
+ndu	201
+dus	47
+ust	438
+str	1011
+ie.	59
+e. 	669
+. s	541
+sie	805
+e s	1576
+ se	1807
+set	312
+etz	482
+tze	304
+sic	863
+ch 	4044
+h g	151
+ gr	763
+gro	195
+rob	106
+ob 	43
+b a	40
+ au	3266
+aus	1679
+us 	841
+s d	896
+n m	1006
+ ma	1183
+mat	301
+ate	520
+eri	849
+ria	185
+ial	185
+alk	68
+n u	1240
+und	4762
+n f	755
+ fe	426
+fer	440
+ert	1756
+rti	253
+tig	582
+igu	159
+gun	436
+zus	276
+usa	199
+sam	432
+amm	416
+mme	645
+men	1437
+. i	620
+m e	459
+ ei	3801
+ein	5813
+inz	255
+nze	367
+zel	124
+eln	166
+lne	48
+nen	1648
+bes	730
+est	1224
+teh	207
+ehe	456
+e a	1484
+s f	343
+gsm	54
+sma	71
+al,	36
+l, 	176
+, m	215
+alg	49
+lge	254
+gem	423
+eme	538
+mei	591
+ink	357
+nko	103
+, f	141
+gsl	19
+slo	50
+loh	23
+ohn	324
+hn,	16
+gsg	64
+sge	358
+d f	196
+ fo	417
+for	420
+ors	306
+chu	402
+hun	335
+gs-	24
+s- 	47
+- u	212
+d e	403
+ en	768
+ntw	198
+twi	151
+wic	184
+ick	198
+ckl	90
+klu	80
+. o	110
+ ob	187
+b d	95
+ so	1104
+son	784
+ond	246
+nde	3124
+ere	1779
+rei	1689
+elk	37
+r f	598
+g z	163
+u d	183
+n h	600
+n g	893
+ ge	2767
+geh	340
+ehö	194
+hör	219
+öre	66
+ren	1772
+, i	507
+ is	1172
+st 	1513
+n t	536
+ th	412
+the	653
+heo	69
+eor	140
+ori	324
+e u	701
+d p	130
+pra	182
+rax	17
+axi	76
+xis	40
+is 	892
+s u	382
+ um	482
+ums	168
+mst	75
+rit	375
+itt	644
+tte	1060
+ mi	1926
+mit	1989
+it 	2128
+t d	1559
+n e	1279
+d k	169
+kon	455
+ons	417
+tru	219
+ruk	38
+kti	253
+tio	999
+ion	1353
+nsk	57
+n (	331
+ (e	78
+(ei	17
+el-	35
+l- 	15
+d g	213
+en)	115
+n) 	105
+) e	38
+ er	2896
+erg	657
+rge	551
+geb	669
+ebe	939
+ben	1253
+h d	874
+n 2	198
+ 2.	70
+2.
+	23
+inh	134
+nha	193
+hal	545
+alt	748
+lte	997
+n k	838
+ ka	895
+kal	203
+lku	10
+kul	151
+ula	74
+lat	286
+ato	106
+tor	458
+ris	877
+isc	2297
+he 	1571
+n w	1138
+ wi	1334
+wie	812
+ ab	832
+abs	228
+bsc	110
+chr	602
+hre	1119
+eib	173
+ibu	63
+bun	238
+ zi	110
+zin	83
+ins	616
+nse	221
+, s	647
+so 	225
+o d	91
+das	1448
+ass	766
+ss 	472
+s a	673
+auc	626
+uch	1057
+ies	707
+se 	646
+e f	647
+ fi	387
+fik	37
+ikt	27
+tiv	218
+ive	315
+ven	165
+zum	484
+um 	1179
+sta	1692
+tan	453
+and	1995
+ndt	50
+dte	57
+tei	758
+eil	699
+il 	362
+l d	280
+ we	1712
+wer	875
+erd	714
+rde	1982
+. v	188
+ ve	1836
+ver	2516
+erw	442
+rwa	171
+wal	265
+ltu	227
+d v	272
+rtr	185
+ebs	41
+bsg	5
+ hi	510
+hin	361
+ing	903
+geg	428
+ege	925
+ zä	34
+zäh	75
+ähl	136
+hle	234
+n n	576
+ ni	568
+nic	455
+cht	2186
+ht 	847
+t z	304
+ern	1282
+rn 	503
+n l	494
+ le	837
+led	45
+edi	277
+dig	232
+igl	24
+gli	386
+h z	136
+zur	474
+ur 	783
+r e	1118
+erm	347
+rmi	112
+ttl	81
+tlu	5
+g d	695
+r s	1406
+sel	462
+elb	216
+lbs	95
+bst	183
+stk	22
+tko	9
+era	652
+ran	648
+ang	969
+gez	73
+ezo	38
+zog	101
+oge	187
+e r	429
+hne	476
+ner	1572
+bez	208
+ezu	33
+zug	190
+ugs	25
+gsb	59
+sba	80
+bas	89
+asi	111
+sis	205
+ fü	1062
+für	889
+ür 	841
+e v	836
+des	1900
+es 	3114
+msa	7
+sat	212
+atz	261
+zes	84
+n i	1006
+r m	630
+ me	733
+meh	190
+ehr	545
+hrs	99
+tuf	22
+ufi	60
+fig	80
+ige	1157
+usc	85
+chl	720
+hla	176
+lag	548
+ags	61
+ska	128
+ati	889
+on.	101
+r b	938
+beg	270
+egr	124
+gri	112
+rif	285
+iff	186
+ff 	77
+f h	29
+t n	239
+dec	75
+eck	382
+cku	31
+kun	290
+sgl	11
+gle	218
+eic	919
+h m	142
+r g	661
+ges	1137
+tzl	45
+zli	47
+rtk	3
+onv	27
+nve	91
+nti	407
+e i	969
+ila	39
+lan	962
+anz	318
+nz-	26
+z- 	14
+d s	554
+ st	2045
+teu	107
+eue	279
+uer	447
+err	533
+rre	328
+t v	354
+wan	222
+dt 	255
+t w	720
+wir	572
+ird	364
+rd.	60
+d. 	240
+. l	93
+let	174
+tzt	430
+zte	219
+re 	839
+e d	1823
+ dü	42
+dür	22
+ürf	39
+rfe	110
+fen	519
+wed	36
+ede	708
+r k	619
+ no	508
+noc	168
+och	556
+h v	180
+in-	64
+n- 	40
+mes	109
+ess	574
+sse	1032
+ene	953
+ne 	1781
+nth	99
+tha	126
+e w	726
+ied	796
+eru	579
+rum	166
+m n	207
+r p	422
+ (h	88
+(hk	3
+hkp	1
+kp)	1
+p) 	8
+) s	36
+d a	440
+ al	1579
+e m	758
+al-	37
+ine	3533
+ pe	307
+per	513
+rio	76
+iod	19
+de 	1690
+llt	293
+te 	3016
+gef	237
+efa	108
+nd,	86
+d, 	185
+, u	260
+una	60
+nab	40
+abh	41
+bhä	31
+hän	91
+äng	292
+ngi	61
+gig	52
+ig 	377
+on,	107
+, o	191
+e p	439
+igg	12
+gge	30
+lt 	435
+t s	631
+d o	55
+r n	467
+t u	517
+erk	642
+rka	70
+kau	120
+auf	1652
+uft	153
+ft 	502
+ht.	101
+t. 	1138
+. a	698
+als	1188
+ls 	1255
+s h	327
+s (	105
+hku	3
+ku)	1
+u) 	10
+) w	105
+trä	124
+räg	125
+äge	68
+ger	1057
+erz	317
+rze	217
+zei	673
+eit	2310
+itr	51
+tre	359
+eze	198
+net	295
+et,	94
+t, 	882
+g e	231
+nes	379
+s p	264
+kts	13
+ts 	350
+en;	47
+n; 	63
+; d	43
+ hk	10
+ku 	6
+u s	129
+d m	245
+ith	79
+thi	63
+ nu	283
+nur	193
+fte	308
+e e	1495
+nts	257
+tst	271
+ber	2358
+s v	443
+enz	372
+nzu	78
+gsa	65
+s s	729
+sow	267
+owi	213
+s b	558
+enö	16
+nöt	16
+öti	14
+igt	271
+gt.	96
+t.
+	368
+r v	728
+vol	200
+olk	84
+lks	58
+ksw	6
+swi	47
+irt	97
+rts	281
+tsc	708
+cha	1040
+haf	684
+aft	706
+fts	134
+tsl	16
+sle	48
+leh	122
+rd 	444
+f d	481
+s t	213
+ te	470
+r t	371
+ tr	452
+ans	403
+nsf	41
+sfo	19
+orm	227
+rma	253
+n v	888
+rwe	220
+wen	288
+end	1507
+det	397
+et.	232
+dio	94
+ony	47
+nys	29
+ysi	40
+sio	237
+ios	31
+os 	167
+lex	59
+exa	32
+xan	14
+ndr	99
+dri	184
+ia 	136
+a (	63
+ (a	87
+(au	22
+ieg	517
+get	124
+ete	879
+tes	325
+es)	23
+s) 	63
+ wa	1216
+war	928
+ar 	878
+ mö	94
+mög	106
+ögl	112
+wei	1203
+ise	394
+a s	113
+tam	117
+iec	29
+chi	921
+his	244
+geo	136
+eog	13
+ogr	165
+gra	385
+rap	194
+aph	67
+ph 	68
+s 2	97
+2. 	122
+. j	485
+ ja	960
+jah	786
+ahr	995
+hrh	120
+rhu	111
+s n	237
+ n.	5
+. c	57
+ ch	384
+hr.	25
+r. 	414
+. e	518
+erf	433
+rfa	124
+fas	131
+ser	736
+r u	683
+m 1	280
+ 12	80
+124	11
+24 	40
+4 e	31
+hie	497
+esi	164
+s o	191
+ oi	3
+oik	2
+iku	35
+kum	61
+ume	159
+ (π	1
+(πε	1
+περ	1
+ερι	1
+ριή	1
+ιήγ	1
+ήγε	1
+γεσ	1
+εσι	1
+σις	1
+ις 	1
+ς τ	1
+ τή	1
+τής	1
+ής 	1
+ς ο	1
+ οἰ	1
+οἰκ	1
+ἰκο	1
+κου	1
+ουμ	1
+υμέ	1
+μέν	1
+ένη	1
+νης	1
+ης)	1
+ς),	1
+), 	297
+, e	333
+esc	534
+dam	196
+ama	126
+mal	416
+bek	193
+eka	133
+kan	524
+ann	1218
+nnt	458
+wel	306
+elt	814
+n 1	450
+ 11	83
+118	5
+186	65
+86 	30
+6 h	11
+hex	6
+xam	7
+ame	474
+met	263
+rn.	72
+sei	1274
+ du	576
+dur	581
+urc	576
+rch	1002
+h r	51
+nhe	131
+ el	191
+ele	686
+leg	285
+ega	151
+gan	332
+nz 	177
+z d	78
+ sp	778
+spr	377
+rac	264
+ach	1910
+h a	351
+usz	28
+sze	96
+s w	386
+rk 	197
+k w	24
+ wu	1170
+wur	1131
+urd	1124
+ av	37
+avi	55
+vie	346
+enu	65
+nus	49
+s i	568
+m 4	41
+ 4.	57
+4. 	115
+. f	166
+k d	81
+scr	14
+cri	21
+rip	25
+ipt	13
+pti	57
+io 	150
+o o	15
+ or	344
+orb	91
+rbi	143
+bis	605
+rra	71
+rae	28
+ae 	22
+s g	451
+gru	283
+run	1010
+ndl	203
+dla	23
+age	731
+ge 	864
+et 	554
+pri	279
+sci	10
+cia	23
+ian	178
+an 	1024
+ la	737
+ini	476
+nis	778
+r ü	79
+ üb	682
+übe	760
+rse	188
+zt.	82
+ eu	110
+eus	35
+tat	412
+ath	178
+hio	10
+hes	222
+ssa	102
+sal	68
+alo	59
+lon	120
+oni	246
+nik	139
+ike	181
+ke 	244
+sst	431
+kom	410
+omm	393
+nta	195
+tar	318
+ar.	77
+. b	368
+ns 	507
+s m	421
+ela	191
+lal	26
+ bl	220
+lie	945
+eb 	120
+as 	1442
+k e	39
+chä	106
+hät	22
+ätz	91
+d h	154
+ hä	124
+häu	85
+äuf	101
+g k	53
+tie	374
+ier	1545
+rte	1183
+s l	285
+hrb	27
+rbu	76
+buc	130
+ch.	130
+h.
+	46
+leb	320
+nsd	23
+sda	28
+dat	84
+ id	50
+tit	116
+itä	224
+tät	278
+ät 	129
+rs 	340
+are	362
+t g	260
+uns	171
+nsi	111
+erh	501
+rhe	167
+dis	237
+isk	59
+sku	37
+kus	23
+uss	615
+ssi	361
+jac	25
+aco	28
+cob	20
+b b	21
+ bu	344
+bur	404
+rck	9
+ckh	40
+kha	33
+har	315
+ard	251
+rdt	32
+tif	64
+ifi	86
+fiz	73
+izi	154
+zie	376
+ (w	20
+(wo	3
+woh	216
+ohl	105
+hl 	167
+l f	86
+ fä	54
+fäl	94
+äls	8
+lsc	98
+hli	233
+ch)	55
+h) 	16
+) m	21
+dem	1396
+em 	2021
+m v	220
+ ba	706
+sar	61
+ari	344
+rik	194
+ika	320
+ka,	11
+a, 	247
+nem	476
+ ep	30
+epo	22
+pos	114
+s ü	41
+e t	395
+ ta	257
+yso	3
+sos	7
+os.	17
+s. 	510
+ufg	189
+fgr	51
+s e	672
+int	404
+rag	229
+ su	156
+sud	6
+uda	30
+da 	157
+a w	39
+ by	7
+byz	1
+yza	1
+zan	16
+z i	50
+rt.	224
+. g	125
+ go	154
+got	93
+ott	160
+ttf	22
+tfr	30
+fri	247
+ed 	148
+d b	305
+rnh	23
+rdy	4
+dy 	19
+y n	5
+ na	1235
+nah	261
+ahm	252
+hm 	141
+m a	410
+an,	70
+r a	1342
+ am	697
+am 	773
+s 3	17
+ 3.	55
+3. 	128
+r z	478
+u b	103
+egi	288
+gin	155
+inn	332
+nn 	608
+s 4	13
+ sc	1356
+hri	451
+eb.	18
+b.d	3
+.du	1
+h n	141
+ ne	573
+neu	347
+tud	142
+udi	164
+ ul	16
+ulr	9
+lri	12
+ric	606
+h b	198
+rna	179
+nay	11
+ays	18
+ys 	20
+s k	385
+rku	123
+unf	40
+nft	45
+t a	703
+a u	86
+itp	15
+tpu	11
+pun	92
+unk	196
+nkt	175
+kt 	199
+ehu	55
+g u	191
+4 a	33
+gel	660
+. z	175
+ zw	591
+zwe	383
+i a	74
+ ak	111
+akr	6
+kro	86
+ros	134
+sti	646
+tic	72
+ha 	13
+a n	36
+enn	395
+nne	542
+nam	195
+dic	188
+hte	829
+eim	296
+ima	114
+at 	340
+t (	120
+ (v	44
+(ve	12
+s 1	251
+ 10	141
+109	6
+09–	2
+9–1	16
+–13	4
+134	5
+34)	2
+4),	8
+g (	82
+ („	32
+(„a	4
+„al	7
+ ha	1175
+had	19
+adr	33
+ sa	375
+amo	22
+mot	81
+oth	86
+thr	33
+hra	19
+rak	105
+ake	60
+pon	55
+nym	9
+yme	15
+mer	531
+ kö	290
+kön	199
+öni	95
+nig	322
+g w	164
+ar“	2
+r“,	4
+“, 	75
+, v	150
+s 5	15
+ 51	20
+513	2
+13–	6
+3–5	1
+–53	1
+532	7
+32)	4
+2).	4
+).
+	115
+y (	26
+(hr	43
+rsg	57
+sg.	57
+g.)	43
+.):	42
+): 	55
+: g	40
+phi	192
+hic	172
+ici	64
+ci 	11
+i g	40
+aec	6
+eci	10
+i m	64
+min	322
+ino	129
+nor	259
+ore	250
+res	526
+s …	2
+ … 	6
+… 1	1
+ 1.	97
+1. 	164
+siu	22
+ius	81
+riē	2
+iēg	2
+ēgē	2
+gēt	1
+ēte	1
+ece	7
+ce 	76
+ et	211
+t l	118
+tin	213
+e c	179
+ cu	41
+cum	12
+vet	16
+etu	31
+tus	58
+tis	476
+s c	132
+ co	335
+com	66
+rii	10
+iis	10
+erp	103
+rpr	34
+pre	236
+ret	180
+eta	131
+nib	17
+bus	89
+ ex	124
+ex 	18
+x r	3
+cen	33
+one	428
+t c	62
+nno	71
+not	69
+ota	46
+e g	708
+god	26
+odo	29
+dof	4
+ofr	4
+fre	372
+red	98
+di 	41
+i b	68
+dy.	3
+y. 	43
+eip	45
+ipz	38
+pzi	38
+zig	105
+g 1	55
+ 18	459
+182	19
+828	4
+28.	20
+8. 	96
+. n	254
+nac	973
+chd	65
+hdr	9
+dru	108
+ruc	147
+uck	140
+ck:	6
+k: 	19
+: 2	11
+ 2 	27
+2 b	40
+ bä	10
+bän	20
+änd	281
+de,	64
+e, 	819
+ ol	62
+olm	16
+lms	34
+ms,	14
+s, 	468
+, h	149
+hil	214
+esh	43
+she	76
+ 19	1733
+197	235
+974	24
+74,	9
+4, 	72
+isb	232
+sbn	220
+bn 	220
+n 3	152
+ 3-	115
+3-4	22
+-48	5
+487	6
+87-	3
+7-0	7
+-04	7
+049	4
+491	3
+910	13
+10-	7
+0-4	7
+-4 	5
+4 (	16
+ (b	80
+(ba	12
+ban	236
+d 1	154
+ 1)	5
+1) 	20
+) u	136
+911	6
+11-	6
+1-2	4
+-2 	3
+2 (	11
+d 2	70
+ 2)	2
+2)
+	4
+kar	222
+arl	128
+rl 	48
+l m	76
+ mü	206
+mül	14
+üll	46
+ler	737
+r (	153
+ e 	7
+cod	8
+odi	42
+cib	1
+s r	235
+eco	18
+cog	2
+ogn	12
+gno	31
+nov	127
+ovi	65
+vit	37
+t p	85
+rol	157
+ole	61
+ego	44
+gom	16
+omi	100
+rux	1
+uxi	1
+xit	5
+t t	98
+tab	73
+abu	11
+bul	23
+uli	155
+lis	459
+ ae	1
+aer	6
+ri 	33
+i i	66
+inc	33
+nci	26
+cis	26
+isi	145
+ il	34
+ill	370
+lus	263
+rav	28
+ ca	207
+car	85
+aro	86
+olu	70
+ mu	242
+mul	39
+ull	27
+rus	102
+… 2	1
+o …	1
+… b	1
+bib	21
+ibl	49
+lio	52
+iot	31
+hec	58
+eca	6
+ca 	73
+pto	19
+oru	31
+m g	236
+cor	68
+ 26	40
+26.	25
+6. 	95
+did	25
+ido	22
+dot	18
+ot,	6
+, p	104
+ pa	429
+par	360
+861	7
+61.	3
+1.
+	26
+ia:	1
+a: 	21
+: d	105
+ li	580
+r w	679
+lt.	155
+h u	153
+deu	434
+eut	697
+uts	382
+h. 	134
+. h	167
+rau	472
+usg	241
+kai	61
+ai 	101
+ br	435
+bro	64
+199	351
+994	29
+94,	12
+-09	8
+098	3
+989	40
+893	13
+93-	4
+3-8	88
+-8
+	5
+cep	9
+por	179
+rin	430
+inu	80
+us,	70
+, j	72
+obu	10
+s [	2
+ [h	2
+[hr	2
+g.]	2
+.],	1
+], 	3
+, l	132
+lin	632
+ina	376
+acr	19
+cre	29
+re,	42
+, t	84
+tho	152
+hom	37
+oma	128
+mas	105
+ [ü	1
+[üb	1
+rs.	41
+s.]	1
+.]:	2
+]: 	4
+iu 	2
+u o	6
+iko	60
+ome	157
+gēs	1
+ēsi	1
+is.	42
+. -	1
+ - 	28
+- b	10
+sil	77
+ile	164
+lea	43
+eae	2
+e :	2
+ : 	6
+: j	17
+ jo	265
+joh	167
+oha	132
+han	561
+beb	14
+bel	197
+el,	81
+, 1	239
+ 15	115
+152	6
+523	3
+23.	28
+igi	126
+git	43
+ita	252
+tal	353
+ali	485
+sga	58
+gab	183
+abe	552
+be 	170
+uni	329
+niv	130
+rsi	247
+sit	329
+äts	29
+ts-	14
+d l	135
+esb	24
+sbi	39
+hek	21
+ek 	35
+düs	21
+üss	109
+eld	385
+ldo	28
+dor	247
+orf	119
+rf
+	2
+tia	76
+n j	356
+ob:	1
+b: 	5
+: l	29
+e l	441
+la 	104
+a t	20
+hab	144
+abi	82
+bit	44
+ité	4
+tée	2
+ée 	3
+eny	3
+ d'	5
+d'a	3
+'al	1
+e o	267
+ ou	8
+ou 	15
+u l	32
+a l	34
+leç	1
+eço	1
+çon	2
+ gé	2
+géo	1
+éog	1
+alb	248
+lbi	12
+bin	227
+mic	72
+hel	175
+990	44
+90,	7
+0, 	66
+ 2-	4
+2-2	10
+-22	5
+226	3
+26-	4
+6-0	12
+-03	7
+039	2
+395	3
+958	12
+58-	9
+8-9	4
+-9 	2
+9 (	11
+ (f	36
+(fr	13
+fra	352
+nzö	40
+zös	40
+ösi	40
+e ü	117
+tzu	160
+zun	257
+g m	132
+t e	929
+inl	29
+nle	32
+itu	187
+ng)	37
+g)
+	5
+ys:	2
+s: 	47
+: s	59
+es.	88
+. w	162
+win	174
+er,	388
+r, 	546
+del	332
+lbe	185
+rg 	288
+190	74
+905	12
+05 	69
+5 (	12
+ (d	73
+(di	24
+iss	335
+rta	117
+t m	353
+mün	186
+ünc	120
+nch	192
+05)	4
+5).	5
+kat	181
+na 	150
+a i	86
+ily	5
+lyu	3
+yus	1
+ush	49
+chk	88
+hki	6
+kin	247
+na:	4
+ia.	17
+a. 	153
+ron	320
+nin	81
+, 2	79
+ 20	955
+201	391
+010	60
+10 	75
+0 (	15
+(vo	19
+oll	426
+tex	88
+ext	95
+xt)	1
+t).	30
+idi	113
+mar	365
+arc	156
+rco	2
+cot	22
+te:	15
+e: 	55
+a p	30
+si 	8
+gi 	2
+i t	43
+ra 	94
+a b	66
+isa	67
+san	175
+nzi	182
+zio	9
+o e	78
+ l’	6
+l’i	1
+’it	1
+lia	64
+nel	103
+el 	639
+l s	113
+sec	41
+ec.	1
+c. 	31
+. x	4
+ xi	1
+xii	5
+ii.	54
+i. 	135
+in:	89
+n: 	171
+: q	1
+ qu	142
+qua	110
+uad	15
+ade	259
+rni	91
+ni 	125
+i s	112
+sto	337
+ jg	2
+jg.	2
+g. 	259
+. 3	37
+ 35	20
+35,	4
+5, 	59
+, n	158
+ nr	31
+nr.	33
+. 6	14
+ 69	3
+69 	42
+ (2	30
+(20	14
+200	557
+009	54
+09)	6
+9),	5
+ s.	142
+. 8	15
+ 89	3
+89–	3
+–10	2
+104	8
+04.	7
+4.
+	30
+org	335
+rgo	7
+goň	1
+oň 	1
+ň l	1
+lig	346
+iga	84
+ga 	61
+a 2	16
+005	72
+05/	2
+5/0	2
+/06	2
+06 	65
+6 w	43
+e 1	236
+ 13	87
+13.	48
+spi	530
+pie	633
+iel	897
+elz	30
+lze	67
+ hö	126
+höc	30
+öch	46
+chs	682
+hst	204
+ sl	28
+low	42
+owa	69
+wak	21
+aki	12
+kis	37
+lkl	10
+kla	243
+las	241
+m f	234
+ fu	131
+fuß	50
+ußb	43
+ßba	44
+bal	120
+ll 	267
+ mä	135
+män	60
+änn	36
+er.	308
+sai	81
+ais	149
+iso	382
+ 16	269
+16.	42
+ ju	353
+jul	106
+li 	108
+i 2	66
+5 u	17
+m 3	53
+ 31	33
+31.	19
+. m	302
+mai	171
+006	71
+06.	6
+. t	73
+ ti	186
+ite	1127
+elv	13
+lve	56
+ fc	22
+fc 	22
+c a	15
+ ar	506
+rtm	20
+tme	72
+med	123
+dia	63
+bra	245
+rat	497
+isl	40
+sla	127
+lav	22
+ava	38
+va.	1
+a.
+	21
+zeh	58
+ehn	93
+hn 	230
+ vi	360
+al 	357
+l g	67
+nei	81
+nan	298
+, z	130
+l z	68
+u h	43
+hau	487
+use	247
+d z	201
+l a	150
+usw	41
+swä	7
+wär	73
+ärt	80
+ts.	23
+ je	476
+jed	162
+tea	45
+eam	46
+bso	43
+sol	237
+olv	32
+lvi	43
+e 3	15
+ 36	18
+36 	24
+6 s	18
+le.	44
+ mf	2
+mfk	1
+fk 	6
+k r	9
+ ru	244
+ruž	1
+užo	1
+žom	1
+omb	36
+mbe	267
+ero	99
+rok	17
+ok.	2
+k. 	84
+vor	760
+orl	57
+rle	158
+lta	59
+tag	200
+ag 	195
+m 5	19
+ 5:	4
+5:0	2
+:0 	4
+0 g	31
+ fk	3
+ukl	8
+ská	2
+ká 	2
+á b	2
+bys	4
+yst	111
+ica	169
+ca.	21
+. k	107
+onk	24
+nku	69
+kur	139
+urr	23
+nt 	434
+t f	212
+va 	21
+a v	49
+erl	713
+rlo	35
+lor	123
+or 	407
+t 3	26
+ 3:	9
+3:1	3
+:1 	2
+1 g	7
+k a	64
+ as	91
+enč	1
+nčí	1
+čín	1
+ín.	1
+abg	157
+bge	127
+k m	31
+ata	93
+tad	435
+ado	31
+ pú	1
+púc	1
+úch	1
+cho	325
+hov	7
+ov.	1
+v.
+	2
+pla	266
+tzi	33
+skr	40
+kri	218
+en:	63
+: 1	13
+. p	116
+ pu	117
+e –	34
+ – 	273
+– 2	2
+ to	371
+ord	526
+rdi	174
+dif	27
+ffe	375
+z –	4
+– 3	4
+hos	75
+oss	244
+re﻿	1
+e﻿s	1
+﻿sl	1
+d t	129
+iln	31
+lna	22
+hme	318
+me 	218
+r 2	257
+. q	9
+ual	71
+lif	65
+nsr	13
+sru	25
+ ue	3
+uef	2
+fa 	7
+a c	58
+ham	109
+amp	98
+mpi	54
+pio	23
+eag	27
+agu	55
+gue	29
+ue 	111
+e 2	84
+06/	4
+6/0	3
+/07	3
+07
+	2
+fis	55
+ars	112
+ oy	1
+oyj	1
+yj 	2
+j a	2
+abp	1
+bp 	1
+p i	13
+fin	341
+nni	72
+ndw	37
+dwe	105
+rkl	92
+kli	100
+erä	46
+rät	39
+äte	210
+(ha	9
+aup	167
+upt	158
+pts	67
+tsä	33
+säc	37
+äch	236
+, ä	10
+ äx	2
+äxt	2
+xte	50
+ bo	182
+boo	26
+oot	22
+ote	160
+rne	288
+neh	159
+ehm	160
+164	13
+649	5
+49 	28
+9 v	13
+i h	31
+ ho	368
+hol	276
+llä	5
+län	162
+ndi	289
+ufl	73
+fle	53
+leu	62
+ute	334
+m k	249
+ kl	343
+kle	197
+ do	464
+rf 	58
+f n	23
+ sü	180
+süd	193
+üdf	2
+dfi	4
+ ra	270
+ras	88
+ase	74
+seb	15
+ebo	97
+bor	93
+g g	110
+grü	134
+rün	171
+ünd	161
+fan	181
+g f	103
+gte	364
+tah	19
+ahl	285
+hln	1
+lnä	2
+näg	2
+hac	16
+ack	100
+cke	501
+ken	493
+llr	8
+lrä	1
+räd	9
+äde	15
+fir	35
+irm	41
+ma 	69
+u e	178
+man	706
+anu	124
+nuf	4
+ufa	10
+fak	21
+akt	258
+ktu	80
+tur	466
+urm	66
+asc	93
+eig	335
+m h	212
+hoc	162
+hof	167
+ofe	63
+umg	71
+mge	69
+tet	572
+m q	10
+lit	341
+iv 	71
+v h	6
+chw	450
+hwe	215
+rz 	129
+z w	21
+n –	65
+– u	14
+f –	2
+– s	22
+l b	103
+erü	31
+rüh	112
+ühm	7
+hmt	12
+mt 	171
+e q	32
+hls	5
+te,	224
+dar	289
+ara	261
+mpf	111
+pfm	2
+fma	26
+sha	125
+lts	42
+tsu	20
+sut	2
+ili	317
+, k	184
+ ke	241
+ker	332
+stä	243
+tän	128
+, g	162
+ ga	269
+ln 	107
+its	274
+r 1	573
+130	11
+30 	49
+0 j	26
+efe	124
+gt 	349
+siv	53
+vem	61
+m s	581
+hl.	18
+l. 	155
+arü	22
+rüb	35
+nau	158
+s z	427
+zwi	208
+wis	300
+itl	52
+tli	655
+h s	254
+nto	88
+ pf	141
+pfl	74
+flü	66
+lüg	27
+üge	88
+ge.	53
+e.
+	192
+was	215
+rkr	61
+kra	225
+raf	230
+b v	17
+rke	339
+ief	129
+efw	1
+fwa	3
+rha	224
+afe	255
+hif	89
+ffs	22
+fsv	5
+sve	94
+rla	271
+lad	50
+adu	41
+dun	292
+ndo	158
+ort	623
+rtv	16
+tvo	17
+le,	61
+ zü	37
+züg	35
+ügi	8
+exp	41
+xpa	2
+pan	164
+rug	67
+uge	227
+r o	213
+ gi	208
+gil	40
+ilt	86
+dah	50
+ahe	74
+heu	177
+s „	77
+ „s	45
+„so	5
+oli	280
+nnl	20
+nla	158
+nds	187
+ds“	1
+s“.	15
+“. 	53
+nsa	182
+anl	103
+mus	332
+seu	76
+eum	55
+ms-	2
+elä	40
+nzj	1
+zjä	1
+jäh	58
+ähr	273
+rig	185
+m p	142
+pub	108
+ubl	110
+lik	114
+msv	3
+keh	120
+hr 	573
+ugä	3
+gän	71
+ngl	174
+lem	173
+gar	244
+enw	62
+nwe	70
+rkz	5
+kze	10
+zeu	98
+eug	125
+ z.	46
+z. 	143
+ b.	92
+b. 	148
+. ä	7
+nee	19
+ees	30
+nt.	124
+erb	560
+rbr	89
+bre	172
+m t	172
+ ty	42
+typ	59
+ypi	22
+pis	72
+h o	48
+ora	98
+far	107
+arb	466
+rbe	548
+ff.	10
+f.
+	25
+rs-	39
+s-g	10
+-gr	18
+rup	135
+upp	166
+ppe	265
+pe 	111
+ark	230
+o s	61
+t 1	218
+198	234
+986	22
+6 d	22
+ani	393
+er-	151
+r- 	36
+ult	161
+lti	83
+ito	61
+too	7
+ool	17
+olh	3
+lhe	62
+r l	425
+nda	218
+ary	29
+ry 	64
+y b	15
+bla	83
+es,	74
+t 2	133
+out	41
+utd	14
+tdo	5
+doo	103
+oor	136
+or-	10
+r-a	12
+-au	31
+usr	17
+srü	5
+rüs	27
+üst	51
+ilv	8
+lva	11
+007	63
+07 	53
+7 d	17
+ram	157
+ami	265
+mik	60
+ikh	5
+khe	25
+ ii	63
+iit	2
+tta	40
+ala	81
+la,	11
+eng	247
+sig	149
+ign	114
+gng	1
+e (	254
+(ar	10
+rab	87
+bia	19
+ia,	18
+ckm	17
+kma	52
+an)	5
+) v	38
+st.	170
+ eb	115
+enf	134
+lls	192
+alu	31
+lum	45
+umi	49
+niu	27
+ium	284
+umb	51
+mbo	23
+m m	309
+nna	117
+r-,	4
+-, 	30
+, a	410
+d r	98
+ett	207
+ttu	55
+sbo	2
+nut	123
+utz	163
+zt 	150
+rno	33
+nom	123
+ 17	170
+175	12
+758	4
+58 	22
+8 g	15
+ dä	20
+dän	15
+äni	28
+tec	138
+ofl	2
+fli	109
+ant	431
+t r	81
+raa	7
+aad	1
+adv	5
+dva	10
+vad	4
+ad.	11
+d.
+	51
+m j	322
+000	143
+00 	250
+0 w	48
+rfo	168
+a e	67
+t ü	71
+, w	532
+ wo	382
+wo 	83
+o k	21
+ ku	291
+sts	103
+tof	103
+off	194
+ffa	22
+tik	224
+kel	159
+, b	288
+t h	257
+bot	87
+ot 	62
+idg	11
+dge	43
+tsg	39
+ast	251
+lar	109
+l e	115
+gss	73
+itz	253
+tz,	32
+z, 	79
+ lo	209
+log	197
+ogi	152
+gis	189
+ik-	8
+k- 	5
+nss	51
+-ge	35
+häf	60
+äft	78
+tsa	53
+sak	18
+ivi	125
+eur	207
+uro	132
+rop	146
+opa	74
+pa.	6
+a.s	2
+.se	8
+012	49
+12 	62
+2 g	23
+ört	160
+ ro	318
+roy	14
+oya	15
+yal	14
+l c	24
+cop	16
+ope	122
+pen	217
+enh	193
+hag	45
+s-k	15
+-ko	32
+onz	112
+zer	242
+017	34
+17 	42
+7 w	41
+nt,	84
+ank	246
+nke	165
+key	44
+ey 	51
+y v	23
+m z	172
+uri	156
+tz 	298
+ es	411
+chb	80
+hbo	4
+orn	91
+(be	28
+i f	33
+ fr	804
+nkf	41
+kfu	36
+fur	45
+urt	100
+ain	156
+in)	23
+egt	216
+h f	134
+s-p	5
+-pr	36
+tai	31
+ail	75
+ils	79
+ehä	9
+här	31
+tih	1
+iha	4
+ftb	6
+tbe	67
+koh	41
+ff-	6
+f-s	4
+-st	62
+teg	37
+rad	182
+ad 	109
+n 5	19
+ 58	8
+8 h	8
+ hr	13
+hrc	2
+rc,	1
+c, 	9
+ fa	385
+unl	27
+nlö	3
+lös	72
+ösb	1
+bar	275
+ ax	6
+axt	1
+xtk	3
+tkö	3
+köp	7
+öpf	21
+pfe	121
+rdu	24
+hsc	76
+hni	174
+nit	146
+stb	28
+tba	37
+ gl	202
+gla	132
+asf	9
+sfa	20
+erv	143
+rve	87
+tär	103
+ärk	43
+rkt	82
+tem	252
+f (	11
+(fi	2
+fib	2
+ibe	121
+rgl	37
+asv	2
+ po	358
+pol	265
+oly	69
+lya	2
+yam	7
+mid	37
+id)	1
+d).	8
+). 	247
+l i	151
+wit	57
+sbe	130
+ig,	36
+g, 	322
+bru	186
+ch-	127
+h- 	7
+agf	2
+gfe	1
+fes	172
+web	23
+bsi	15
+ (s	123
+(sp	13
+he:	5
+: e	45
+nks	37
+ks 	71
+u a	54
+(br	8
+ds)	4
+) d	37
+rns	128
+ns,	47
+va
+	1
+üns	114
+see	137
+ee 	97
+ (i	40
+(it	2
+eni	148
+h l	90
+ago	44
+go 	22
+o v	27
+de)	12
+e) 	102
+) i	135
+tau	142
+üdt	4
+dti	14
+tir	22
+iro	23
+ol.	6
+uf 	877
+f e	135
+höh	97
+öhe	83
+ 25	44
+252	6
+529	3
+29 	19
+9 m	19
+ m 	43
+m u	153
+bed	117
+ckt	87
+ fl	233
+flä	46
+läc	47
+ 24	43
+4 h	6
+ekt	299
+kta	19
+rtl	49
+-al	13
+alp	33
+lpe	19
+rah	122
+mt,	11
+aru	50
+eiß	92
+ißb	8
+ßbr	17
+unn	21
+nns	120
+nsp	74
+pit	67
+ze 	122
+ (3	23
+(32	1
+325	6
+253	4
+53 	24
+3 m	13
+ m)	25
+m),	8
+ eg	13
+egg	6
+(34	3
+344	5
+443	3
+43 	26
+(33	1
+338	1
+385	3
+85 	29
+5 m	43
+m) 	30
+zuf	58
+ufr	35
+tts	14
+tsp	118
+343	2
+439	3
+39 	21
+m).	8
+flu	146
+mmt	148
+ets	47
+ebi	165
+bie	219
+iet	240
+nnf	4
+nfe	47
+gew	321
+ewä	74
+wäs	12
+äss	57
+bef	160
+efi	89
+h i	327
+nat	373
+ona	374
+nal	461
+lpa	5
+k s	33
+til	79
+ilf	51
+lfs	14
+fse	15
+r j	222
+joc	9
+aud	56
+mm 	48
+ape	88
+pez	29
+ezf	1
+zfö	3
+för	72
+örm	20
+mig	53
+que	141
+tt 	147
+t 4	24
+ 42	18
+423	2
+23 	26
+d 5	25
+ 53	7
+fel	368
+els	277
+lsg	4
+chü	75
+hüt	77
+ütt	37
+d w	268
+iti	378
+t b	382
+ble	143
+lec	76
+ged	117
+m w	225
+inf	166
+nfr	29
+mmn	1
+mnä	1
+näh	62
+ähe	39
+ lu	158
+luf	44
+tbl	11
+esp	173
+spü	3
+pül	1
+ült	14
+a k	25
+kei	393
+raß	242
+aße	255
+ße 	165
+eeb	9
+füh	313
+ühr	308
+hrt	272
+rt,	119
+rri	437
+htu	132
+mms	11
+ms 	112
+spo	124
+bau	387
+ilb	52
+lba	65
+bah	151
+ahn	182
+aum	146
+uma	55
+obe	349
+ mo	626
+mon	206
+ont	324
+t 6	14
+ 6,	8
+6,7	2
+,7 	19
+7 m	18
+mil	220
+lli	230
+kub	12
+ubi	87
+bik	9
+ikm	7
+kme	7
+r.
+	114
+stg	60
+tge	140
+kas	41
+ask	14
+kad	49
+een	52
+al.	31
+d ü	34
+ dr	351
+cks	111
+kst	57
+tol	40
+ckr	7
+roh	42
+ohr	21
+hrl	42
+m 6	13
+ 64	9
+641	1
+41 	17
+1 m	16
+rgs	19
+gse	21
+ftw	59
+twe	163
+llh	4
+lhö	4
+ ef	10
+eff	65
+fek	33
+v g	3
+ kr	365
+rks	113
+ägt	57
+0 m	106
+ mw	8
+mw.	1
+w.
+	1
+pum	10
+ump	29
+mps	8
+psp	2
+spe	172
+pei	37
+rmo	41
+mod	100
+ch,	121
+h, 	144
+, ü	19
+übl	16
+e n	512
+hts	153
+ts,	28
+vom	224
+om 	273
+gep	59
+epu	70
+mpt	14
+pt 	23
+esa	162
+amt	220
+mte	120
+196	241
+963	19
+63 	26
+3 i	37
+b g	13
+eno	106
+kes	28
+dli	194
+bsp	4
+rso	150
+rd,	30
+ee.	12
+efä	61
+fäh	69
+ehz	11
+hze	27
+hba	47
+unm	21
+nmi	25
+rer	388
+enä	1
+ hü	27
+ (r	132
+(ri	2
+ifu	7
+fug	5
+ugi	9
+gio	106
+o u	32
+rto	36
+to 	96
+o c	19
+can	58
+zia	114
+ni,	5
+i, 	65
+eeh	9
+ehü	1
+te)	16
+e).	40
+909	6
+09 	53
+9 e	27
+stm	74
+tma	98
+rba	128
+aut	342
+auu	13
+uun	18
+roc	135
+hus	46
+usk	33
+kap	85
+pel	95
+ rö	39
+röm	42
+ömi	28
+mis	179
+h-k	19
+-ka	30
+ ki	376
+kir	243
+irc	250
+m o	142
+l h	58
+hoh	56
+ohe	61
+nec	43
+adt	395
+t k	127
+rsl	11
+lau	340
+eht	161
+983	25
+83 	24
+3 a	21
+enk	219
+nkm	57
+l u	101
+hut	68
+z u	42
+ hl	12
+. r	71
+ntp	5
+tpe	4
+ewe	223
+eih	98
+iht	14
+166	69
+665	11
+65 	47
+5 w	39
+esd	27
+sdi	44
+hlo	170
+los	312
+ssk	7
+eha	109
+dan	209
+ana	236
+r „	76
+ „u	12
+„un	10
+ch“	7
+h“.	2
+156	8
+565	2
+5 f	6
+ref	60
+efo	41
+mie	112
+n c	213
+wor	172
+. 1	283
+168	15
+688	6
+88 	35
+8 w	33
+pfä	24
+älz	20
+lzi	3
+zis	46
+rbf	1
+bfo	2
+fol	351
+olg	341
+gek	57
+ekr	26
+eg 	130
+stö	87
+tör	80
+174	14
+747	1
+47/	4
+7/4	3
+/48	3
+48 	25
+ut.	36
+187	66
+877	14
+77 	24
+pfa	78
+arr	141
+rrk	9
+rki	40
+he.	47
+nzw	14
+g s	164
+k g	29
+ewa	103
+wac	73
+hse	187
+u k	34
+ewo	61
+o b	38
+189	77
+896	7
+96/	4
+6/9	3
+/97	3
+97 	36
+uti	141
+ugo	4
+oti	78
+l n	44
+ pl	129
+plä	26
+äne	27
+hit	95
+tek	43
+lud	51
+udw	34
+dwi	84
+wig	86
+g b	154
+bec	51
+ebt	85
+bte	98
+seh	155
+wec	119
+lvo	5
+m c	46
+ cä	2
+cäc	2
+äci	2
+cil	10
+env	50
+zt,	38
+spä	186
+pät	179
+e j	151
+lee	20
+eer	61
+970	44
+70 	56
+0 u	45
+985	17
+imm	240
+maß	42
+aßn	13
+ßna	13
+usu	5
+sub	24
+ubs	18
+z v	49
+frü	100
+ühe	57
+90e	15
+0er	89
+aur	56
+chg	70
+hge	55
+efü	76
+rpu	18
+put	65
+saa	30
+aal	18
+au 	212
+u m	45
+dre	249
+hor	97
+ os	125
+ lä	113
+ätb	3
+ock	208
+ck 	179
+k t	9
+dst	47
+ng.	147
+ ec	38
+h p	51
+ pi	255
+pil	25
+rvo	31
+eho	18
+hob	33
+gie	294
+lse	64
+ndb	51
+dbo	10
+bog	29
+eif	74
+ifl	4
+eli	209
+ tü	32
+tür	68
+ürb	1
+rbl	32
+att	500
+tt,	27
+hlu	147
+sss	15
+aug	171
+fla	88
+nki	28
+kie	62
+nnb	15
+nba	117
+ar,	65
+ ok	121
+oku	34
+ulu	7
+ieß	231
+eßl	59
+ßli	61
+h e	338
+okt	117
+kto	172
+tog	25
+ogo	15
+gon	24
+elr	27
+lre	62
+tzh	3
+zhe	5
+elm	143
+lm.	6
+m. 	122
+sac	101
+je 	55
+rds	30
+dse	17
+üds	7
+te.	273
+irn	34
+us.	96
+s.
+	92
+arg	65
+g a	269
+ em	67
+emp	93
+mpo	66
+ift	250
+höl	26
+ölz	6
+dsä	6
+säu	33
+äul	13
+ule	123
+lac	75
+hlk	11
+lke	102
+ehl	49
+um.	42
+nak	7
+ätr	1
+tro	342
+oko	29
+kok	5
+ko 	8
+d u	201
+177	10
+770	4
+70.	5
+0. 	99
+ufs	73
+fst	32
+soc	21
+18.	51
+aff	88
+nga	163
+hga	13
+t o	86
+edu	26
+nkr	57
+kre	244
+reu	203
+euz	72
+uz 	27
+z m	13
+kor	80
+orp	44
+pus	15
+t j	70
+ jü	41
+jün	20
+üng	48
+atu	182
+tum	92
+z s	31
+auß	97
+uße	131
+ßer	152
+e ä	31
+ äl	43
+ält	124
+ eh	168
+hem	177
+ema	235
+edh	25
+dho	33
+of.	4
+cas	46
+asp	34
+spa	131
+ry,	7
+y, 	56
+wol	86
+olf	56
+lfg	23
+fga	46
+ gö	23
+göt	22
+ötz	9
+ ek	2
+ekk	7
+kka	15
+bea	74
+ear	57
+rb.	12
+b.)	2
+: r	22
+ rh	48
+nd-	34
+d-p	14
+-pf	9
+alz	51
+lz/	1
+z/s	1
+/sa	1
+aar	53
+nd.	119
+. (	43
+ (=	27
+(= 	26
+= g	3
+deh	17
+ehi	43
+io(	1
+o(†	1
+(†)	1
+†):	1
+: h	38
+dbu	23
+std	12
+tde	55
+kmä	16
+mäl	23
+äle	20
+er)	43
+r),	12
+stv	22
+tve	53
+ag,	58
+984	19
+84,	9
+,  	13
+  s	9
+ 37	10
+379	1
+79
+	1
+a o	20
+ oe	6
+oex	1
+exn	2
+xne	2
+= b	4
+ 14	99
+14,	16
+lto	12
+top	84
+opo	49
+pog	5
+esr	11
+sre	56
+rep	109
+ik 	203
+lz)	1
+z),	3
+lpf	6
+ge,	61
+ft,	35
+rms	30
+996	32
+96,	11
+6, 	50
+158	13
+58–	3
+8–1	12
+–16	11
+160	16
+60
+	1
+hwa	153
+h w	154
+adi	94
+ (o	61
+(or	8
+el:	14
+l: 	23
+: n	15
+nev	13
+eve	66
+wea	2
+eak	37
+ us	136
+us-	110
+s-a	57
+-am	47
+urz	99
+rzf	26
+zfi	9
+fil	188
+ilm	183
+lm-	5
+m-k	2
+omö	7
+möd	6
+ödi	10
+umm	36
+mmf	2
+mfi	1
+lmä	32
+mär	94
+ära	13
+a m	64
+old	108
+ld 	284
+ ll	5
+llo	49
+loy	8
+oyd	7
+yd 	3
+ptr	11
+roß	170
+oßs	7
+ßst	10
+dt:	5
+t: 	67
+: i	15
+chh	44
+hha	17
+ld,	29
+jun	140
+ldr	13
+ed,	4
+mäd	2
+ädc	2
+dch	2
+ bü	98
+bür	67
+üro	19
+din	159
+gs 	156
+ kü	87
+küm	2
+ümm	5
+m i	217
+ ih	407
+ihr	272
+it,	55
+ttd	7
+fti	45
+in,	84
+g ü	37
+rof	67
+bew	220
+mac	156
+ za	102
+zar	34
+usl	39
+sli	48
+hrd	9
+eds	22
+ds 	105
+hef	31
+ef 	48
+– e	20
+arz	97
+rzt	31
+teo	7
+eop	17
+pat	77
+ntl	182
+tla	58
+wil	179
+ll,	23
+weg	202
+lnd	13
+dsc	61
+eza	6
+zah	138
+nn.	45
+rhi	96
+ nä	79
+nn,	44
+r r	384
+: m	27
+hlr	56
+vis	67
+nka	231
+gal	72
+ks,	11
+itw	36
+ufm	15
+fme	6
+ksa	45
+amk	20
+mke	18
+liz	55
+ ri	210
+ieh	122
+ßen	300
+eko	50
+arf	41
+f i	37
+beh	134
+h h	100
+eir	74
+ira	72
+doc	138
+n ü	119
+iß:	1
+ß: 	2
+s ä	12
+rud	62
+ude	175
+chz	37
+tsz	29
+rem	182
+emo	47
+nie	456
+chf	71
+hfü	3
+ll.	37
+stü	147
+ürz	44
+d n	168
+un 	62
+tmo	12
+mor	384
+– z	6
+unä	77
+näc	106
+gif	9
+ftt	3
+ttr	14
+nk,	7
+k, 	108
+tiz	19
+izh	2
+zha	23
+rsp	115
+pru	28
+– d	34
+usf	37
+sfü	18
+hru	129
+enb	278
+nbi	24
+osi	97
+so,	2
+o, 	53
+rot	136
+otü	1
+fge	123
+eto	39
+ton	204
+onb	11
+ of	222
+ro,	8
+f s	72
+tuh	12
+uhl	14
+l v	96
+dra	72
+itg	140
+sui	9
+uiz	1
+zid	5
+ida	56
+dal	40
+nim	28
+ab 	219
+b u	28
+l (	48
+(de	19
+sad	11
+ses	147
+rt)	11
+t) 	38
+ wä	170
+wäh	229
+ähn	74
+hnt	75
+him	34
+mel	113
+jaz	4
+azz	14
+zzb	1
+zba	8
+dac	54
+un,	4
+h ü	32
+bt.	17
+. 
+	122
+wag	50
+agh	7
+gha	29
+lsi	18
+ kä	35
+käm	38
+ämp	40
+pft	23
+tüc	52
+ück	330
+chö	40
+höp	13
+ebä	47
+bäu	47
+äud	45
+an.	68
+ssv	3
+ndn	18
+dni	18
+m „	36
+ „a	40
+„an	5
+nn“	3
+n“,	14
+klä	79
+lär	93
+uf.	58
+f. 	72
+eg.	14
+g.
+	65
+yd,	1
+nsc	527
+eße	79
+ndf	25
+dfü	3
+fül	29
+elf	117
+lfi	67
+lm 	115
+zuw	21
+uwa	11
+urü	83
+rüc	256
+ckk	12
+kke	14
+sem	110
+wid	42
+idm	16
+dme	25
+hhä	3
+äus	47
+rn,	74
+elc	43
+lch	80
+ngf	12
+gfi	4
+lme	90
+er!	2
+r! 	1
+! w	2
+i v	40
+lmk	4
+mkr	12
+yd.	1
+exi	84
+xik	33
+eb:	4
+: „	32
+ „l	17
+„ll	1
+yds	1
+lm,	10
+m, 	104
+sfi	7
+zwa	61
+lgr	19
+gre	219
+ va	139
+var	35
+iie	23
+onn	179
+e.“	5
+.“
+	5
+lgo	20
+grö	106
+röß	102
+ößt	42
+ßte	56
+ (m	64
+(mi	29
+ „v	21
+„vi	5
+vil	70
+lla	125
+ge“	13
+e“)	9
+“) 	27
+m  	2
+  k	2
+kew	5
+wau	6
+aun	68
+une	85
+cou	96
+oun	78
+nty	48
+ty 	105
+y i	45
+taa	112
+aat	113
+sco	51
+con	89
+in.	110
+0 h	20
+hat	338
+a 3	13
+316	3
+167	56
+67 	45
+7 e	20
+inw	104
+nwo	63
+r.a	1
+.al	4
+olr	2
+reg	358
+m d	484
+ree	49
+bay	73
+ay.	5
+y.
+	8
+ ah	16
+hna	38
+nap	28
+pee	17
+riv	53
+hig	102
+r-h	9
+-ha	22
+ay 	51
+afi	40
+koo	13
+d 4	24
+ 44	14
+44°	2
+4°3	1
+°36	1
+36′	1
+6′3	1
+′32	1
+32″	1
+2″ 	1
+″ n	5
+ nö	45
+nör	41
+örd	118
+rdl	43
+d 8	14
+ 87	6
+87°	1
+7°2	1
+°25	1
+25′	1
+5′5	1
+′57	1
+57″	1
+7″ 	1
+″ w	4
+dtg	16
+n 6	23
+6,5	3
+,5 	35
+5 k	35
+ km	90
+km²	14
+m².	6
+². 	4
+ror	35
+ (1	170
+(19	66
+19,	8
+9,1	3
+,1 	18
+1 k	18
+km 	70
+dsü	4
+üdw	40
+h),	19
+, c	50
+co 	32
+o (	22
+(16	8
+16,	6
+6,9	5
+,9 	20
+9 k	20
+rue	9
+uem	4
+emm	27
+rvi	35
+(3 	1
+3 k	18
+kod	3
+oda	25
+ (9	6
+(9,	1
+rdw	40
+tvi	3
+(10	14
+10,	23
+0,3	7
+,3 	20
+rdn	70
+dno	5
+urg	392
+eon	13
+(27	2
+27,	5
+7,7	4
+7 k	18
+h).	13
+öße	62
+täd	36
+ädt	35
+ilw	31
+lwa	14
+auk	27
+uke	3
+kee	6
+98 	27
+8 k	24
+üdl	33
+cag	11
+o i	87
+noi	11
+ois	39
+44 	34
+4 k	16
+g),	8
+mad	34
+276	2
+76 	20
+6 k	17
+ (5	9
+(51	1
+51,	10
+1,4	5
+,4 	12
+igh	58
+ghw	16
+way	25
+42 	29
+2 u	15
+ 54	7
+54 	28
+n ö	50
+ ös	102
+öst	175
+ndp	7
+dpu	1
+dne	53
+unb	49
+nbe	192
+fah	181
+hrw	16
+erö	122
+rör	3
+rlä	53
+läu	77
+rai	86
+l t	23
+adf	9
+dfa	5
+eem	13
+mob	20
+obi	54
+ sk	57
+ski	123
+n.d	15
+.di	21
+lug	57
+ugh	22
+ghä	1
+äfe	13
+aub	136
+ube	81
+ ai	24
+air	28
+irp	9
+rpo	24
+ (6	15
+(68	2
+68 	52
+itc	6
+tch	18
+208	3
+08 	56
+ksz	16
+szä	14
+g i	242
+0 l	18
+140	6
+406	5
+bev	92
+evö	60
+völ	81
+ölk	70
+gsd	22
+ug 	95
+g 4	4
+ 48	13
+87,	6
+7,2	4
+,2 	21
+2 e	26
+ro 	54
+o q	4
+atk	9
+tki	14
+kil	72
+ilo	119
+lom	87
+h j	29
+ 2,	30
+2,2	5
+,21	1
+21 	25
+1 p	11
+eth	83
+thn	31
+s 9	9
+ 95	8
+95,	4
+5,1	3
+roz	87
+oze	95
+iße	39
+, 0	7
+ 0,	15
+0,9	6
+9 p	10
+ af	27
+afr	35
+fro	43
+roa	30
+oam	5
+ane	171
+0,6	2
+,6 	19
+6 p	11
+ ur	153
+ure	148
+3 p	17
+sia	27
+iat	56
+2,1	2
+; 1	13
+ 1,	29
+1,1	3
+i o	10
+ab.	38
+. u	101
+öri	28
+igk	167
+gke	163
+2,9	5
+mmu	122
+mun	211
+21,	5
+1,0	3
+,0 	10
+0 p	37
+18 	59
+8 j	7
+lt,	71
+, 5	12
+58,	3
+8,3	2
+8 u	26
+d 6	14
+64 	20
+4 u	30
+20,	9
+0,7	4
+7 p	6
+ 65	14
+5 j	12
+r ä	33
+. 5	28
+4 p	12
+ jä	21
+rli	338
+i 4	8
+ 43	11
+43.	2
+3.3	2
+.30	2
+304	2
+04 	46
+usd	49
+sd.	6
+ro-	14
+o-k	9
+kop	104
+opf	59
+pf-	4
+f-e	5
+-ei	15
+g 2	27
+ 21	45
+21.	27
+1.1	2
+.19	7
+193	139
+93 	31
+3 u	21
+13,	16
+3,2	3
+2 p	16
+lb 	60
+arm	156
+rmu	53
+mut	71
+sgr	32
+ze.	19
+k f	26
+anc	90
+chm	124
+hmi	51
+192	157
+923	19
+23–	1
+3–2	5
+–20	13
+011	51
+11)	4
+) -	1
+- f	2
+of 	237
+f v	59
+arq	2
+rqu	14
+uet	7
+e -	7
+- g	2
+ma
+	1
+(64	3
+648	5
+481	4
+81)	4
+) t	11
+roi	29
+oid	20
+id 	63
+ptg	9
+tgü	3
+gür	7
+ürt	38
+ls,	17
+m 9	22
+ 9.	26
+9. 	108
+sep	140
+ept	136
+pte	108
+emb	240
+988	25
+8 v	12
+ ts	52
+ono	50
+oní	11
+nín	11
+ín 	2
+ mr	3
+mrk	1
+rko	35
+leť	1
+eť-	1
+ť-o	1
+-ob	11
+obs	21
+bse	14
+rva	36
+vat	123
+riu	72
+m (	24
+(ia	4
+iau	4
+au-	18
+u-c	4
+-co	12
+e 0	3
+ 04	1
+046	4
+46)	3
+6) 	13
+) b	27
+i č	1
+ če	4
+čes	3
+esk	24
+ský	12
+ký 	11
+ý k	1
+kru	17
+uml	24
+mlo	8
+lov	20
+ov 	2
+v e	4
+ntd	28
+de.	144
+äti	83
+orh	46
+hon	110
+: a	60
+17.	33
+7. 	83
+ugu	137
+gus	123
+195	144
+950	34
+50 	59
+rov	44
+sor	114
+0 q	3
+ qk	1
+qk)	1
+k) 	6
+) a	62
+goe	4
+oet	16
+he-	15
+e-l	10
+-li	20
+nk-	7
+k-o	1
+na,	116
+tob	136
+978	88
+78 	24
+8 (	9
+ uc	5
+uc3	1
+c3)	1
+3) 	13
+pal	35
+ar-	17
+r-o	7
+ifo	37
+m 2	150
+ 28	41
+981	24
+81 	33
+1 (	12
+1 s	22
+ sv	5
+sv5	1
+v5)	1
+5) 	18
+rim	46
+im-	4
+m-o	3
+hny	2
+nyj	1
+j s	2
+20.	33
+feb	63
+ebr	141
+rua	64
+uar	190
+987	18
+87 	18
+7 (	13
+da)	18
+a) 	47
+jap	58
+apa	75
+toy	3
+oyo	6
+yot	11
+ta.	7
+a.m	1
+.mi	3
+ntf	34
+tfe	35
+rnu	27
+ (g	49
+(gr	8
+oße	106
+bac	143
+se)	24
+e),	37
+exz	3
+xze	3
+riz	19
+zit	32
+neb	137
+n ä	21
+ äh	29
+hnd	5
+tgl	110
+flo	45
+ra-	14
+a-f	2
+-fa	9
+fam	86
+ie,	69
+h (	34
+ (8	7
+(8)	1
+8) 	19
+) f	18
+hnr	7
+nre	48
+eso	105
+n 4	34
+ 4:	5
+4:9	1
+:9 	1
+ne.	54
+iad	9
+adn	4
+ne-	24
+e-f	9
+ (4	17
+(43	1
+43)	5
+nep	8
+epa	70
+les	158
+gst	107
+g n	91
+rga	162
+gay	1
+191	139
+914	19
+14–	4
+4–1	11
+–19	52
+86)	3
+953	16
+3 g	13
+ ed	38
+edm	3
+dmu	3
+d (	50
+(31	2
+313	3
+30)	7
+0) 	19
+) h	10
+st,	97
+mou	16
+ ev	55
+nnu	83
+lgt	118
+loš	1
+oš 	5
+š t	1
+chý	2
+hý 	2
+ý d	2
+nio	46
+au)	8
+ 23	49
+ove	171
+999	42
+99.	6
+9.
+	20
+ sm	17
+ll-	24
+l-b	17
+-bo	25
+bod	38
+ody	4
+y d	21
+aba	47
+s j	138
+jet	47
+opu	16
+pul	36
+uls	16
+lab	33
+abo	17
+ory	27
+nas	32
+asa	36
+sa 	49
+a a	63
+cal	67
+nia	36
+tut	56
+f t	40
+hno	27
+nol	45
+olo	216
+ogy	5
+gy 	8
+ (c	39
+(ca	9
+pas	94
+(en	26
+h)
+	4
+ald	137
+ zh	22
+zh 	5
+zür	26
+ürc	15
+ rü	81
+rüt	7
+üti	14
+r c	132
+kam	220
+öme	10
+m r	185
+ ir	30
+irg	14
+fäf	1
+äff	2
+ffi	58
+fun	161
+nbr	27
+hs 	101
+mön	2
+önc	2
+d c	57
+col	45
+mba	35
+eiz	81
+iz.	3
+ta 	85
+urk	71
+121	4
+217	1
+rwä	27
+a g	56
+üri	26
+3 w	39
+rbo	53
+19.	47
+fei	64
+eie	131
+urf	34
+rft	22
+zed	21
+dik	28
+180	40
+807	3
+ubt	10
+u f	40
+nos	74
+184	67
+848	13
+ssu	73
+sun	135
+ns-	33
+gsf	25
+sfr	26
+ihe	62
+sod	12
+ufb	43
+fba	35
+ng,	155
+tss	26
+huf	10
+uf,	30
+f, 	73
+ zo	45
+iz,	4
+i 1	185
+866	8
+66 	34
+gas	101
+sth	35
+ilg	5
+eg,	12
+ürn	17
+rnt	43
+ti 	22
+i z	25
+apu	8
+puz	6
+uzi	51
+rpa	28
+atr	63
+klo	38
+app	100
+rsw	8
+hur	14
+enü	49
+nüb	46
+rpf	23
+eel	46
+lso	66
+u ü	10
+rm 	102
+ut,	21
+870	7
+70e	14
+nlä	25
+ior	32
+r-d	14
+-de	18
+fsw	5
+ias	36
+aue	305
+uen	145
+hlt	111
+elp	35
+lpu	6
+fab	18
+abr	38
+bri	151
+hot	38
+otz	27
+f z	35
+ oc	17
+ufe	162
+ätt	42
+anb	21
+önn	109
+872	10
+72 	35
+2 w	43
+rwo	8
+hnl	36
+nli	221
+ebn	32
+bnö	1
+öth	4
+r-g	5
+-gu	3
+gub	2
+lma	74
+ahi	11
+ura	107
+hnh	41
+ld.	27
+ 6.	30
+874	11
+74 	37
+4 w	36
+glo	61
+loc	70
+ gu	177
+gua	17
+seg	22
+egn	32
+gne	66
+lki	16
+eba	88
+lyg	3
+ygo	2
+or.	36
+uff	62
+ffo	9
+ttw	11
+rgä	58
+änz	30
+nzt	49
+188	56
+887	7
+ltä	12
+äre	80
+usm	7
+orr	315
+ms.	16
+rho	71
+olz	54
+lz 	23
+b 1	59
+882	13
+82 	26
+il,	18
+ltg	14
+gei	29
+i e	87
+883	7
+eu 	38
+ut;	1
+t; 	32
+rrh	7
+ewi	134
+a d	133
+nza	44
+eti	90
+upl	12
+z f	10
+esu	102
+suc	185
+915	8
+15 	70
+z a	57
+ft.	63
+920	33
+20 	66
+0 e	52
+rb 	57
+h-s	11
+-so	16
+soz	102
+ozi	104
+nsh	19
+mga	9
+wod	10
+rfü	64
+füg	46
+ügu	12
+0 f	11
+onl	143
+ams	24
+msp	8
+s ö	25
+ öf	57
+öff	166
+eke	22
+ntn	23
+tni	47
+deb	78
+dit	79
+l r	25
+esg	13
+htl	45
+3 o	5
+nsb	59
+925	12
+25 	31
+5 g	15
+alv	31
+rsa	77
+mml	32
+mlu	27
+jos	81
+ose	177
+eph	62
+hwy	6
+wyz	1
+yz 	1
+z e	39
+926	11
+26 	18
+6 f	5
+egu	110
+egl	94
+ize	73
+tt.	36
+927	23
+27 	25
+en-	114
+n-k	19
+-ki	17
+ur,	20
+üne	39
+ck,	42
+n „	80
+ „e	38
+„er	12
+sbl	7
+blä	18
+lät	30
+rn“	3
+n“ 	59
+“ v	17
+vik	16
+i u	60
+sef	23
+efs	6
+fsk	5
+hrz	54
+954	23
+ntu	51
+ues	38
+fün	77
+ünf	84
+nfs	1
+tim	140
+mmi	43
+äut	22
+m 7	18
+ 7.	25
+hul	141
+uld	25
+efr	49
+f c	23
+cam	32
+nad	29
+ada	50
+r ö	35
+h-r	7
+-re	46
+nk 	38
+anp	10
+npa	17
+rgi	120
+iek	10
+zil	8
+roj	48
+oje	49
+jek	64
+969	37
+9 a	21
+i j	43
+dag	35
+, r	67
+l w	76
+umf	56
+mfa	47
+rzo	32
+973	26
+73 	48
+4 f	9
+inb	63
+el.	49
+. 2	93
+06–	2
+6–2	4
+008	64
+t.d	6
+ 2'	1
+2'9	1
+'94	1
+949	10
+(st	38
+17)	4
+7) 	14
+rom	125
+he,	43
+z j	13
+jes	12
+su 	12
+u z	16
+h-w	9
+-wi	9
+wet	54
+zik	2
+pet	126
+mbr	10
+gsh	26
+cki	41
+kig	12
+ tu	100
+rmh	3
+mha	8
+gut	65
+ut 	150
+paa	28
+fs 	24
+two	44
+muh	1
+uhr	62
+15.	31
+5. 	88
+ärz	81
+z 1	67
+4 v	18
+12.	28
+ h.	25
+rüe	2
+üet	2
+hi 	14
+ aa	34
+u g	63
+gos	9
+ äu	21
+ufo	8
+a r	32
+i ü	6
+rdr	25
+reh	46
+ht,	72
+urs	156
+prü	57
+ss.	19
+f m	42
+ wü	61
+wür	91
+lka	26
+api	138
+pt-	1
+t- 	22
+ruh	67
+uhe	42
+ sä	62
+nkl	49
+lzk	3
+zka	10
+ke,	28
+brü	100
+h k	98
+dau	164
+hma	52
+939	17
+9 w	30
+nbä	2
+änk	51
+ske	36
+rey	10
+y a	41
+hmü	5
+müc	5
+kt.	29
+ttv	1
+tva	1
+edl	94
+194	158
+945	34
+45 	37
+enr	70
+nra	38
+esm	7
+smu	118
+utt	82
+hmu	32
+muc	5
+ck.	41
+mts	29
+972	28
+72–	1
+2–1	13
+num	57
+9 n	5
+zep	51
+003	37
+03 	36
+3 e	29
+uzw	3
+ti.	4
+tue	31
+enp	50
+ta,	14
+928	14
+28 	27
+8 e	25
+173	13
+736	3
+36,	2
+äth	4
+th 	82
+au,	31
+u, 	53
+olt	48
+hde	52
+ei,	23
+935	14
+35 	28
+5 p	20
+ife	51
+nua	86
+ped	22
+eda	94
+mec	30
+ltr	41
+lek	71
+ktr	63
+mbi	42
+24.	21
+er:	56
+r: 	63
+h 2	25
+07.	8
+7.
+	27
+ (*	98
+(* 	99
+* 1	48
+10.	39
+dez	83
+zem	91
+948	13
+8 i	34
+rtw	11
+ftl	82
+uto	156
+d j	57
+jou	16
+our	122
+urn	61
+poz	3
+ozn	2
+zna	8
+nań	2
+ań 	2
+ń s	1
+ ph	119
+oso	59
+sop	68
+oph	113
+ pä	10
+päd	26
+äda	19
+gog	24
+gik	8
+ik.	30
+omo	65
+5 a	30
+lpo	11
+oln	30
+lni	27
+sok	4
+kol	66
+olb	7
+wup	19
+l.e	1
+.er	6
+zul	33
+dir	66
+ire	106
+rek	94
+or,	40
+tsf	20
+sfe	41
+ u.	58
+u. 	90
+ a.	72
+igr	32
+rg,	49
+rth	87
+köl	40
+öln	40
+lil	9
+ ia	7
+i (	31
+(ru	10
+umä	21
+n).	32
+004	53
+4 b	24
+sso	67
+aka	48
+emi	185
+mia	27
+ wy	3
+wyc	1
+ych	81
+how	18
+a f	32
+izy	2
+zyc	1
+ycz	4
+czn	5
+zne	4
+neg	19
+„ak	1
+kör	83
+örp	82
+rpe	108
+rzi	80
+ng“	28
+g“)	6
+ń u	1
+rtg	14
+igs	83
+gor	39
+orz	35
+rzó	1
+zów	1
+ów 	2
+w w	5
+ols	22
+lsk	30
+ki.	8
+9 d	22
+doz	6
+isw	5
+sw 	5
+w b	7
+usi	124
+hoo	12
+ol 	38
+11 	64
+1 b	33
+rpl	17
+anm	10
+nmä	12
+mäß	77
+äßi	61
+ßig	68
+rt-	11
+t-l	9
+-lu	9
+s-u	10
+-un	28
+rg.	35
+shi	46
+lfe	59
+fe,	19
+015	38
+15,	8
+omr	3
+mra	5
+at/	1
+t/g	1
+/ga	1
+gag	19
+aga	42
+gau	17
+auz	8
+z y	1
+ ye	6
+yer	88
+ri.	4
+i.
+	18
+lid	20
+arn	118
+noś	4
+ość	2
+ść-	1
+ć-b	1
+-be	47
+slä	17
+ntm	8
+ (z	63
+(z.	38
+bad	117
+dfu	17
+k (	20
+nk)	1
+ tä	55
+ig.	64
+99 	41
+9 u	14
+3 l	2
+ it	46
+li.	6
+ebu	126
+(ra	4
+ave	51
+a –	6
+– r	6
+imi	46
+i –	2
+urb	41
+no)	1
+o) 	13
+gnu	25
+no 	60
+o g	45
+ra,	17
+ehb	13
+hbu	13
+fed	13
+ico	39
+o f	21
+is,	46
+kfe	7
+fea	6
+eat	94
+mag	108
+agn	55
+poe	14
+opä	31
+päi	24
+äis	28
+no.	8
+o. 	53
+ nd	5
+dr 	9
+ sw	8
+swr	9
+wr 	4
+tth	56
+hia	37
+eft	16
+jud	22
+new	66
+ew 	70
+w y	35
+ yo	56
+yor	36
+ork	57
+k p	12
+nzy	5
+zyk	6
+ykl	4
+lop	19
+ädi	18
+jew	58
+ews	19
+ws 	10
+ ea	14
+eas	32
+pe.	8
+g p	20
+uel	102
+büc	37
+üch	66
+fsä	7
+sät	59
+k v	37
+pa 	15
+efl	10
+röf	98
+feu	47
+eui	7
+uil	14
+tep	20
+o z	23
+mol	25
+lda	34
+u r	18
+iew	23
+ewp	1
+wpa	1
+rtn	29
+tne	45
+rtp	6
+tpo	7
+ dl	3
+dlf	1
+lf,	5
+wr,	1
+dr,	3
+drs	1
+(sc	12
+iz)	1
+z) 	7
+boa	16
+oar	16
+t "	2
+ "p	5
+"ph	1
+phy	33
+hys	24
+duc	11
+uca	6
+cat	28
+hea	81
+eal	66
+lth	17
+h c	29
+cul	9
+oci	20
+cie	22
+ety	5
+ty"	1
+y" 	1
+" d	2
+esy	6
+sya	1
+ya 	9
+ uk	8
+ukr	16
+ka 	74
+pea	25
+ean	48
+ity	75
+lhy	1
+hyn	1
+yni	2
+okó	1
+kół	1
+ół“	1
+ł“ 	1
+“ i	30
+h 1	46
+884	12
+84–	2
+39.	5
+7, 	62
+-88	19
+886	5
+660	6
+60-	3
+0-3	14
+-36	2
+366	5
+66-	7
+-0 	2
+= m	1
+ 4,	15
+ugl	25
+fu 	1
+6).	15
+t –	27
+– v	7
+hrg	12
+oke	9
+nk.	6
+tmi	5
+pa,	4
+tmu	16
+00,	11
+3-9	30
+-92	8
+232	5
+329	4
+293	4
+3-6	8
+-61	3
+61-	2
+1-5	10
+-5.	10
+5.
+	29
+– t	8
+ürk	27
+001	50
+01,	14
+1, 	63
+-82	9
+825	16
+258	6
+8-5	3
+-52	8
+521	2
+214	6
+14-	11
+4-8	4
+-8.	12
+8.
+	22
+ ad	97
+umt	8
+mtr	2
+ oa	5
+oas	5
+se,	45
+03,	12
+3, 	69
+889	6
+892	9
+922	10
+22-	5
+2-0	10
+-05	3
+056	1
+56-	7
+6-8	8
+8.a	1
+r:
+	6
+law	25
+awi	7
+ism	156
+991	35
+91,	8
+3-3	7
+-32	5
+32-	5
+2-1	13
+-1.	13
+rel	102
+eß-	3
+ß-s	2
+tüb	10
+ltm	56
+nsw	29
+06,	14
+-83	7
+834	5
+340	5
+40-	9
+0-0	10
+-01	9
+016	37
+165	33
+65-	3
+5-1	7
+– i	13
+g h	49
+izo	10
+zon	26
+erc	42
+rcu	9
+08,	14
+8, 	63
+n 9	79
+ 97	66
+78-	61
+8-3	57
+-3-	51
+466	2
+6-6	1
+-6.	8
+6.
+	23
+– n	17
+iol	38
+onf	30
+nfl	57
+wai	11
+aic	5
+ic.	4
+033	4
+336	2
+36-	3
+6-2	5
+-2.	8
+lfa	30
+bow	13
+ows	28
+wsk	43
+s &	6
+ & 	41
+& a	3
+ ap	130
+aps	14
+pse	9
+ m.	21
+-86	13
+860	10
+609	2
+099	4
+99-	7
+9-6	2
+614	1
+4-0	7
+-0.	9
+0.
+	27
+ „j	15
+„ja	4
+er“	10
+r“.	2
+ofi	26
+fit	6
+dle	45
+ op	87
+z p	8
+ött	20
+tti	63
+12,	15
+2, 	83
+-89	18
+895	11
+533	3
+33-	8
+-87	16
+72-	4
+2-4	5
+-4.	13
+nz.	16
+h-p	5
+-po	19
+h-u	7
+-uk	1
+llg	43
+ba.	3
+014	44
+3-7	16
+-73	5
+730	3
+307	3
+07-	2
+-00	16
+083	1
+83-	4
+-9.	10
+ng:	26
+g: 	34
+: v	14
+lim	69
+imo	42
+mow	5
+ki 	47
+lew	15
+dow	22
+tef	10
+efu	23
+dos	48
+esl	36
+ga:	2
+esz	15
+ldu	72
+14.	39
+: w	26
+a z	31
+fbr	15
+(zu	15
+ hu	99
+huh	9
+uhn	3
+hn)	3
+n):	2
+i -	1
+- d	5
+dop	23
+opp	45
+lsp	46
+(ht	4
+htt	14
+ttp	9
+tp:	4
+p:/	4
+://	7
+//w	7
+/ww	8
+www	10
+ww1	1
+w1.	2
+1.w	1
+.wd	1
+wdr	3
+dr.	19
+r.d	4
+.de	23
+de/	7
+e/r	1
+/ra	1
+io/	1
+o/w	1
+/wd	1
+dr5	1
+r5/	1
+5/s	1
+/se	2
+en/	6
+n/n	2
+/ne	2
+nue	9
+ueg	1
+gt/	1
+t/e	1
+/er	1
+st-	35
+t-w	15
+ki-	7
+i-1	1
+-10	7
+100	53
+00.	21
+0.h	1
+.ht	4
+htm	13
+tml	6
+ml)	1
+l),	10
+ wd	1
+r 5	24
+ 5,	17
+:  	1
+  "	1
+ "e	3
+"et	2
+er"	1
+r" 	2
+" -	1
+- i	1
+lüc	36
+smi	68
+fus	10
+ssb	25
+ww.	9
+w.b	2
+.bp	2
+bpb	2
+pb.	2
+e/g	2
+/ge	2
+ft/	1
+t/s	1
+/sp	1
+rt/	5
+t/b	1
+/bu	1
+ga/	1
+a/1	1
+/15	3
+155	7
+559	2
+590	1
+901	4
+01/	1
+1/i	1
+/in	2
+on-	51
+n-i	4
+-in	38
+n-f	7
+-fl	7
+lue	14
+uec	3
+on)	18
+n),	30
+lym	59
+ymp	72
+pia	21
+üdk	3
+dko	5
+rea	125
+ea:	2
+: "	3
+"pe	2
+büh	35
+ühn	39
+ltp	14
+ik"	1
+k",	1
+", 	6
+prä	130
+räc	16
+be,	23
+jan	109
+018	26
+w.d	2
+k.d	4
+e/o	2
+/ol	2
+ia-	4
+a-i	1
+n-s	32
+-su	10
+sue	5
+ued	2
+edk	1
+ea-	4
+a-p	3
+-pe	8
+te-	15
+e-b	17
+-bu	20
+bue	3
+ueh	1
+-fu	3
+fue	1
+-di	19
+ie-	22
+e-w	2
+-we	46
+k.1	1
+.13	6
+346	3
+46.	4
+6.d	2
+e.h	4
+ml?	2
+l?d	2
+?dr	2
+am:	2
+m:a	2
+:ar	2
+icl	3
+cle	14
+le_	3
+e_i	2
+_id	2
+id=	5
+d=4	2
+=40	1
+408	3
+088	3
+868	18
+68)	6
+8).	7
+tps	4
+ps:	4
+s:/	3
+w.s	1
+.sw	1
+wr.	1
+e/s	1
+/sw	2
+wr2	2
+r2/	1
+2/p	1
+/pr	4
+rog	96
+mm/	1
+m/s	2
+n/s	1
+r2-	1
+2-f	1
+-fo	5
+um/	1
+m/k	1
+/kr	1
+le-	36
+e-i	10
+n-r	15
+-ru	9
+ssl	42
+d-w	5
+e-p	13
+h-i	2
+-is	1
+t-d	6
+l-w	4
+-wm	1
+wm/	1
+m/-	1
+/-/	1
+-/i	1
+/id	1
+d=6	2
+=66	2
+602	4
+021	3
+14/	5
+4/d	2
+/di	3
+d=2	1
+=21	1
+218	5
+185	38
+855	6
+558	1
+589	3
+92/	1
+2/n	1
+/ni	2
+nid	6
+/dh	1
+dhe	31
+hev	6
+evq	1
+vq8	1
+q8/	1
+8/i	1
+dex	2
+ex.	1
+x.h	1
+ml 	2
+l k	26
+ll?	1
+l? 	1
+? (	1
+lt)	2
+t),	12
+11.	35
+rgr	57
+k u	74
+ 1–	10
+1–3	2
+–3/	1
+3/2	2
+/20	10
+019	10
+9, 	64
+24–	3
+4–2	4
+–29	4
+29.	16
+ ht	7
+e/2	2
+/28	2
+283	5
+832	3
+326	1
+266	2
+66/	2
+6/f	1
+/fu	1
+l-u	2
+d-z	3
+-zu	4
+ng-	19
+g-i	1
+-im	5
+m-r	2
+et
+	4
+le:	11
+"en	1
+rtu	63
+dee	21
+ee"	1
+e",	3
+19 	45
+e-s	10
+-sp	16
+e-e	10
+-en	9
+g-e	1
+-id	6
+e.1	1
+=44	1
+441	1
+412	3
+129	7
+93)	5
+3)
+	4
+swa	34
+wah	96
+lap	20
+ppl	22
+epr	67
+räs	82
+äse	42
+lk 	12
+orw	51
+llv	21
+ltf	3
+tfu	5
+fif	4
+ifa	14
+fa.	1
+n q	20
+ssp	36
+llw	10
+lwe	47
+pam	18
+il.	30
+l.
+	44
+l l	28
+5 e	32
+hto	9
+6 e	28
+iam	30
+ dd	19
+ddr	21
+alm	111
+ nf	2
+nf-	2
+f-b	3
+viv	7
+iva	63
+rld	12
+cup	41
+up 	17
+p 2	3
+6 b	27
+okz	2
+kzi	4
+lln	5
+häh	6
+, *	1
+ * 	13
+* 2	29
+ 29	22
+183	21
+830	8
+0 i	40
+rzb	44
+zbe	29
+rg;	5
+g; 	13
+; †	73
+ † 	74
+† 1	32
+894	10
+94 	27
+4 i	35
+mau	65
+rme	259
+usb	53
+jüt	1
+üte	27
+og.	5
+847	9
+7/1	3
+/18	5
+8 b	30
+kün	75
+849	6
+851	4
+51 	14
+1 a	26
+853	5
+aua	7
+uak	1
+854	4
+ufü	16
+856	4
+56 	21
+n-v	6
+-ve	64
+859	5
+59 	25
+9 b	32
+865	10
+ kn	54
+kno	21
+nob	16
+obl	58
+ sy	105
+syn	63
+yna	14
+nag	54
+nbu	81
+it.	68
+6 m	20
+fsi	6
+tsr	14
+sra	32
+ats	125
+tsm	30
+ bz	69
+bzw	74
+zw.	72
+w. 	88
+rb-	2
+b- 	3
+auv	8
+uve	22
+f a	68
+ ac	67
+act	24
+cti	34
+871	8
+71 	34
+1 d	23
+ssc	110
+ „f	16
+„fr	9
+au“	3
+u“ 	5
+2 a	26
+mtl	33
+b h	4
+tub	3
+ße.	12
+ihm	66
+lst	85
+-fr	22
+gud	8
+udr	5
+rg:	7
+: f	13
+au.	25
+idy	6
+dyl	3
+yll	4
+dtt	23
+ls.	14
+280	8
+80-	6
+0-2	9
+-23	2
+235	5
+350	3
+50-	7
+0-9	3
+e)
+	85
+m l	131
+ndg	25
+71–	1
+1–1	6
+924	18
+nsm	32
+sme	58
+ss,	35
+86,	4
+ 39	13
+398	2
+980	26
+801	10
+013	60
+309	12
+090	1
+908	14
+08.	8
+vel	51
+ely	3
+lyn	7
+yn 	3
+rzä	16
+oro	47
+07,	14
+-98	4
+811	1
+112	8
+242	3
+42-	6
+-1-	3
+1-7	3
+-7.	11
+t „	19
+ „r	17
+„ro	9
+ob“	1
+b“ 	8
+“ l	4
+sk 	20
+* 9	4
+971	33
+1 i	41
+h y	1
+rk,	16
+ on	164
+io)	3
+ish	54
+sho	40
+eys	16
+ysp	11
+ nü	21
+nür	19
+rnb	33
+ ic	52
+ice	41
+15/	4
+5/1	3
+/16	6
+16 	50
+6 i	27
+ztr	10
+g t	39
+1,8	5
+,88	1
+8 m	22
+enl	90
+ oh	64
+hl,	4
+evo	65
+ nh	7
+nhl	5
+try	9
+91 	43
+209	5
+09.	6
+kss	5
+ütz	127
+cap	13
+y l	24
+rmt	6
+efk	2
+fkl	6
+96 	22
+k i	54
+ga,	6
+sbä	2
+bär	5
+abw	29
+bwe	27
+weh	42
+6 v	8
+eß 	51
+ß e	24
+amb	63
+mbu	39
+eez	3
+09/	5
+9/1	7
+/10	5
+13 	52
+ev 	3
+v r	2
+sbu	50
+edo	134
+14 	56
+lgs	5
+beu	45
+url	13
+4/1	2
+el2	1
+l2-	1
+2-c	1
+-cl	3
+clu	22
+lub	26
+ub 	27
+b k	4
+tüt	72
+o r	17
+si.	6
+apr	87
+ril	97
+l 2	28
+5 i	33
+co-	14
+o-t	3
+-tr	12
+sk,	1
+tsb	47
+sbü	12
+ürg	59
+r 3	20
+nsä	26
+ze,	14
+p o	6
+y 2	5
+(le	6
+ik:	3
+sp 	1
+ gp	1
+gp 	1
+p =	2
+ = 	21
+= a	4
+le;	1
+e; 	19
+; t	4
+ t 	3
+ g 	2
+g =	1
+= e	7
+re;	4
+; v	3
+ v 	4
+v o	5
+ a 	46
+a =	4
+ts;	1
+s; 	12
+; p	2
+ pk	2
+pkt	1
+ pt	2
+s =	2
+te;	4
+; s	20
+sm 	3
+pim	1
+m =	1
+afm	2
+fmi	2
+; +	1
+ +/	1
++/−	1
+/− 	1
+− =	1
+= p	1
+plu	17
+us/	1
+s/m	2
+/mi	2
+s-b	18
+-bi	14
+nz;	1
+z; 	2
+ pp	3
+pp 	25
+rza	26
+ sh	37
+sh 	14
+h =	1
+; g	7
+ gw	4
+gw 	1
+w =	1
+gto	21
+ 1 	23
+lay	27
+ay-	10
+y-d	1
+-do	14
+own	34
+wns	8
+ns/	5
+s/r	2
+/re	1
+gat	72
+n)
+	9
+lmi	60
+aik	25
+ndk	30
+dkr	32
+ 67	9
+672	9
+72,	11
+2,6	3
+m ü	26
+ ü.	5
+ü. 	6
+nhn	2
+lds	56
+don	120
+rsb	19
+thö	9
+gip	18
+ipf	18
+lz.	4
+g l	43
+haa	14
+dt,	22
+ds.	16
+. ü	35
+nsu	32
+sur	44
+gib	75
+ibt	85
+bt 	103
+utu	58
+kah	5
+g o	32
+lai	35
+isf	10
+sfu	3
+ht-	13
+t-m	13
+-me	24
+enm	77
+nme	37
+mee	43
+lfä	13
+gsv	38
+rsu	104
+f l	21
+lvu	1
+vus	3
+s  	9
+  ‚	2
+ ‚k	1
+‚ka	1
+rg‘	5
+g‘,	1
+‘, 	3
+llm	24
+lmu	17
+ dt	1
+dt.	35
+at.	38
+nkb	6
+kba	11
+r ‚	5
+ ‚s	1
+‚sc	1
+tza	12
+ge‘	3
+e‘ 	2
+‘ o	2
+ ‚b	3
+‚be	2
+rg/	2
+g/h	1
+/hü	1
+hüg	7
+e‘.	1
+‘. 	1
+hke	60
+dg.	1
+el/	4
+l/k	1
+/ko	1
+ qe	1
+qel	1
+l/q	1
+/qo	1
+qol	1
+ ‚h	4
+‚ho	2
+en‘	4
+n‘ 	2
+‘ i	1
+g‘;	1
+‘; 	3
+ürd	30
+s ‚	2
+g‘ 	4
+‘ b	2
+. ‚	1
+‚hö	1
+ ‚g	3
+‚gi	1
+‘ z	1
+isp	132
+lmo	14
+kül	7
+ülm	1
+tzb	11
+lsm	13
+uth	45
+th,	14
+lmü	4
+ünz	23
+z o	6
+urp	26
+nzü	9
+züb	3
+bio	81
+osp	15
+sph	15
+phä	17
+ld-	6
+d-v	5
+-vo	20
+vos	2
+osg	1
+du 	16
+u n	17
+heb	43
+h 3	2
+ 3,	17
+3,8	6
+,8 	22
+stn	15
+tno	4
+tsk	34
+5,5	5
+ (j	11
+(je	3
+ie)	23
+dew	17
+ppi	14
+r -	3
+ -g	3
+-gi	1
+loo	7
+oog	15
+og 	57
+(61	1
+618	2
+18,	13
+8,7	4
+) ü	7
+rgb	6
+gbe	4
+(58	1
+89,	9
+9,3	2
+pf 	32
+(60	3
+603	4
+rdo	34
+(53	2
+531	4
+31,	2
+1,7	3
+uzb	1
+(40	2
+400	20
+üdo	10
+tot	31
+z (	29
+2 m	28
+(54	1
+545	2
+45,	5
+5,2	2
+üde	45
+(62	1
+620	4
+0,1	4
+etw	153
+twa	175
+wa 	152
+a 1	65
+) k	17
+rzh	5
+ 27	35
+270	3
+70,	10
+0,5	5
+rhü	5
+lzo	7
+a 4	9
+ 4 	10
+ (l	32
+(lu	4
+bir	32
+gsr	29
+üdö	16
+dös	28
+ngt	121
+a 5	9
+ 5 	23
+eßt	20
+ßt 	22
+t ö	7
+ops	14
+psb	4
+pey	9
+eye	21
+itm	4
+ivs	6
+vs 	4
+ifü	7
+elq	5
+lqu	10
+ 50	53
+500	30
+ßt.	6
+v i	7
+rdö	12
+woo	8
+ogg	2
+ggr	10
+ttg	22
+tgr	19
+sys	69
+mey	8
+eyn	4
+yne	11
+thü	7
+hüs	13
+üse	5
+rrä	8
+räu	67
+äum	58
+mli	42
+hfo	44
+oßr	3
+ßre	1
+dnu	31
+sif	4
+gsz	40
+szu	29
+bgr	9
+t.i	5
+.in	12
+rar	80
+elu	29
+g:
+	5
+wäl	12
+äld	13
+rgm	4
+gma	6
+ve 	105
+(66	2
+662	4
+62 	15
+(55	1
+554	2
+4 m	16
+) z	30
+rwi	78
+h ä	5
+(et	9
+0.3	1
+300	16
+ha)	6
+dom	72
+fic	23
+1.6	4
+.60	3
+600	26
+dou	9
+oug	15
+1.7	3
+.70	6
+700	11
+ubb	18
+bbä	1
+a 7	1
+7.0	7
+.00	65
+2.6	1
+a).	15
+it-	8
+t-s	12
+-sü	10
+fau	8
+na-	3
+a-h	1
+at-	9
+t-g	10
+(ff	1
+ffh	3
+fh-	1
+h-n	4
+-nr	3
+ 68	7
+681	1
+812	2
+12-	13
+2-3	2
+-30	6
+301	1
+01;	2
+1; 	5
+; 3	8
+359	2
+59,	5
+9,9	1
+,97	2
+m² 	9
+² g	4
+oß)	1
+ß).	1
+stf	24
+tfl	8
+vog	26
+tzg	20
+zge	27
+dtr	13
+(vs	1
+vsg	1
+sg-	1
+g-n	1
+651	3
+514	2
+4-4	8
+-40	10
+401	4
+147	16
+47,	2
+,28	2
+m²)	2
+²).	1
+8 a	29
+28/	2
+8/2	2
+/29	2
+ptv	4
+rm.	9
+nrä	2
+ano	81
+mab	14
+abl	53
+i k	38
+unu	7
+nwa	72
+rzw	10
+b „	2
+ „d	43
+„de	13
+hön	19
+öns	3
+lz“	2
+z“.	2
+“.m	1
+div	71
+ss-	13
+ vö	25
+öll	17
+e ö	27
+rrt	12
+rgg	4
+ggi	5
+hlf	3
+fac	89
+rk-	6
+k-s	8
+-se	23
+rnm	1
+dea	25
+kse	7
+ukw	3
+kw-	4
+w-h	1
+-hö	5
+örf	14
+rfu	17
+nkp	1
+kpr	5
+ rp	1
+pr1	1
+r1 	1
+1 1	1
+103	7
+3,6	4
+ mh	6
+mhz	2
+hz 	5
+big	79
+igf	4
+gfm	1
+fm 	1
+106	2
+ pw	1
+pwv	1
+wv-	1
+v-o	1
+-or	25
+934	11
+34 	12
+ltk	57
+tkr	76
+äri	21
+ngw	6
+gwi	5
+dlu	116
+955	9
+55 	16
+häd	16
+ufw	22
+fwi	3
+957	16
+57 	23
+1 e	22
+sex	15
+xpl	15
+plo	21
+ihu	11
+3 s	14
+eub	15
+uba	16
+f b	52
+bwa	5
+äru	41
+rgu	48
+.da	13
+u j	12
+geö	8
+eöf	9
+ffn	66
+fne	51
+al;	3
+l; 	6
+sea	19
+küc	4
+rgn	3
+gna	52
+(17	10
+170	18
+he)	12
+(22	1
+225	6
+k z	24
+(95	2
+95 	35
+nnh	10
+(97	1
+lip	35
+ipp	60
+pps	2
+stt	10
+(56	1
+567	3
+67,	14
+7,8	3
+002	49
+02,	12
+2,5	11
+ds,	14
+isg	8
+116	3
+163	6
+cka	20
+kac	5
+101	5
+01 	39
+tsü	4
+xak	3
+z z	41
+r 6	10
+686	2
+rdp	5
+dpf	3
+t-v	4
+lsb	8
+blö	7
+löc	2
+öck	5
+rsä	10
+ät,	10
+sog	42
+rls	31
+ltz	6
+lss	9
+ngu	50
+trü	10
+rüm	4
+gni	55
+uf­	1
+f­w	1
+­we	1
+ttb	20
+8 s	23
+ads	26
+dsp	11
+ppo	28
+pom	7
+tom	68
+ssy	21
+em;	1
+m; 	4
+sau	83
+elg	20
+rkp	4
+kpl	5
+z k	13
+t 5	23
+5,7	2
+,75	2
+75 	28
+992	48
+92 	36
+t-k	7
+-kl	13
+ppr	6
+ad-	4
+d-c	1
+-cu	4
+p a	9
+gsc	11
+b f	5
+llj	5
+ljä	4
+t-b	8
+tfi	16
+ufp	3
+fpo	1
+pok	24
+oka	61
+ 60	33
+t 8	8
+ 81	4
+810	4
+umu	9
+505	3
+5 h	6
+er;	15
+r; 	19
+; b	11
+800	15
+ 62	4
+muß	2
+h t	30
+thl	19
+sf 	1
+n-c	16
+p r	2
+n-n	6
+-ne	9
+9 l	8
+fuh	34
+4 s	21
+488	5
+dab	80
+7.6	3
+.61	1
+615	4
+kna	19
+p 6	1
+ 6 	11
+f u	42
+ab;	1
+b; 	1
+r 4	13
+ 40	41
+00-	13
+0-m	7
+af 	37
+6 1	1
+5.4	3
+.45	1
+458	4
+rbs	28
+1 n	7
+tsw	25
+tap	22
+b n	14
+pf,	5
+hah	10
+tgi	2
+chq	4
+hqu	4
+fad	10
+g r	24
+ptb	11
+nho	57
+og,	2
+v v	5
+po 	6
+o a	63
+egv	1
+gva	1
+i r	40
+ed.	9
+atf	6
+tfa	20
+oba	99
+in–	3
+n–k	1
+–ka	1
+lsr	20
+kob	29
+ 38	12
+38 	16
+ 3 	9
+e 5	9
+515	4
+l „	6
+ „k	16
+„ka	1
+it“	10
+t“ 	41
+“ d	35
+erq	12
+h 6	2
+f r	18
+e 6	10
+ntg	22
+ uh	15
+eau	55
+u i	43
+a 6	4
+645	3
+ußw	1
+ßwe	1
+p 5	3
+ öp	2
+öpn	3
+pnv	3
+nv 	2
+v b	8
+nn-	13
+xpr	6
+hrp	4
+ahv	7
+hve	26
+rsz	4
+szü	5
+ s-	3
+-ba	36
+mt.	17
+ezi	139
+hrk	7
+lz-	4
+z-t	2
+-ti	4
+ket	33
+öne	11
+es-	19
+s-w	4
+-wo	5
+woc	26
+de-	9
+e-t	10
+uf:	3
+f: 	6
+: k	26
+tsi	24
+nfo	58
+ems	32
+tzv	1
+zve	3
+(la	9
+is-	23
+) (	4
+(hi	5
+zuv	25
+uvo	28
+b e	86
+(wi	6
+som	95
+oub	6
+eun	68
+ io	31
+ioc	4
+oc-	1
+c-g	2
+alc	25
+lck	2
+ckz	17
+kzu	15
+g c	14
+2 f	11
+eij	8
+ijä	5
+i w	46
+alf	23
+f w	36
+r.i	3
+.im	12
+ezä	6
+egs	76
+ksi	29
+hti	110
+sot	22
+ots	46
+nd)	15
+d) 	18
+tt;	2
+25.	25
+ py	18
+pye	1
+yeo	2
+ong	131
+ngc	5
+gch	2
+(sü	2
+ea)	3
+säm	5
+ämt	8
+ttk	6
+tkä	8
+ ew	15
+dai	42
+ at	71
+(od	16
+rhä	50
+häl	94
+ „g	18
+„go	1
+gol	41
+ldm	14
+le“	9
+e“ 	43
+“ b	18
+rzu	46
+ug)	3
+g).	20
+r q	17
+f o	12
+fe 	133
+u t	16
+tod	108
+n:
+	26
+nnr	4
+nro	13
+odl	2
+kaz	3
+azi	40
+zim	13
+krz	2
+rzy	5
+zyp	3
+ype	20
+pec	18
+kif	2
+glü	23
+fnu	21
+sbr	20
+k 1	14
+964	13
+4 t	3
+ tö	15
+töd	2
+ödl	2
+ola	74
+boc	5
+tay	3
+ay,	4
+s-d	10
+isz	12
+szi	14
+zip	63
+ipl	19
+pli	27
+hwi	70
+eed	6
+dsk	16
+ki)	2
+i),	5
+b w	10
+kip	5
+ipi	22
+upe	34
+nod	9
+tas	84
+van	97
+nco	14
+ouv	14
+urv	11
+edr	99
+919	34
+9 i	39
+müh	17
+ühl	48
+hlh	3
+lha	32
+† 2	20
+ln)	3
+owj	28
+wje	28
+rzg	3
+4 g	14
+akz	6
+dak	19
+g.n	1
+.ne	2
+osa	17
+aan	3
+ ly	30
+lyr	25
+yri	30
+-sa	22
+lbä	2
+dok	39
+unv	13
+zic	16
+htb	21
+ikl	13
+hsp	34
+ wö	9
+wöl	16
+ölf	8
+ilj	1
+lja	8
+jas	8
+non	72
+ulb	8
+lbu	64
+npr	25
+üdd	12
+dde	22
+ fö	35
+irk	168
+r-e	9
+-eh	2
+ftu	19
+b (	13
+(ab	6
+962	9
+62)	1
+2) 	18
+nz,	16
+sek	36
+ur.	23
+ufz	17
+fze	14
+ähi	25
+, (	107
+(se	9
+t-)	1
+-)i	1
+)ir	1
+lak	18
+ako	26
+poi	22
+oin	39
+inp	8
+ägs	1
+tua	26
+uat	24
+02 	47
+2 i	33
+imb	20
+ud 	49
+ag.	17
+„ei	11
+hog	4
+ie“	7
+“ f	5
+fko	2
+nvo	23
+lut	95
+ihg	1
+hiv	22
+(„w	2
+„wo	2
+wom	7
+rlu	13
+es“	9
+s“,	11
+faz	2
+az 	7
+z 2	15
+9).	9
+abd	12
+bdr	7
+959	10
+ln.	28
+ngr	86
+b i	27
+atg	5
+ülh	1
+ltl	19
+unp	3
+het	25
+zuc	24
+htv	6
+pst	14
+bti	1
+rzl	6
+hug	3
+llf	10
+wun	34
+erj	13
+rja	17
+örb	2
+dil	8
+09,	11
+813	3
+131	8
+319	2
+97-	4
+-0-	4
+0-5	6
+eo 	19
+ „h	26
+„ha	2
+: t	40
+ t.	2
+t.b	5
+.b.	2
+b.,	2
+., 	41
+k n	15
+n y	13
+ye,	1
+ig/	1
+g/e	1
+/ei	1
+05,	18
+875	14
+751	7
+512	7
+-18	3
+86-	8
+6-4	4
+hae	49
+ael	49
+rtz	16
+tz:	6
+z: 	11
+tfo	9
+995	27
+53–	1
+–26	4
+264	2
+64.	4
+s-r	15
+-rü	1
+rüd	16
+üdi	21
+wab	35
+-76	4
+765	4
+650	4
+0-8	8
+-81	4
+138	4
+38-	2
+8-8	8
+ttn	3
+er/	9
+r/h	2
+/ha	3
+stw	26
+ssö	1
+söh	7
+öhn	19
+ 1/	2
+1/2	2
+62–	2
+2–7	2
+–72	1
+72.	6
+rry	12
+(ir	1
+iri	42
+doi	6
+oir	24
+re)	17
+afs	14
+fsc	21
+irl	6
+(co	13
+ty)	3
+y) 	10
+) l	8
+lou	32
+gh 	14
+foy	1
+oyl	1
+yle	12
+nea	14
+fru	14
+oßt	9
+ns.	38
+eac	18
+tyr	3
+yro	9
+y c	23
+161	12
+613	4
+oßb	11
+y u	32
+ffb	15
+rrs	64
+afz	1
+fzu	12
+u v	53
+küs	16
+ihä	1
+tew	1
+h ,	1
+ , 	4
+hsi	9
+f 2	9
+216	3
+waw	1
+ndm	6
+dmü	1
+123	5
+32 	33
+gev	6
+veh	3
+eiu	12
+esw	22
+wiz	1
+iz 	7
+139	3
+391	2
+1 w	40
+icz	12
+cz 	8
+z g	32
+tsn	8
+sna	31
+tzp	6
+zpu	5
+euß	27
+965	24
+mmr	5
+mri	6
+et;	7
+993	29
+k ü	5
+noš	1
+ošt	1
+št 	1
+muk	1
+uka	15
+htz	10
+sza	6
+ 22	50
+rn;	2
+5 s	24
+(86	1
+6 %	17
+ %)	9
+%) 	5
+d 3	27
+31 	26
+956	13
+23,	6
+3,9	1
+9 %	11
+ % 	86
+% d	27
+ckg	25
+kge	17
+z r	3
+90 	52
+ufn	40
+fna	36
+383	1
+83.	3
+z n	18
+00e	4
+re.	40
+glä	13
+äub	7
+eva	55
+h-l	5
+epf	8
+ohm	2
+hmb	1
+ cz	1
+czo	2
+zor	3
+boh	4
+oh 	3
+kot	9
+ttm	6
+= w	2
+24)	4
+4).	10
+74.	5
+liu	19
+gur	46
+tt:	8
+tz.	47
+: b	35
+u- 	5
+ 34	10
+34.	4
+ft:	2
+tsh	19
+ptm	5
+ lö	34
+löb	1
+öba	1
+ c.	10
+sde	18
+tav	37
+av 	28
+v l	25
+(ge	19
+l 1	59
+he;	1
+elh	25
+im)	1
+pot	54
+otk	3
+paz	15
+zif	13
+(vg	3
+vgl	3
+gl.	8
+hop	23
+us)	11
+s).	21
+deo	17
+eol	24
+918	27
+18)	10
+rev	44
+onä	16
+när	18
+ssr	8
+ rä	33
+eik	12
+rps	10
+ps-	3
+s-s	39
+wuc	15
+jüd	19
+uhw	1
+nhä	29
+ubu	7
+ck-	22
+k-g	2
+-gy	2
+gym	12
+ymn	13
+mna	16
+upr	7
+ls-	4
+ilh	63
+aßb	1
+ßbu	2
+w t	3
+toi	15
+oi 	2
+tzs	11
+zsc	20
+re-	10
+e-j	2
+-jo	22
+rou	27
+oud	12
+udh	4
+hai	20
+bak	20
+aku	25
+hak	6
+-te	14
+hed	20
+edw	19
+osc	28
+sca	24
+ldn	9
+ray	12
+ühj	19
+hja	19
+89 	31
+9 t	8
+ngj	8
+gjä	9
+h-j	4
+-jü	7
+phe	46
+891	12
+ksb	7
+hsh	12
+giu	9
+seo	2
+u p	18
+ ök	7
+öko	6
+arx	5
+rx 	1
+x u	7
+düh	1
+itb	18
+899	6
+us“	11
+s“ 	34
+“ e	19
+ 41	18
+411	7
+etä	17
+lam	68
+„au	9
+lt“	6
+“ z	7
+fän	22
+ngn	14
+rur	27
+rbü	10
+büß	2
+üßt	2
+(„g	1
+„gr	3
+te“	6
+zub	10
+ltn	25
+tse	60
+toc	57
+udu	7
+dul	16
+902	7
+2 k	9
+903	7
+idu	63
+906	8
+ksc	21
+faa	2
+aas	8
+as-	11
+s-h	6
+deg	35
+ità	1
+tà 	1
+à s	1
+ihn	75
+ugr	14
+zut	18
+utr	24
+0 v	21
+osy	3
+ynd	12
+kös	2
+oß 	22
+ß o	2
+ ot	22
+ühs	4
+hsa	7
+am,	19
+bub	11
+b l	4
+115	6
+ärf	7
+ekä	11
+916	12
+egf	4
+gfr	6
+max	38
+ax-	2
+x-b	4
+bee	50
+r-s	19
+5 d	23
+ksh	10
+im.	6
+ulm	19
+ntz	14
+tzü	10
+zün	10
+od 	74
+ef.	4
+usp	47
+rf.	9
+isn	6
+sne	11
+8 z	11
+aye	74
+ „w	18
+„wa	5
+möc	4
+daß	3
+aß 	13
+ß s	18
+edn	4
+n.“	9
+.“ 	16
+“ n	6
+ikf	3
+xtr	10
+val	70
+ley	18
+zu.	10
+äsi	48
+sid	71
+ffm	6
+spd	4
+pd)	1
+ruf	82
+ftr	57
+agt	49
+ufk	9
+rüg	9
+abz	26
+bzu	18
+vio	12
+l o	36
+htü	3
+ kp	7
+kpd	7
+pd 	5
+lev	29
+evi	39
+vin	37
+iné	1
+né 	5
+é u	2
+ax 	10
+x l	4
+ntt	7
+ttä	7
+täu	7
+ik,	31
+9 s	15
+d ä	6
+ äm	3
+k.
+	19
+psv	1
+rbä	6
+oßh	3
+ßha	1
+mma	38
+do 	21
+o w	41
+ps 	31
+hth	21
+epp	22
+pp,	2
+p, 	17
+ lü	14
+lüt	17
+tzo	3
+zow	2
+ow 	40
+w u	6
+tl 	5
+ufh	18
+fhi	15
+en“	78
+“ o	6
+sof	38
+ofo	14
+ssh	4
+hlä	11
+läf	1
+nsz	37
+epl	36
+plü	4
+lün	8
+9 z	9
+lt;	1
+; e	12
+heh	5
+nf 	47
+hep	10
+ofs	24
+ldf	6
+dfr	7
+r-u	8
+dsa	7
+bde	6
+933	21
+33 	21
+3 b	24
+dtp	7
+tpa	14
+öru	36
+rxi	4
+fie	72
+av-	2
+v-l	2
+-la	15
+exh	7
+xhu	1
+hum	25
+ß m	7
+ zy	11
+zyn	2
+b m	15
+isr	13
+946	12
+46 	24
+6 a	22
+r-t	7
+-to	14
+agm	5
+gme	12
+n.g	1
+.gu	1
+oßv	5
+ßva	5
+lmr	4
+mre	6
+7 a	17
+sik	99
+k b	34
+i l	37
+900	17
+fsa	6
+z c	4
+st)	1
+(ch	7
+um,	32
+am)	3
+ab,	23
+b, 	43
+ugn	16
+xt 	10
+vid	63
+duu	13
+uum	16
+bud	19
+udd	5
+ddh	3
+dha	30
+gum	11
+ptu	17
+ my	52
+mys	31
+-sy	13
+sym	50
+ymb	14
+bol	33
+(bu	4
+a),	15
+„ke	1
+giö	9
+iös	19
+öse	47
+ffl	10
+(go	1
+jen	171
+etc	10
+tc.	5
+c.)	5
+.) 	15
+kep	10
+eps	12
+psi	13
+rs:	6
+ff,	11
+lt-	4
+t-i	10
+-ic	3
+h-e	2
+won	16
+e „	67
+„es	2
+ia“	2
+a“ 	4
+eup	6
+pin	235
+noz	2
+oza	9
+za.	2
+f p	24
+(al	17
+tt)	4
+k-r	2
+rez	19
+läs	45
+„ki	4
+ms“	3
+iv.	18
+v. 	39
+h „	16
+ „p	13
+„pf	1
+faf	3
+iep	20
+me,	15
+„sc	10
+uhi	5
+n“.	14
+mpa	26
+ne,	48
+, „	27
+„di	20
+reo	12
+pag	21
+agi	42
+otu	2
+iug	4
+iov	7
+ova	19
+i p	35
+pic	12
+mir	14
+dol	49
+jak	12
+ bö	17
+böh	15
+öhm	12
+lfr	13
+mom	14
+rkm	5
+fss	9
+nsg	71
+ldl	3
+rmö	20
+ves	19
+nkn	8
+knü	9
+nüp	9
+üpf	8
+„sy	8
+llz	12
+22 	17
+2 j	3
+r –	27
+– w	16
+h-m	5
+-my	1
+907	7
+ewu	58
+wus	59
+913	7
+3 d	19
+g „	10
+ „b	24
+„ba	4
+koc	4
+ba“	1
+en?	3
+n? 	3
+? d	3
+rhö	16
+öhu	5
+toß	19
+ß f	3
+“ r	1
+ „c	11
+„ch	1
+has	26
+ik“	4
+k“.	4
+921	22
+21)	3
+1),	14
+929	8
+29)	4
+os-	7
+ „o	10
+„oh	2
+g“ 	18
+“ (	28
+(„e	2
+„ew	3
+ig“	3
+vir	13
+iru	6
+rul	5
+idn	2
+ (p	37
+(pl	3
+lot	38
+bon	49
+nav	10
+def	28
+nbl	11
+nwä	16
+mth	3
+„ab	11
+r“ 	7
+“ m	13
+rfä	13
+oms	14
+zuk	16
+uku	17
+„ra	3
+umv	14
+mve	20
+g“,	6
+mvo	4
+sug	11
+ugg	5
+ir 	36
+kt,	19
+o m	39
+ckw	5
+kwä	3
+sag	33
+u w	40
+: z	7
+rt“	12
+ „z	8
+„ze	3
+de“	5
+nso	62
+(me	10
+ „m	28
+„my	1
+hlü	13
+lüs	48
+daz	41
+azu	44
+owo	39
+t“.	10
+“.
+	20
+hro	60
+nd“	6
+d“ 	5
+gee	22
+eei	38
+ißt	15
+es:	7
+ „i	22
+„in	12
+due	14
+ht“	3
+“ u	24
+f „	3
+t“,	9
+näm	10
+äml	9
+as,	10
+l-e	9
+s:
+	5
+st“	4
+ztl	7
+bt,	11
+„ve	11
+pt“	2
+bni	32
+dad	41
+„he	6
+ft“	8
+“ ü	4
+usü	6
+süb	8
+sdr	32
+krä	26
+räf	34
+gt,	58
+hhe	12
+atü	13
+ürl	14
+dua	14
+„wi	5
+5 v	15
+“ h	7
+mso	3
+k h	12
+müs	18
+fbl	5
+nn:	11
+0 k	49
+„mi	10
+ßt,	6
+ ut	17
+opi	32
+(an	11
+b.
+	18
+otw	14
+hzu	11
+„ge	13
+„vo	5
+mäc	17
+dün	6
+ünn	14
+seq	6
+equ	39
+“ w	17
+890	17
+x s	10
+“ s	15
+f f	31
+eiw	21
+iwi	19
+zii	5
+nfü	22
+ügt	21
+ipa	13
+atl	32
+nng	6
+„ar	4
+he“	8
+e“.	7
+ip 	37
+p u	12
+an-	17
+n-a	13
+-ar	13
+dlo	1
+jea	14
+n-l	15
+luc	15
+uc 	3
+c m	9
+ ag	32
+gam	7
+o l	12
+acl	2
+cla	42
+ouf	1
+me)	9
+nlo	13
+la)	3
+as)	5
+s),	7
+elo	66
+(mu	1
+tul	12
+li)	2
+i) 	18
+= z	1
+nif	12
+rär	8
+är 	16
+am.	14
+omp	173
+mpl	62
+ple	56
+ (k	42
+(ki	2
+wob	25
+zwä	2
+wän	16
+mok	25
+okr	30
+rf,	10
+„zw	2
+at“	2
+hml	6
+rro	39
+blo	33
+loß	6
+goi	1
+in;	9
+nsv	21
+umk	3
+mpe	126
+ß u	6
+ „t	18
+„th	6
+„sk	2
+skl	13
+ei“	3
+i“ 	3
+em,	13
+zlo	4
+rje	8
+„be	10
+hs,	10
+at,	23
+rib	41
+but	27
+pac	26
+ösu	17
+flö	9
+(s.	4
+0 d	24
+ge)	7
+e):	2
+):
+	2
+ilu	52
+isv	12
+svo	24
+usn	12
+reb	47
+rkö	17
+köm	2
+ömm	3
+ädl	2
+ptü	1
+läg	7
+hn:	2
+sum	43
+mla	8
+kth	6
+sah	7
+ah 	16
+us:	10
+ld“	2
+zet	10
+lel	14
+ldz	8
+dze	4
+efm	2
+nzg	8
+fft	18
+hsb	5
+hsw	14
+ldv	2
+dve	5
+gul	19
+(ze	3
+el)	21
+l) 	26
+i“,	2
+jem	13
+löh	1
+snu	4
+ß d	16
+f j	31
+fkr	3
+übr	10
+igb	1
+gbl	2
+be.	32
+jeg	2
+emä	24
+äß 	18
+ß l	4
+irr	13
+or1	1
+r18	1
+93:	1
+3: 	6
+126	8
+s.,	10
+rca	14
+n-b	25
+-bl	7
+k-v	3
+ dn	8
+dnb	6
+nb 	6
+b 5	4
+ 57	11
+574	2
+745	3
+454	2
+544	4
+448	2
+482	1
+17,	7
+-74	1
+743	2
+437	3
+371	4
+714	6
+148	7
+483	2
+30.	27
+07:	1
+7: 	6
+say	11
+loe	20
+oen	14
+t/m	3
+/m.	2
+897	12
+977	15
+771	7
+719	3
+061	2
+11:	2
+1: 	13
+ffu	6
+sir	6
+447	3
+472	8
+720	4
+av,	4
+v, 	11
+5.a	1
+er1	1
+r19	1
+00:	2
+0: 	4
+: o	9
+oct	5
+cta	13
+irb	5
+au:	2
+u: 	6
+hir	59
+19:	2
+9: 	4
+ wh	26
+whi	19
+an:	12
+sez	2
+g.z	1
+.ze	1
+tgu	2
+1–7	3
+–7 	2
+15)	4
+os,	26
+duz	47
+80.	3
+rut	32
+(18	36
+92–	2
+–18	19
+99)	6
+suh	5
+mp,	5
+6 (	14
+(ed	2
+mp.	3
+p. 	132
+ bd	16
+bd.	14
+113	6
+13)	5
+3).	11
+).s	1
+.sa	1
+elw	13
+feg	2
+hgi	1
+gi-	1
+i-s	5
+-sc	24
+n &	5
+& l	3
+ztw	1
+epe	20
+tsd	18
+eua	10
+uau	8
+80:	1
+thä	21
+lt:	10
+iog	53
+kiz	3
+izz	3
+zze	16
+v k	6
+ei.	30
+iun	8
+976	15
+76,	5
+3-5	13
+-51	3
+518	3
+18-	9
+8-0	11
+081	4
+818	6
+egb	3
+ 84	9
+843	9
+43,	5
+ ff	6
+fm.	2
+89.	5
+ys.	1
+idt	17
+dt-	21
+xt-	4
+616	3
+610	6
+102	8
+022	2
+221	5
+ebü	38
+ 1:	11
+ 2:	13
+2: 	10
+ar)	6
+üpp	7
+hoe	5
+oec	2
+k &	1
+& r	3
+-84	4
+471	7
+71-	7
+1-0	13
+-07	8
+079	2
+798	2
+98-	7
+9.w	1
+.we	5
+lf 	37
+d 7	14
+ 7:	1
+hkr	5
+11,	6
+684	7
+841	12
+41-	8
+059	1
+59-	3
+9-4	2
+ 8:	2
+8: 	4
+ma,	6
+1-1	4
+01-	6
+d 9	13
+ 9:	3
+65–	5
+5–1	9
+fl.	6
+l.,	3
+073	4
+73-	8
+3-0	9
+10:	1
+tip	10
+ipo	7
+rs“	6
+-3.	6
+3.
+	17
+av.	1
+ (n	35
+(nd	1
+db)	4
+b).	8
+unc	13
+nck	10
+r &	7
+& h	5
+mbl	18
+982	29
+82,	7
+-42	2
+428	2
+28-	6
+94-	8
+4-x	3
+-x,	5
+x, 	14
+. 4	23
+ 49	15
+91–	2
+1–4	2
+–49	2
+493	3
+3 (	14
+at)	16
+: p	29
+50.	13
+un:	1
+ulz	8
+z-k	2
+ids	7
+91.	2
+125	7
+iem	24
+übi	5
+997	33
+97.	4
+tku	5
+jaa	4
+aap	1
+ap 	6
+p g	5
+ve,	13
+dev	12
+voo	2
+zbu	37
+39–	3
+–14	8
+149	8
+49.	3
+ r.	9
+tae	4
+aeg	1
+70–	3
+0–1	17
+19)	2
+mpu	16
+95.	2
+nz:	3
+l j	5
+hsj	1
+sju	5
+jus	22
+izm	6
+zmi	5
+u "	1
+ "v	1
+"vi	1
+rd"	1
+d".	1
+". 	2
+24,	6
+. 9	9
+ 90	33
+90–	6
+0–9	1
+–93	1
+93.	4
+it:	3
+f 1	16
+00–	5
+33.	9
+3.v	1
+.ve	2
+90.	3
+ „…	1
+„… 	1
+… d	1
+ge…	1
+e…“	2
+…“ 	2
+“ g	18
+– l	11
+95;	1
+5; 	1
+; 2	11
+en…	2
+n…“	2
+lib	38
+rtä	9
+kov	10
+vac	4
+ac,	4
+05.	9
+& w	2
+288	2
+-46	2
+462	4
+62-	8
+047	3
+4-1	11
+joa	13
+oac	10
+ms:	2
+on?	1
+h-c	2
+-ch	21
+h-a	5
+-at	2
+01.	2
+unr	12
+-24	3
+244	2
+44-	5
+4-7	7
+-7 	4
+(in	18
+fos	6
+ag)	5
+n-w	20
+-wü	10
+rtt	10
+l –	4
+– 1	2
+19
+	1
+nvö	8
+vög	21
+öge	36
+aci	8
+cii	2
+iif	1
+) o	31
+al:	1
+oft	37
+ (t	36
+(to	3
+dae	7
+ae)	6
+e)d	21
+)di	21
+äuß	24
+hyl	9
+ylo	8
+lep	19
+tos	33
+omu	2
+or)	11
+r) 	39
+tax	41
+axo	6
+xon	8
+tvö	3
+(pi	6
+cif	4
+dts	13
+dog	2
+ar:	2
+nop	12
+yli	20
+uce	2
+cer	16
+ash	27
+rnv	10
+rnr	4
+umh	8
+mho	1
+(tr	4
+jam	23
+„ji	4
+jim	45
+im“	3
+m“ 	10
+* 8	4
+ 8.	21
+943	20
+lbo	18
+bou	28
+rid	130
+da;	1
+a; 	11
+† 3	6
+is)	9
+sän	50
+gwr	1
+wri	6
+kgr	10
+kmu	12
+ än	16
+960	32
+60e	19
+exe	28
+xem	10
+rsö	21
+sön	21
+önl	22
+ebz	4
+bze	7
+tbä	1
+rfi	38
+xpe	16
+ime	105
+hip	29
+iez	3
+d -	15
+ -k	2
+-ku	9
+obw	14
+bwo	14
+k-b	5
+stz	16
+ekl	66
+19–	4
+9–2	6
+08)	4
+ cl	50
+) g	38
+947	13
+47)	2
+rew	9
+w l	4
+48)	4
+neo	9
+eof	3
+b z	10
+ d.	34
+d.c	7
+.c.	8
+buq	3
+uqu	3
+ue.	5
+ndh	40
+rjä	7
+rss	2
+tou	48
+pue	3
+ueb	2
+lo-	11
+o- 	5
+- o	29
+pi-	1
+i-i	1
+beo	23
+eob	22
+ug.	12
+y-p	2
+soh	66
+ß g	9
+e.i	5
+ ji	47
+mse	16
+ace	18
+s-l	7
+-lp	5
+lp 	5
+p m	1
+70)	2
+lsz	2
+w m	12
+mex	20
+xic	8
+srä	3
+rs,	26
+umz	6
+mzü	3
+anw	43
+emv	1
+hül	17
+üle	15
+a h	34
+(ka	10
+961	14
+61 	16
+(vi	3
+ia)	8
+jug	30
+1 z	16
+sby	1
+byt	2
+yte	6
+ßel	2
+ vä	3
+vät	3
+arw	2
+wat	15
+(fl	1
+g j	19
+3 z	9
+än 	13
+ugz	13
+gze	21
+ugt	30
+gtr	5
+efö	11
+ sö	6
+n.u	1
+.um	1
+pfi	14
+üh 	6
+ug,	6
+zwö	7
+izb	3
+zbü	2
+agg	22
+v s	7
+ys“	1
+k k	15
+oua	4
+uac	5
+acs	4
+cs 	17
+lro	5
+gs,	12
+awr	3
+wre	2
+enc	48
+nce	67
+ngh	22
+ghe	7
+ti,	5
+„ci	4
+cit	44
+ght	38
+ook	9
+oks	3
+re“	3
+o n	13
+ktü	1
+üre	17
+hrf	14
+fsu	2
+oré	1
+ré 	4
+é d	6
+lza	10
+zac	6
+coc	4
+cte	21
+joy	5
+oyc	1
+yce	3
+thu	19
+ud.	7
+daf	33
+afü	20
+agö	3
+göd	3
+uta	69
+jay	1
+y s	31
+bat	45
+r-b	8
+-bü	6
+büs	8
+fot	47
+oto	113
+joe	5
+oel	11
+ods	7
+sky	15
+ky,	2
+bum	43
+pfh	4
+fha	6
+diu	54
+da,	8
+lah	16
+aha	11
+3 f	8
+m- 	7
+4 l	7
+dep	44
+y o	33
+ (u	33
+(uc	1
+ucl	4
+m ö	17
+irs	9
+“ a	21
+tak	40
+967	41
+7 b	26
+abb	32
+bbr	13
+twu	9
+la-	13
+a-a	3
+-ab	5
+ce,	5
+dro	64
+blu	69
+ln,	15
+äuc	9
+lmp	7
+mpr	24
+ sz	18
+y m	14
+ 5.	29
+y j	5
+joi	7
+rhy	9
+hyt	9
+yth	23
+thm	15
+hm-	1
+m-a	2
+-an	25
+d-b	5
+oui	16
+uie	22
+uwi	2
+eks	5
+„ri	3
+ns“	14
+ic 	45
+c s	6
+lgl	13
+moa	1
+oau	1
+lk-	1
+-ro	13
+l p	20
+agz	5
+smo	22
+obb	6
+bby	2
+by 	16
+y k	6
+s q	10
+ous	30
+hux	1
+uxl	1
+xle	1
+y t	12
+rce	15
+54)	2
+4) 	8
+luz	2
+nog	11
+ ls	4
+lsd	6
+sd 	2
+f k	26
+5 b	31
+i c	12
+inv	25
+elö	13
+966	27
+bba	13
+„lo	3
+fog	1
+og“	1
+lly	24
+lyw	4
+ywo	4
+ood	11
+od.	8
+46–	1
+6–1	9
+74)	3
+thd	2
+any	14
+nyo	1
+yon	8
+sd,	2
+mph	19
+aly	43
+lys	30
+ysa	7
+pir	12
+nsq	3
+squ	24
+ky 	25
+go-	2
+o-g	3
+-go	5
+em.	15
+utl	48
+imp	42
+e-n	3
+-na	16
+fgä	1
+edä	4
+däm	11
+ohu	3
+ckb	12
+kbe	2
+oga	21
+am-	7
+m-s	7
+„wh	3
+ky“	1
+y“ 	6
+byr	2
+yrd	2
+zap	5
+ppa	28
+ub-	1
+b-p	3
+-ph	5
+pha	44
+kbl	4
+nui	9
+ac 	13
+c h	6
+lzm	7
+zma	24
+6 u	10
+cov	14
+bam	11
+„su	1
+os“	10
+oul	19
+llp	16
+lpl	15
+rcl	3
+cto	20
+ry“	3
+ndy	3
+y w	19
+arh	6
+ptd	5
+tda	10
+tga	22
+büt	27
+üta	4
+7 u	8
+unü	1
+atw	2
+ip.	6
+ak 	14
+k o	10
+o t	16
+) p	1
+onc	12
+ncl	6
+cli	5
+ip,	5
+(mo	6
+moo	4
+oon	3
+peo	4
+opl	10
+now	32
+wn 	21
+ldi	21
+r).	12
+my 	27
+y f	14
+7 z	11
+-hi	9
+llb	19
+rd-	22
+d-s	10
+-si	13
+s-c	5
+„sh	1
+(kt	1
+ktl	2
+a-t	12
+-tv	10
+tv 	2
+v c	1
+l 5	2
+ 5)	2
+i „	2
+„am	2
+abc	2
+bc 	4
+22.	28
+ayb	1
+yba	1
+ehs	15
+sul	50
+liv	36
+w a	11
+-ni	2
+-sh	1
+ cb	3
+cbs	3
+bs,	6
+ärg	7
+nhi	30
+ehp	7
+hpr	6
+olc	27
+ksä	3
+nfi	9
+e:
+	6
+kso	4
+ißu	1
+ßun	18
+asz	5
+pho	32
+ hy	26
+hyp	13
+ypn	1
+pno	1
+ärd	2
+igo	4
+xim	20
+us!	1
+s!“	1
+!“ 	2
+“ t	2
+fbe	8
+etn	6
+tna	20
+rnd	30
+4 j	5
+y h	18
+7 i	42
+iß-	3
+ß-a	1
+-sä	6
+exs	2
+xsy	2
+as.	15
+day	13
+ys,	7
+0.0	31
+ tw	5
+ ps	95
+psy	79
+syc	79
+iks	6
+ogu	3
+edg	3
+dga	9
+oe 	4
+iki	18
+tmy	2
+myt	14
+kid	4
+chv	21
+hvo	2
+hns	41
+nsü	1
+süc	1
+anh	41
+(„s	8
+„st	7
+r-i	5
+go“	1
+o“)	1
+“).	16
+nsl	11
+slü	2
+oho	14
+sd-	1
+hrn	10
+ch:	41
+h:
+	2
+w h	8
+hav	13
+ect	42
+icu	10
+cut	7
+ut)	2
+izg	3
+zga	2
+ifr	6
+shü	3
+ovo	12
+vok	5
+ikj	2
+kjo	2
+fe-	3
+e-m	17
+-ma	31
+gaz	11
+voi	13
+oic	5
+s-f	8
+lok	33
+rwü	21
+eß,	4
+ß, 	11
+coi	3
+lpr	13
+o-s	10
+ fb	4
+fbi	3
+bi 	10
+d –	12
+– a	21
+iom	5
+sa.	5
+7 s	17
+shr	2
+ sq	10
+r-k	8
+ ce	35
+cel	15
+iza	21
+dim	24
+968	30
+bos	12
+et-	23
+t-o	15
+-of	6
+rdv	3
+dvi	3
+tco	2
+liä	2
+iär	6
+nd:	14
+d: 	23
+aßg	6
+ßge	10
+n-z	2
+-zw	3
+7 h	10
+adm	20
+dmi	26
+drä	18
+rän	99
+rkü	5
+„do	5
+op“	1
+p“ 	1
+zua	3
+k j	5
+jag	17
+ßem	7
+; w	4
+gej	7
+eja	7
+kür	9
+ioa	8
+oal	12
+ait	16
+un.	7
+n-t	12
+lo,	3
+ i 	9
+e y	7
+you	23
+„bi	6
+00“	4
+0“,	1
+(„b	2
+op 	12
+0“)	1
+owl	12
+wl 	10
+uee	2
+rtb	8
+n.s	6
+„sé	1
+séa	2
+éan	8
+– k	10
+v –	2
+ –,	1
+–,“	1
+,“ 	2
+raw	6
+awa	25
+ve-	14
+e-a	18
+zgr	4
+umw	21
+mwe	20
+zuh	11
+uhö	3
+ürm	9
+esä	7
+änf	1
+s-m	16
+-mi	21
+ke.	18
+pa-	6
+rda	52
+kho	8
+gsp	47
+8 d	23
+bbe	21
+bey	8
+y r	8
+oad	7
+hap	7
+ßes	12
+60.	7
+bui	1
+uic	2
+k-w	1
+tso	14
+n-o	3
+f-p	2
+-pa	19
+ffä	9
+fär	20
+jon	17
+usv	3
+uf“	1
+f“ 	2
+ilk	15
+„ca	3
+box	4
+ox 	3
+x t	4
+p 1	5
+0“-	1
+“-h	1
+ouc	10
+me.	16
+mi 	7
+ffü	24
+sou	31
+r-p	12
+ces	22
+nip	9
+ipu	6
+etv	1
+um“	5
+mi,	1
+3.0	8
+(„t	1
+es!	1
+s! 	2
+! [	1
+ […	2
+[…]	2
+…] 	2
+] l	1
+et’	2
+t’s	2
+’s 	22
+. [	1
+] y	1
+on’	2
+n’t	1
+’t 	1
+t y	5
+ou?	1
+u?“	1
+?“)	1
+sim	23
+imu	13
+kni	14
+io.	11
+voz	2
+unz	17
+ulä	18
+„se	7
+hr“	1
+e-c	8
+ty-	6
+9 h	4
+feh	44
+züc	2
+ziv	13
+(„u	1
+ntb	5
+löß	3
+ößu	3
+„vu	1
+vul	10
+ulg	19
+lgä	3
+gär	11
+ „ö	2
+„öf	1
+t“)	1
+jer	39
+opk	11
+pki	10
+is:	3
+orj	9
+nix	9
+ixo	4
+„we	5
+we’	1
+e’r	1
+’re	5
+im…	1
+m…“	1
+…“)	1
+sri	12
+„la	3
+esf	9
+sfl	17
+mi-	9
+i-v	5
+kbr	2
+n-ä	1
+-är	1
+mpö	2
+pör	2
+„ku	3
+69,	12
+mti	3
+ är	16
+ko-	5
+älf	29
+lft	32
+edt	27
+smä	9
+ftk	6
+k-f	4
+-fe	16
+äst	13
+ugp	12
+gpe	3
+ix 	15
+gsu	10
+msc	17
+hwu	12
+abk	12
+bke	1
+ol-	4
+l-i	2
+ok 	5
+agü	2
+ded	17
+ikk	6
+kkr	5
+ly 	30
+y z	8
+unw	6
+nwi	13
+eßu	11
+mem	13
+gnè	5
+nès	5
+ès 	6
+pr-	1
+leo	19
+0 b	52
+yd-	1
+d-k	7
+hyd	18
+yde	1
+rk.	13
+rzö	4
+zög	5
+i-p	4
+t-f	3
+l ü	8
+a „	2
+gt“	3
+0 z	10
+hzi	2
+i-d	1
+-da	11
+y-g	1
+atb	5
+ vu	9
+g –	19
+x f	3
+fec	6
+nzl	15
+ufu	11
+et:	5
+t:
+	5
+„da	6
+jur	51
+aht	16
+hko	11
+gou	11
+ cr	36
+0 a	36
+n.i	7
+ l.	9
+s-e	4
+fai	3
+ve.	4
+hou	26
+w o	1
+nmo	7
+wut	1
+lzb	21
+1 r	2
+u.
+	7
+tiq	3
+iqu	13
+inr	49
+nri	61
+0 n	10
+drü	18
+i-u	3
+-ur	5
+ngz	4
+itf	4
+ v.	18
+m 8	13
+lux	4
+uxu	3
+xur	1
+riö	2
+ös 	4
+l.m	1
+.mo	3
+hbü	2
+p v	10
+ma-	5
+a-m	3
+okk	5
+kko	5
+ko.	3
+nup	1
+upf	9
+b j	9
+sär	1
+rzs	6
+zst	8
+ckf	13
+kfü	6
+obd	3
+bdu	3
+71,	9
+s/s	3
+/su	4
+80 	49
+„op	1
+hwö	2
+wör	13
+nny	10
+ny 	42
+inü	3
+an/	2
+n/p	2
+cky	17
+n-ü	1
+-üb	4
+ß 2	1
+4 d	12
+i n	29
+af.	3
+thf	1
+hfu	1
+ful	4
+l ä	2
+rgt	14
+be;	1
+„of	3
+hm,	4
+zud	30
+hrm	28
+se.	23
+atm	8
+hyx	1
+yxi	1
+xie	42
+9:2	1
+:24	1
+af,	4
+ot.	7
+utm	2
+aßt	1
+diz	30
+e.z	3
+.za	1
+swo	4
+bob	6
+b s	31
+sey	9
+eym	2
+ymo	5
+htk	4
+tkl	4
+ub,	4
+k ’	3
+ ’n	3
+’n’	3
+n’ 	3
+’ r	3
+ ci	54
+cir	12
+cus	12
+oil	3
+chp	13
+lef	12
+fon	30
+tün	6
+n.a	3
+.am	4
+ubn	3
+s 7	5
+ pè	5
+pèr	5
+ère	12
+idd	2
+ddo	1
+taf	25
+-mu	13
+onu	17
+ „κ	1
+„κα	1
+κατ	1
+ατὰ	1
+τὰ 	1
+ὰ τ	1
+ τὸ	1
+τὸν	1
+ὸν 	1
+ν δ	1
+ δα	1
+δαί	1
+αίμ	1
+ίμο	1
+μον	1
+ονα	1
+να 	1
+α ἑ	1
+ ἑα	1
+ἑαυ	1
+αυτ	1
+υτο	1
+τοῦ	1
+οῦ“	1
+ῦ“,	1
+ämo	1
+on“	6
+al“	6
+l“ 	14
+nma	48
+uha	11
+n-g	13
+ltt	2
+bs 	21
+acq	2
+cqu	2
+ubo	14
+e.a	5
+.an	2
+4 z	6
+pop	24
+ärs	7
+r 7	6
+ 70	22
+grä	20
+räb	6
+äbe	6
+dtv	7
+1,5	10
+rru	12
+88/	1
+8/1	2
+/19	6
+kga	2
+lgi	5
+d „	15
+„po	2
+rph	7
+euf	7
+ksm	6
+smö	5
+owe	25
+pow	5
+r-m	7
+„et	1
+me“	2
+hsv	4
+pek	27
+agw	2
+gwö	1
+alö	2
+ffr	9
+k-„	1
+-„s	1
+„ec	1
+nkö	13
+emd	12
+md 	2
+vaj	1
+ajo	20
+jo-	1
+o-i	3
+oht	9
+-ra	13
+nkü	6
+us;	2
+; m	5
+ufä	2
+äll	55
+apo	27
+h-d	3
+ o’	3
+o’b	1
+’br	1
+row	28
+uds	10
+ltb	5
+tbi	13
+ynt	6
+hhi	3
+hik	8
+mör	6
+ sé	2
+n.w	3
+mtw	4
+nek	5
+ekd	2
+kdo	3
+epi	30
+pig	5
+twü	6
+fe.	12
+ns:	3
+w 1	3
+s –	17
+sro	13
+„ic	4
+n …	1
+… f	1
+.“d	1
+“de	1
+ 47	16
+47 	20
+tkü	5
+ul 	28
+tow	19
+wn-	2
+rfm	1
+fmu	1
+lkm	1
+ dy	13
+yla	7
+nva	4
+vas	12
+who	2
+ho 	2
+c r	4
+jef	7
+ead	17
+„fl	1
+r“-	2
+“-m	2
+ss“	3
+s“-	2
+täb	2
+äbc	1
+bch	8
+fef	2
+n,“	1
+ewö	15
+wöh	10
+mos	73
+w d	10
+lod	30
+fix	6
+ixi	9
+ndd	5
+tön	5
+ -b	2
+urh	3
+ wr	10
+s“)	7
+co,	3
+x (	5
+anr	10
+t.m	2
+b ü	1
+dbr	6
+ a-	3
+a-c	3
+-ca	3
+a-g	2
+zz 	2
+mah	17
+ny)	3
+ow,	6
+w, 	16
+71)	6
+67)	6
+7),	9
+uis	32
+ cé	1
+cél	1
+éli	2
+uht	11
+t.a	5
+.au	7
+ul-	5
+„li	4
+e“,	16
+whe	7
+ic’	1
+c’s	1
+ ov	15
+8),	7
+5–6	2
+–68	1
+69)	4
+9) 	10
+zu,	13
+ab:	2
+b:
+	2
+vek	7
+oup	9
+v a	11
+rkn	1
+pfu	22
+wüs	12
+6 z	9
+k-p	1
+ß (	2
+oes	7
+ „ü	2
+„üb	2
+e [	3
+ [z	1
+[zu	1
+zu]	1
+u] 	1
+] b	1
+rmy	5
+spu	72
+pur	25
+50e	16
+c (	3
+t-r	15
+ne“	11
+sax	3
+ax)	1
+x) 	1
+ mc	21
+mcc	10
+ccl	6
+lur	14
+ az	6
+azt	1
+eki	10
+ äg	6
+ägy	4
+gyp	4
+ypt	6
+mpb	1
+pbe	1
+raz	11
+aze	29
+ikb	3
+s /	5
+ / 	39
+/ n	2
+mäs	1
+w c	2
+pau	56
+aul	60
+s-z	2
+-zi	1
+(2 	2
+,17	1
+7 )	1
+ ) 	1
+kbä	1
+rdc	3
+dco	3
+& s	5
+atd	3
+tdr	15
+(„1	1
+„16	1
+ec“	1
+c“,	2
+sc“	1
+„ey	1
+ye“	1
+u ö	3
+„zi	3
+eml	7
+t [	1
+ [f	1
+[fa	1
+nd]	1
+d],	1
+61/	1
+1/6	1
+/62	1
+ry-	3
+y-c	2
+caf	2
+afé	2
+fé 	2
+é e	1
+rvö	3
+vös	1
+cra	12
+ery	11
+(sa	11
+csc	1
+sc 	8
+c g	4
+ry)	3
+o „	1
+cin	22
+heq	1
+16“	1
+6“ 	1
+nef	14
+iz-	3
+z-v	2
+i-h	2
+-he	15
+rix	6
+ix-	4
+x-k	3
+n.m	2
+.me	2
+40 	40
+k-l	1
+io-	5
+2 t	7
+poè	1
+oèt	1
+ète	1
+88)	2
+90)	5
+78,	3
+85)	3
+mäh	9
+80e	12
+urw	11
+ktw	2
+zu:	2
+ie’	2
+e’s	5
+998	35
+40.	8
+6.0	5
+ro)	5
+64/	1
+4/6	1
+/65	1
+o’l	1
+’le	1
+lol	3
+ o.	5
+„to	8
+orü	9
+8 p	9
+65)	3
+5),	8
+nmö	2
+-fi	10
+mko	2
+1).	7
+ mg	2
+mgm	1
+gm 	1
+hfa	10
+e.d	4
+ra“	1
+“ p	6
+rtf	12
+„at	1
+lm“	4
+lmf	10
+mfe	12
+lg.	5
+ek,	6
+m.m	1
+27.	22
+sab	46
+ hw	5
+wy:	1
+y: 	10
+mfr	2
+ct 	8
+ow-	4
+w-b	2
+udg	6
+t-p	10
+töt	2
+öte	18
+„hi	5
+hiw	1
+iwa	14
+y p	15
+uct	7
+2 r	2
+e 4	12
+ 45	12
+450	9
+moj	1
+oja	6
+jav	5
+y-m	3
+-mö	1
+r-c	2
+wy 	4
+k l	7
+bab	10
+myr	1
+ow.	2
+lmh	1
+nnz	11
+e-/	1
+-/l	1
+/la	1
+nca	4
+ca-	1
+-mo	35
+wy-	1
+y-f	1
+lmm	3
+no-	11
+o-d	7
+ou’	4
+u’r	4
+h: 	41
+t.1	3
+nof	5
+(da	10
+poc	2
+oca	7
+lyp	3
+yps	8
+979	21
+79,	7
+mp 	18
+hpu	4
+nai	12
+hta	19
+y e	13
+d-a	9
+mo 	15
+gia	12
+iaz	8
+azo	4
+zot	1
+tto	41
+aso	12
+ g-	1
+g-m	6
+5 z	11
+rd’	1
+d’s	3
+p p	4
+p c	2
+mmy	10
+um)	7
+) n	14
+0 s	29
+eß.	5
+ß. 	8
+ ig	4
+ggy	2
+cur	16
+oy 	3
+79 	21
+9 f	10
+ikr	38
+w n	2
+lkü	4
+ltw	13
+fiv	3
+eku	17
+ -r	2
+d.d	3
+lmt	2
+ -v	1
+o’k	1
+’ke	1
+eef	5
+meg	26
+ ry	7
+rya	2
+yan	4
+meo	1
+eo-	2
+o-a	2
+c b	18
+bbi	7
+lob	9
+obt	2
+iop	3
+rzz	9
+k-i	4
+-ik	1
+biz	1
+hm.	11
+ ré	5
+rép	2
+épu	1
+cai	2
+séc	1
+écu	1
+té,	2
+é, 	4
+hbr	11
+toh	2
+f.a	1
+n-j	1
+n-d	8
+lg 	13
+s-i	2
+lo 	24
+nfä	30
+5 ü	1
+hnn	2
+pp)	1
+p).	1
+le[	1
+e[n	1
+[n]	1
+n] 	1
+] d	1
+ndä	11
+där	11
+n ‚	2
+ ‚l	1
+‚li	1
+re‘	1
+ ‚p	1
+‚pe	1
+e‘,	1
+lmv	1
+xal	1
+t.“	5
+.“i	1
+“im	1
+c n	4
+1 c	3
+tdi	2
+hrö	22
+röd	15
+öde	26
+uin	25
+rex	3
+x m	1
+& t	3
+r/m	5
+/mo	5
+(ne	8
+04)	4
+888	11
+881	13
+814	5
+467	2
+67-	1
+7-1	2
+-1
+	3
+a j	6
+saß	9
+aßm	1
+ßma	3
+-20	7
+206	2
+06-	5
+-0
+	2
+et/	1
+t/a	1
+/an	2
+879	8
+795	5
+8-6	4
+-6
+	1
+85,	1
+6-1	5
+-17	6
+-7
+	4
+77,	2
+078	1
+8-1	7
+hwo	3
+hih	4
+ihi	4
+hi.	1
+4-3	5
+-33	3
+337	3
+37-	2
+7-3	3
+-3
+	2
+s -	3
+ngö	1
+n -	5
+- n	2
+ch/	4
+h/d	1
+/de	2
+euü	1
+uüb	1
+-94	3
+459	4
+598	2
+09-	4
+9-5	6
+-5 	2
+ pd	13
+pdf	7
+df
+	2
+o-v	4
+-14	6
+48-	5
+-1;	1
+; ü	2
+e &	2
+& e	1
+ebd	4
+97,	9
+49-	5
+9-x	4
+-x;	1
+x; 	2
+ (…	1
+(…)	1
+…) 	1
+or;	1
+-15	3
+154	6
+54-	4
+-4
+	5
+k 2	11
+04,	11
+ 1-	5
+-59	6
+592	2
+240	3
+-x 	2
+(pa	5
+pap	31
+ck)	6
+k),	5
+-06	4
+064	1
+64-	4
+r)
+	2
+re:	4
+rm:	2
+m: 	8
+iba	21
+-85	3
+445	4
+45-	4
+5-0	6
+066	1
+m –	4
+– m	14
+n 0	35
+ 0-	27
+-38	4
+85-	4
+5-3	3
+-6)	3
+6)
+	2
+g-t	3
+rzk	4
+zko	7
+f &	1
+02-	6
+2-7	3
+-78	3
+785	3
+5-6	1
+-6 	5
+1-4	7
+13-	5
+030	4
+303	4
+03-	3
+3-x	1
+-7)	2
+7)
+	3
+dgü	5
+gül	13
+ws.	3
+93,	12
+4-6	6
+-67	1
+673	10
+ibn	2
+bne	6
+er’	3
+r’s	3
+/ m	10
+acm	4
+cmi	4
+92,	11
+0-6	7
+-68	2
+84-	5
+-19	11
+952	14
+524	4
+24-	5
+-0)	1
+0)
+	2
+m-m	3
+hey	16
+-45	7
+453	4
+53-	9
+3-1	11
+784	5
+80,	3
+-44	2
+446	4
+46-	3
+6-9	6
+-97	1
+713	3
+133	4
+3-2	7
+-2,	8
+be:	3
+81,	3
+050	3
+0-7	7
+075	1
+755	1
+oom	6
+msb	4
+ury	10
+90;	1
+0; 	4
+rz-	7
+z-w	1
+ß-f	1
+ly-	3
+on:	16
+egm	5
+gmo	4
+98,	10
+-80	12
+802	6
+025	2
+25-	2
+5-2	3
+-25	1
+522	3
+-1 	5
+dut	9
+/ p	6
+e /	1
+gui	19
+up,	4
+92)	5
+ro:	1
+o: 	4
+-71	5
+715	3
+15-	7
+5-8	2
+-8 	2
+gic	2
+-93	12
+333	7
+332	1
+328	3
+8-2	2
+-2)	1
+ek:	2
+99,	7
+-16	5
+5-5	6
+ g.	10
+ p.	4
+utn	9
+am’	1
+m’s	1
+-39	4
+399	3
+9-1	4
+143	9
+9-8	2
+-8)	1
+8)
+	3
+odd	1
+hee	25
+(er	8
+ge:	9
+91)	2
+936	13
+365	2
+5-9	4
+27-	3
+7-7	3
+ky:	1
+gh.	3
+88-	3
+-08	4
+829	3
+29-	4
+-5
+	2
+– j	2
+(ot	1
+ot:	1
+24:	1
+4: 	4
+2 2	1
+06)	2
+6),	5
+ie:	8
+s-q	1
+-qu	3
+rly	2
+y-o	5
+-on	4
+e.c	1
+.co	2
+om,	3
+ub/	1
+b/d	1
+/do	3
+(37	2
+37 	18
+inč	4
+nče	4
+čev	4
+vić	9
+ić 	10
+ć (	2
+zad	1
+oat	22
+dba	25
+b r	6
+ rk	1
+zag	2
+agr	14
+,85	1
+ 86	6
+shä	7
+ hs	3
+hsg	9
+sg 	3
+l-s	7
+lsu	3
+ hv	2
+hv.	1
+0 t	14
+hv 	1
+v w	4
+08/	7
+8/0	7
+/09	7
+ga.	4
+füc	2
+12/	4
+2/1	4
+/13	5
+ehf	3
+hf 	3
+sv 	7
+2/2	1
+pfs	9
+ß v	3
+pfv	1
+fve	1
+ć z	1
+ißr	1
+ßru	1
+ hc	4
+hc 	6
+c d	4
+sk.	5
+beş	2
+eşi	2
+şik	2
+taş	2
+aş 	2
+ş i	1
+ul.	5
+ş g	1
+ć s	1
+f 5	6
+r 9	7
+ 91	7
+1 t	8
+2 n	7
+ć a	2
+nn;	2
+* 4	3
+iea	7
+hpi	2
+fa-	5
+a-s	9
+m-b	1
+-as	3
+gba	20
+poh	1
+ärw	10
+975	12
+ 30	74
+l-r	5
+no,	4
+syb	1
+ybi	1
+hfi	1
+fi 	3
+brd	1
+d-f	3
+lix	5
+kuc	2
+110	9
+inm	23
+orc	36
+ypr	3
+oan	13
+nou	6
+spl	20
+s 8	5
+ 80	27
+120	15
+ngk	4
+gkö	11
+-ai	5
+ic“	3
+c“ 	3
+“ –	2
+ieo	3
+opb	2
+pba	2
+n-e	5
+-el	7
+w i	6
+8):	2
+„me	6
+s.“	2
+(si	16
+ge-	16
+e-z	2
+-zy	1
+gec	1
+et“	1
+onh	3
+nhö	9
+tok	69
+okl	11
+k „	9
+„sp	4
+n 7	17
+ 7 	7
+ps,	7
+pak	12
+uga	17
+gt:	6
+ lk	3
+lkw	4
+kws	1
+ws,	1
+ldt	7
+sup	33
+r-r	5
+nnw	7
+ud-	4
+-kr	24
+dtw	14
+dth	4
+ft-	10
+-wä	5
+ärm	44
+me-	14
+e-k	7
+7 g	11
+e-h	6
+izk	7
+zkr	8
+u.d	1
+bhi	3
+zek	15
+bom	5
+ 32	21
+bga	33
+rnw	13
+rui	16
+bo 	11
+o 3	2
+twä	7
+mtb	3
+tbr	6
+roe	10
+mwt	1
+wth	4
+i 8	2
+ 88	8
+8 %	11
+% u	7
+60 	43
+0 %	22
+ %,	5
+%, 	5
+b o	8
+mea	8
+gwh	3
+wh/	3
+h/a	3
+/a 	3
+570	2
+iox	5
+oxi	21
+xid	20
+id-	5
+ß j	4
+co2	3
+o2 	1
+„kl	3
+tzk	6
+202	5
+020	5
+20“	1
+0“ 	2
+o2-	1
+2-e	1
+-em	4
+isj	2
+sja	13
+% z	4
+1.0	9
+om-	3
+meb	1
+rfs	6
+aim	3
+n 8	19
+ m³	7
+m³ 	20
+³ h	2
+mew	1
+hmä	5
+0 °	12
+ °c	27
+°c 	16
+adw	8
+dwo	4
+kab	31
+ hb	4
+z b	33
+yūz	2
+ūzō	2
+zō 	1
+ō t	1
+(ja	7
+ap.	4
+. 田	1
+ 田代	1
+田代 	1
+代 有	1
+ 有三	1
+有三 	1
+三 t	1
+o y	4
+ yū	1
+zō;	1
+ō; 	1
+; *	12
+fuk	4
+kuo	4
+uok	5
+ka)	5
+ted	47
+ ya	16
+r ō	2
+ ōh	1
+ōho	1
+ri-	5
+i-o	3
+ka.	4
+ ōi	1
+ōit	1
+osu	3
+su.	2
+5 l	4
+0 -	2
+ -t	3
+b 2	8
+2 d	20
+elj	6
+lll	12
+viz	21
+ j.	18
+j. 	22
+zo 	6
+ kō	2
+kōb	2
+ōbe	2
+s ō	1
+ ōs	2
+ōsa	2
+mmk	1
+5 2	1
+2 l	4
+1× 	3
+× f	1
+ups	10
+06m	1
+6mi	1
+be1	1
+e1×	1
+× v	1
+13m	1
+3mi	1
+ft1	1
+t1×	1
+× o	1
+08
+	2
+iag	24
+fwe	18
+bip	2
+siz	3
+dfo	6
+„ho	6
+“ k	5
+nzz	4
+zza	9
+req	28
+löt	5
+hbl	12
+abf	19
+bfa	5
+ch;	8
+h; 	8
+kfö	1
+vib	1
+ibr	10
+lfo	6
+tt-	3
+t-t	4
+usä	23
+ymm	12
+nzh	5
+il)	3
+ksp	3
+shö	5
+h q	5
+zos	8
+osz	3
+opr	16
+ngq	2
+gqu	1
+ssz	2
+szw	13
+ke)	6
+(dd	1
+dds	1
+ad:	1
+g 5	2
+ 0 	4
+% l	1
+fou	11
+yse	20
+w- 	1
+gh-	1
+peg	6
+t 0	3
+ tt	1
+tl-	1
+n)e	1
+)ei	1
+jit	2
+nzk	10
+z.
+	21
+(d.	2
+le)	16
+f:
+	1
+lsw	27
+l-a	10
+og-	2
+g- 	3
+g-d	2
+-um	1
+se-	8
+e-d	14
+-d-	1
+rn
+	1
+osk	28
+bgl	1
+en
+	10
+   	10
+  {	4
+ {\	15
+{\d	4
+\di	4
+sty	11
+tyl	13
+ f(	1
+f(t	1
+(t)	1
+t)=	1
+)={	1
+={\	2
+{\f	5
+\fr	5
+c {	5
+ {4	2
+{4h	2
+4h}	2
+h}{	2
+}{\	3
+{\p	2
+\pi	2
+pi 	7
+i }	2
+ }}	2
+}}\	9
+}\l	1
+\le	1
+ft[	1
+t[\	1
+[\s	1
+\si	4
+in(	4
+n(\	1
+(\o	1
+\om	4
+ t)	4
+t)+	3
+)+{	2
++{\	2
+ {1	2
+{1}	6
+1}{	2
+}{3	1
+{3}	1
+3}}	1
+}\s	3
+n(3	1
+(3\	1
+3\o	1
+}{5	1
+{5}	1
+5}}	1
+n(5	1
+(5\	1
+5\o	1
+)+\	1
++\l	1
+\ld	1
+s \	1
+ \r	1
+\ri	1
+ht]	1
+t]=	1
+]={	1
+\su	1
+m _	1
+ _{	12
+_{k	1
+{k=	1
+k=1	1
+=1}	1
+1}^	1
+}^{	16
+^{\	1
+{\i	1
+\in	1
+fty	2
+y }	1
+ }{	1
+{\s	1
+n((	1
+((2	2
+(2k	1
+2k-	2
+k-1	2
+-1)	1
+1)\	1
+)\o	1
+t)}	1
+)}{	1
+}{2	1
+{2k	1
+-1}	1
+1}}	1
+}}}	6
+}}
+	1
+  .	1
+ . 	5
+nzs	7
+zsp	3
+adz	3
+dza	1
+o h	23
+zsk	2
+la.	4
+rsy	3
+agb	5
+rm,	10
+ibb	5
+bbs	4
+bss	3
+äno	9
+ncz	1
+igm	16
+6.,	1
+ k.	11
+-11	5
+132	6
+320	4
+20-	8
+0-x	1
+-x.	6
+x. 	11
+hfr	3
+2.,	3
+üth	7
+044	3
+zas	3
+ow:	2
+w: 	3
+hr-	6
+ogt	12
+528	1
+142	4
+421	2
+210	2
+(bz	3
+0 ×	1
+ × 	5
+× 4	1
+rsf	6
+sfj	3
+fjo	9
+jor	23
+tev	13
+ fy	3
+fyl	1
+ylk	1
+euc	28
+fyr	1
+yr 	8
+rfj	1
+lii	13
+940	19
+40,	4
+u 1	10
+49/	1
+9/5	1
+/50	1
+onm	6
+htf	6
+knm	1
+nm 	5
+osl	23
+(f 	1
+f 3	5
+00)	9
+0),	7
+psc	1
+orv	12
+rbj	1
+bjø	1
+jør	2
+ørn	1
+ppt	9
+pt,	1
+; l	2
+(ky	3
+kys	2
+et)	5
+0 ü	1
+g-a	6
+itd	12
+rty	14
+yra	14
+efj	1
+otr	11
+zho	3
+kem	5
+eeg	2
+hub	30
+opt	17
+ab-	1
+ay:	2
+irv	2
+ea 	24
+(so	10
+(li	11
+6/a	1
+/ap	1
+ydr	17
+bdi	2
+tzr	3
+zro	1
+ulv	8
+nhü	3
+üls	2
+waf	12
+asd	2
+(gs	1
+ss)	5
+nkh	15
+om)	4
+rd;	3
+d; 	8
+tzf	4
+zfe	3
+t-j	3
+-ja	18
+ob-	2
+b-k	2
+rbt	9
+n-p	13
+n-(	1
+-(p	1
+(pr	5
+prn	2
+rnp	5
+np-	2
+p-)	1
+-)g	2
+)ge	2
+räv	2
+äva	1
+1:1	3
+:10	6
+p-g	2
+de:	3
+20p	1
+0pt	1
+-p1	1
+p12	1
+osä	1
+äur	9
+nyl	2
+(f1	1
+f19	1
+98s	1
+8s)	1
+s);	2
+); 	21
+amy	2
+myl	1
+loi	9
+-pl	8
+laq	1
+aqu	9
+(un	19
+adl	11
+dys	5
+läh	11
+ähm	9
+ht)	6
+ ny	6
+gmu	11
+sib	28
+ (ü	4
+(üb	4
+(ts	3
+uru	10
+ru 	2
+laf	10
+afl	1
+(fa	4
+fat	15
+omn	7
+mni	10
+fi)	1
+ bs	1
+f g	51
+ e.	19
+ i.	31
+ 33	19
+16)	11
+ dé	13
+dép	11
+épa	12
+st;	6
+nt-	21
+nvi	10
+upé	7
+pée	2
+éen	2
+/ru	1
+umo	23
+ n6	1
+n67	1
+128	5
+285	2
+85.	3
+bai	19
+179	21
+793	2
+ict	19
+sy 	2
+ldh	14
+rz–	1
+z–n	1
+–ni	8
+rsh	11
+(he	15
+ üp	1
+z-,	1
+säg	4
+käs	4
+rsm	2
+aes	15
+roo	25
+okh	1
+khu	1
+† 4	3
+ußi	17
+ßis	17
+181	19
+10–	4
+87)	3
+koe	2
+816	5
+16–	3
+41)	2
+8 t	3
+873	9
+oer	2
+43–	5
+3–1	8
+56/	2
+6/5	2
+/57	2
+ib-	2
+b-h	1
+-hu	2
+gim	17
+e 8	8
+kav	3
+-br	17
+gad	8
+rr 	16
+ilz	6
+(82	1
+824	3
+msk	4
+slu	6
+941	10
+41,	4
+lbr	26
+310	2
+0,2	4
+m-z	2
+rdf	5
+dfl	6
+üdh	1
+(nr	1
+108	10
+8.1	3
+.12	2
+12)	7
+hwä	15
+wäb	5
+äbi	6
+keu	1
+r-l	5
+10)	10
+h-f	5
+frä	22
+ldb	16
+dbe	20
+löw	4
+öwe	4
+.1)	2
+(12	7
+127	5
+7.1	2
+-gä	1
+gäu	1
+äup	1
+27)	2
+.11	1
+ iv	9
+250	12
+– h	7
+tbu	16
+, ö	5
+ämm	11
+vii	10
+335	2
+zbi	14
+dui	8
+484	3
+84 	24
+525	1
+rnk	5
+rgf	2
+cro	19
+153	10
+530	2
+655	3
+705	2
+5 o	3
+mtm	3
+bnu	1
+178	16
+tzz	1
+ll–	1
+l–n	1
+–ne	2
+lm–	2
+m–h	2
+–he	4
+nn)	3
+n);	1
+ b 	9
+095	2
+m–a	1
+–am	1
+ld)	3
+udo	15
+63.	6
+ 55	13
+55–	4
+5–7	3
+–76	1
+76
+	1
+33–	3
+83,	4
+83
+	1
+svi	7
+dtb	18
+zir	52
+im
+	1
+tsv	18
+ul:	1
+g.:	4
+.: 	12
+= d	3
+ii)	5
+i).	5
+nbo	10
+486	4
+6-5	1
+239	3
+-hü	1
+i.8	1
+.83	1
+83)	6
+749	3
+490	4
+90-	3
+-57	4
+572	2
+blf	1
+lfd	1
+fd,	1
+pt)	1
+t)
+	7
+hür	8
+hsf	6
+teb	10
+uß 	5
+r 8	8
+ 8 	13
+ k 	2
+105	7
+nmü	3
+eew	4
+miw	1
+iwe	6
+wep	1
+pa“	1
+a“,	2
+540	4
+f.v	1
+.vo	5
+szo	11
+89/	2
+s 6	9
+6 r	2
+4 %	8
+hss	3
+ad,	15
+keg	1
+lfö	4
+hkl	3
+rg
+	2
+n-,	9
+ gg	2
+ggm	1
+gmb	18
+mbh	18
+bh.	2
+= k	2
+krö	6
+rön	9
+520	6
+-31	3
+302	2
+5–3	1
+–36	1
+367	1
+67.	7
+ rs	34
+rs4	22
+s4 	20
+di-	6
+i-m	2
+ a4	8
+a4,	1
+rs2	3
+s2 	3
+1 h	6
+ gm	18
+bh,	5
+2,7	5
+,7-	2
+7-l	2
+bi-	1
+i-t	3
+-tu	12
+bo-	5
+-v6	2
+v6-	3
+6-m	3
+ kw	37
+kw 	30
+w (	22
+(38	2
+380	3
+ps)	16
+4,2	6
+,2-	4
+2-l	5
+-l-	5
+l-v	13
+-v8	4
+v8-	5
+8-h	4
+-ho	14
+hza	9
+hlm	8
+(42	4
+420	4
+ v8	2
+ubr	12
+331	4
+(45	2
+iaa	1
+aa 	1
+2 v	14
+0-p	2
+r-j	7
+(ko	6
+bi)	2
+a4 	4
+ b5	1
+b5-	1
+5-b	1
+ dm	7
+dm 	1
+s-v	10
+ s4	2
+(b5	2
+b5)	2
+cos	32
+osw	3
+küh	17
+zyl	10
+geä	9
+eän	9
+(26	2
+265	3
+ nm	4
+850	6
+in−	9
+n−1	9
+−1 	7
+381	1
+440	3
+hmo	17
+4 n	4
+g-s	3
+lra	24
+ (q	3
+(qu	2
+162	14
+ kg	4
+kg 	9
+4,9	3
+km/	6
+m/h	7
+/h.	2
+r-v	12
+v8 	1
+ b7	2
+b7-	1
+7-b	1
+cab	5
+fpr	2
+i 7	4
+ 71	1
+71.	3
+ 73	5
+73.	3
+.35	2
+b 8	2
+ 85	2
+5.0	6
+.05	2
+07)	4
+uze	40
+s4-	4
+4-m	3
+4.3	1
+.36	1
+368	5
+8 f	10
+ 76	7
+657	7
+7 l	4
+3 %	10
+%),	2
+ 52	6
+204	3
+(36	1
+150	13
+507	3
+7 c	3
+(11	4
+1 %	8
+%).	2
+a4-	1
+ieu	13
+l:
+	1
+dek	21
+rnä	10
+äht	3
+z l	6
+(wa	2
+ ib	6
+ibi	35
+iß 	12
+ß p	2
+kt)	6
+ß a	9
+19-	10
+9-z	2
+-zo	2
+zol	13
+-rä	5
+rt;	5
+adk	1
+lkn	1
+msg	3
+ mm	6
+mm)	1
+/h 	4
+8-m	1
+n“;	2
+“; 	4
+ 82	7
+−1.	2
+(fs	1
+si)	1
+5 :	1
+tzy	1
+ 78	8
+780	4
+1 u	21
+430	2
+i 5	7
+550	3
+(90	1
+760	3
+asy	5
+ftv	1
+u 6	2
+rs6	1
+s6 	1
+dyn	10
+(dr	8
+drc	1
+rc)	1
+c),	2
+to-	5
+4-g	1
+ b8	2
+b8 	2
+76.	4
+6.6	1
+ro.	6
+o.
+	8
+a4.	1
+otf	7
+mop	2
+uso	6
+s x	6
+ xe	2
+xen	9
+ed-	4
+d-t	3
+-ta	13
+gfa	7
+ -h	1
+4-s	1
+ftz	6
+lca	1
+ra/	1
+a/l	1
+/le	4
+b7,	1
+hlb	11
+pé 	2
+é a	3
+rs5	3
+s5 	3
+ 6-	1
+6-g	1
+-ga	6
+g-h	11
+ 7-	2
+7-g	1
+kup	16
+ s 	1
+c e	6
+b q	2
+add	4
+ddi	3
+bsm	3
+auw	18
+uwe	31
+l 7	2
+5 %	10
+% n	2
+ b9	1
+b9 	1
+il-	7
+dpr	1
+ 79	7
+79.	8
+9.8	2
+.80	1
+ v6	1
+6-b	1
+o-o	2
+-ot	2
+4,1	4
+kaf	196
+afő	2
+fő,	1
+ő, 	2
+lj,	1
+j, 	2
+ni:	2
+i: 	15
+afa	2
+fa)	2
+577	4
+779	4
+jän	4
+ (ö	7
+(ös	1
+aab	4
+d),	4
+utg	8
+kt-	8
+tuc	17
+luv	1
+uva	5
+hho	10
+ilä	3
+rös	22
+jog	2
+ogl	18
+gll	2
+tlo	9
+üdb	6
+ahb	1
+hbe	10
+ßrä	1
+ gf	2
+1,3	3
+,35	1
+,94	1
+% w	10
+rfl	28
+,56	2
+% b	1
+,53	1
+% g	5
+ gä	12
+ 7,	6
+,74	1
+% s	5
+341	2
+ngg	6
+gga	7
+rsd	15
+sdo	35
+rd)	3
+edb	3
+oip	1
+ipe	14
+rf-	3
+f-k	1
+kit	5
+zla	3
+fso	3
+tiä	3
+ärb	22
+rg–	4
+g–p	1
+–pi	2
+ gü	36
+gün	19
+hup	10
+ (?	1
+(?k	1
+?ka	1
+arp	9
+dwä	4
+mur	18
+sed	12
+obg	1
+bgn	1
+mmb	7
+ gn	5
+bsa	3
+ffk	2
+fka	1
+(hä	1
+röl	3
+lfü	6
+löz	1
+öze	8
+zsa	2
+pid	9
+lfu	3
+ff)	2
+f) 	2
+ig-	17
+u 2	4
+d q	8
+ix.	2
+x.d	1
+üd 	3
+aty	4
+yp 	13
+p z	6
+zuz	3
+uzu	7
+zuo	3
+uor	8
+hs.	5
+esn	7
+sni	7
+a 8	5
+ –2	1
+–2 	1
+2 °	2
+c u	9
+ –5	1
+–5 	1
+5 °	6
+°c,	3
+8 °	2
+°c.	3
+c.
+	3
+ aw	18
+dzü	1
+791	4
+803	6
+aie	9
+„ad	1
+cah	5
+ahu	6
+hu“	1
+alw	15
+lwi	8
+(ad	5
+luu	1
+uui	1
+agy	13
+gya	10
+yar	17
+dsl	2
+(gy	1
+gye	1
+yep	2
+epű	1
+pűe	1
+űel	1
+ve)	4
+hfe	4
+55)	2
+afn	4
+fni	5
+kzo	1
+güs	4
+ehd	3
+289	2
+9/9	1
+/90	1
+bsb	6
+291	3
+327	2
+anj	7
+njo	5
+it)	12
+iii	21
+144	7
+145	8
+9 ü	1
+plf	3
+146	6
+463	1
+151	3
+517	3
+ifs	4
+2 z	6
+sül	2
+yma	3
+ißi	4
+igj	3
+. á	2
+ ád	3
+ádá	3
+dám	3
+ám 	3
+thy	33
+hyá	25
+yán	25
+ány	25
+644	1
+669	9
+ny-	6
+y-s	4
+674	15
+ cs	12
+csá	2
+sák	2
+áky	2
+y g	10
+y ü	1
+664	6
+ny,	10
+169	20
+699	5
+698	3
+ysc	2
+ny.	7
+ruz	4
+uzz	1
+704	4
+708	2
+171	17
+717	3
+804	7
+nzo	13
+806	7
+809	4
+koa	3
+brä	12
+48/	3
+8/4	3
+/49	3
+oßg	2
+ßgr	1
+867	8
+k.u	2
+.u.	2
+u.k	2
+.k.	7
+er–	6
+r–a	1
+–al	1
+tpi	4
+go.	3
+xti	7
+onj	6
+nju	4
+ bé	1
+bél	1
+éla	1
+kgä	1
+dap	12
+pes	19
+kog	8
+hnk	2
+kut	13
+tmä	6
+ndj	2
+djä	1
+ärl	6
+k ö	1
+tzm	6
+zmä	1
+hnv	3
+930	22
+30e	3
+937	11
+agd	53
+gdb	1
+bem	12
+emü	10
+üht	2
+lsa	8
+0-j	2
+r-f	11
+s-j	10
+-ju	3
+5 n	5
+lkr	9
+bl 	3
+nih	3
+ngä	3
+a-b	6
+bün	24
+kwe	2
+dlm	1
+dtk	11
+tka	8
+emu	4
+kaa	2
+ktp	3
+tpl	17
+ptp	3
+tz)	7
+ckp	20
+ätm	1
+ksg	6
+2 %	8
+ %.	11
+%. 	6
+ 94	3
+1,6	5
+ 93	7
+3,3	2
+säs	6
+d ö	10
+idb	4
+„ui	1
+ui“	1
+az“	1
+z“ 	1
+„je	4
+zt“	2
+569	2
+hrä	35
+ftm	4
+uwä	1
+wäc	9
+fhe	1
+tzw	6
+697	3
+3 j	1
+880	12
+308	1
+080	2
+nnä	5
+gs.	10
+20e	3
+aby	4
+by-	3
+y-b	6
+538	2
+386	1
+22,	5
+2,4	4
+ %;	1
+%; 	1
+8,0	2
+52,	6
+424	2
+246	2
+1 ü	4
+4,7	2
+7 %	7
+% e	1
+2,0	1
+% h	3
+, 4	11
+42,	6
+fsb	6
+38,	2
+8,2	2
+% a	15
+ 75	9
+75,	5
+5,0	3
+8,6	2
+3,1	4
+%.s	1
+cau	6
+s-,	4
+güt	19
+säh	1
+(te	12
+n.1	3
+.18	4
+z-j	15
+-je	2
+su-	6
+u-v	5
+9.7	1
+.71	1
+710	4
+nmu	8
+77.	2
+acz	4
+cze	5
+spö	3
+pö)	3
+ö).	1
+,03	1
+(öv	3
+övp	5
+vp)	3
+48,	9
+8,9	1
+ 61	6
+61,	4
+,40	1
+% i	3
+hlg	5
+lga	21
+dta	10
+lui	12
+p),	2
+,68	1
+t 7	7
+7,4	2
+,43	1
+jau	4
+(fp	1
+fpö	2
+ö),	1
+f 6	4
+6,8	2
+,80	1
+eos	6
+os)	4
+f 8	1
+ 8,	3
+8,1	2
+,12	4
+%.i	1
+tui	1
+ö) 	1
+zeb	5
+pö,	1
+ö, 	1
+ öv	2
+vp 	3
+ fp	1
+pö 	1
+ö d	1
+nnö	2
+p j	2
+e.l	1
+.le	2
+wap	12
+639	1
+(we	8
+em)	2
+ntü	6
+rmc	1
+mch	8
+äg 	2
+i q	4
+gt;	1
+ße)	10
+dsi	14
+u.“	1
+lsf	3
+ktk	2
+ß-b	1
+ltd	3
+2 o	1
+obj	14
+bje	16
+tüm	8
+üme	7
+dtm	7
+ld:	6
+m ä	8
+dsm	10
+m.
+	23
+um:	4
+(bl	3
+häo	10
+äol	10
+xpo	2
+826	4
+ 83	4
+gsj	8
+urä	1
+“):	1
+629	5
+172	16
+728	4
+hnz	1
+; i	9
+ ör	11
+757	3
+(im	6
+nt)	11
+öft	3
+ny:	2
+951	8
+1 f	5
+dbö	2
+bög	2
+hgä	3
+uz:	1
+ba-	2
+a-k	12
+ne:	1
+ahk	2
+hka	6
+(hs	1
+hsn	2
+sns	1
+ns)	5
+hll	3
+773	2
+3 n	6
+786	3
+6 g	14
+7 f	12
+25,	5
+9 r	3
+822	3
+ße,	19
+töc	12
+äfi	2
+rgk	5
+gki	3
+748	5
+f á	1
+ei)	4
+-er	5
+nfö	5
+föd	3
+782	2
+ „n	7
+„nu	2
+48.	2
+hi-	2
+i-k	3
+-pi	1
+uß.	1
+o-c	4
+-cd	5
+cd 	9
+dl.	1
+op-	2
+p-m	2
+iah	3
+eep	8
+ep 	8
+otö	1
+örh	1
+pko	1
+5 t	7
+p-s	2
+4.4	2
+.4.	1
+4:4	1
+:44	1
+o p	16
+mmg	1
+ „4	1
+„4“	1
+4“ 	1
+dtf	4
+hr,	16
+é b	3
+näl	1
+arv	23
+täg	7
+ägi	2
+„ma	9
+ikd	1
+kda	1
+odr	9
+eßb	2
+696	1
+rmä	10
+tös	6
+sl-	1
+-es	2
+st:	6
+s '	1
+ 'p	1
+'pi	1
+st'	1
+t' 	1
+' a	1
+ni.	4
+llc	2
+lcl	2
+c p	5
+912	12
+fs.	4
+v p	2
+2 s	20
+hs-	5
+lyt	10
+50;	1
+ kf	2
+kfz	2
+fz-	2
+z-m	2
+euu	6
+fe:	1
+abt	36
+„dr	1
+fe“	1
+inj	3
+njä	7
+e“
+	1
+k –	6
+– c	2
+efb	1
+edv	1
+dv 	2
+v u	5
+akk	11
+e- 	18
+sfö	9
+„fe	3
+se“	3
+bsq	1
+quo	6
+uot	2
+ 46	10
+46,	2
+6,3	2
+50,	3
+, 6	9
+z-r	3
+hgü	1
+hez	8
+9 g	12
+d- 	9
+846	8
+npe	3
+119	5
+322	3
+ksv	9
+236	4
+orä	7
+hsl	9
+ m²	4
+² u	2
+nzr	4
+zrä	1
+oop	7
+8 o	2
+4,5	3
+u 8	1
+(kw	1
+kwh	3
+wh)	1
+8,5	4
+wh 	1
+(fe	3
+).w	2
+pe-	3
+fee	3
+waa	8
+aag	9
+-wa	7
+. ö	6
+bäd	1
+itn	6
+sce	3
+hn-	13
+n-u	3
+dpl	3
+gth	3
+(öb	1
+öbb	1
+bb)	1
+s-t	8
+d“,	2
+az.	3
+b 6	3
+ 63	7
+rsn	2
+ l 	2
+238	1
+256	2
+37,	5
+7,3	2
+eg)	2
+g) 	38
+gpl	5
+b p	4
+630	5
+5/3	1
+/33	1
+lfl	5
+nbü	11
+alr	9
+abn	9
+ek)	2
+k).	2
+anç	5
+nço	5
+çoi	4
+nph	7
+f-j	1
+bha	11
+ofb	1
+vei	4
+783	2
+nc 	5
+0 „	2
+ln“	3
+afu	2
+swö	1
+htr	8
+fői	1
+ői 	1
+htg	6
+blü	13
+lná	2
+nár	2
+árn	1
+rné	1
+é m	8
+lho	4
+h“ 	6
+ma:	1
+87.	4
+maj	15
+(pd	5
+pdc	6
+dc)	2
+c) 	9
+gso	10
+civ	5
+vic	24
+16:	1
+6:1	1
+:12	2
+-le	22
+dc 	5
+bdo	7
+do.	2
+zue	19
+töp	2
+k.-	2
+.-o	2
+-o.	2
+o.-	2
+.-s	2
+f 9	5
+ 9 	8
+1 l	6
+n £	2
+ £5	1
+£50	1
+mtp	1
+tpr	48
+ £4	1
+£45	1
+npl	16
+stp	47
+p e	6
+do-	5
+o-q	2
+ wm	5
+wm-	2
+m-f	2
+ tv	3
+tv-	11
+v-m	2
+o-r	3
+te
+	1
+p 8	2
+8 q	1
+c o	5
+pf.	1
+rt1	2
+t1 	2
+t1+	1
+1+ 	1
++ d	1
+etm	6
+ll)	5
+l).	7
+sas	15
+ulp	14
+suo	4
+uo 	4
+. 松	1
+ 松村	1
+松村 	1
+村 達	1
+ 達雄	1
+達雄,	1
+雄, 	2
+uo;	1
+o; 	5
+yok	1
+ma;	1
+oki	55
+kio	14
+7 r	2
+amu	10
+osh	5
+irō	2
+rō 	2
+ō m	1
+mif	2
+ne)	127
+u -	1
+ō h	1
+saw	3
+wa:	9
+dod	2
+ayo	6
+yo.	1
+hya	2
+yak	2
+hid	4
+nlu	21
+yo 	6
+aca	16
+cad	10
+emy	3
+o-p	6
+suz	2
+uki	4
+67–	2
+7–1	11
+ku-	4
+u-s	3
+raj	17
+aji	1
+jir	1
+apl	8
+kiy	1
+iyo	1
+yos	3
+7 v	7
+oi-	1
+i-c	2
+tz-	9
+z-a	5
+34/	1
+4/3	2
+/35	1
+apf	6
+pf/	1
+f/n	1
+/na	1
+uph	2
+nil	4
+hda	3
+llö	1
+löf	2
+rmr	1
+rmk	2
+önt	4
+rlö	6
+pab	1
+bwä	5
+hpl	2
+uei	2
+dwa	7
+öht	8
+3 r	3
+ptw	2
+rk)	2
+zeg	2
+„ko	1
+ilr	1
+utb	4
+rtö	2
+z ü	6
+hlj	1
+ljo	6
+(gl	5
+gs/	1
+gs)	1
+rfr	15
+sgo	5
+12:	2
+2:0	3
+:00	6
+18:	2
+8:0	2
+enj	10
+nje	3
+ 3)	2
+fgo	1
+m 0	3
+ 08	1
+08:	1
+htn	3
+ 09	2
+09:	1
+9:0	2
+hr)	4
+buß	2
+ußc	1
+ßch	1
+17:	2
+7:5	1
+:50	1
+† 6	3
+om.	7
+836	2
+839	4
+842	9
+ulk	4
+kow	22
+wo-	1
+845	8
+adj	6
+dju	3
+852	4
+52 	20
+n-m	9
+ruv	2
+2 q	1
+qui	28
+uit	14
+r.s	2
+.sc	6
+ c/	4
+c/1	4
+7 q	2
+ q1	1
+q1,	1
+ g1	3
+g1,	1
+g1 	2
+ ng	3
+gc-	1
+c-o	1
+gc 	1
+c 7	1
+p n	2
+zym	3
+maz	30
+tib	9
+gku	4
+l-n	7
+-nä	4
+rbö	4
+böd	6
+euk	7
+ryo	6
+täm	4
+axe	4
+wün	9
+nae	5
+bts	2
+zoo	4
+oea	1
+sp.	101
+p.)	1
+p d	15
+ije	3
+laj	2
+aje	15
+msf	1
+elü	2
+lüf	1
+üft	9
+fäß	14
+äße	7
+zgl	2
+rrö	1
+röh	7
+öhr	7
+uan	20
+hod	24
+hl“	1
+(„m	1
+„mo	2
+ mp	2
+mpn	1
+pn-	1
+rüf	21
+üfu	13
+ffw	5
+„bu	1
+(„v	1
+gsq	3
+(ag	3
+-ag	4
+u q	3
+rdü	3
+pfö	5
+fös	5
+uzt	4
+hs:	1
+rwu	7
+aln	7
+kug	5
+lru	1
+fwä	6
+dna	3
+aee	3
+aea	1
+omä	4
+gea	16
+kae	1
+aem	1
+ce-	6
+e-v	15
+-vi	10
+via	17
+iab	6
+lpi	2
+sob	2
+sus	14
+aac	32
+gs:	3
+827	2
+274	3
+74-	3
+icr	8
+g/b	1
+/be	2
+107	4
+072	2
+2-6	2
+keb	2
+eud	62
+ym 	5
+ugm	2
+ld/	1
+d/o	7
+/ob	1
+h/o	1
+/os	2
+g“.	3
+ulo	17
+afö	1
+zau	9
+lps	4
+-ad	2
+um;	1
+h –	7
+lhi	1
+skv	2
+kv-	2
+v-e	2
+-ed	3
+87;	1
+7; 	3
+772	3
+729	6
+9-3	1
+-34	4
+– f	7
+92;	1
+2; 	4
+9-7	4
+-79	3
+797	3
+7-8	1
+lön	1
+rg-	21
+g-l	3
+14;	1
+4; 	7
+-95	3
+-47	2
+473	6
+se:	2
+tüv	1
+üve	1
+44,	4
+lax	2
+x v	8
+233	2
+–27	2
+26–	3
+29,	7
+ön-	2
+e 9	6
+be-	3
+d-l	5
+ee-	13
+499	3
+788	4
+nrö	4
+ösc	9
+rrc	1
+e "	6
+ "d	5
+"de	4
+st"	1
+t".	1
+".
+	1
+2 h	5
+lbd	2
+.  	13
+  
+	5
+ätg	1
+tgo	13
+1 v	8
+rfk	2
+fki	2
+he
+	1
+"ne	1
+geu	1
+t q	3
+t."	1
+."1	1
+"19	1
+ldw	3
+au;	2
+u; 	5
+aui	5
+dip	10
+m-i	1
+a.v	1
+p h	4
+mov	29
+l.;	1
+.; 	3
+; a	16
+eb“	13
+b“.	3
+6 l	7
+27/	2
+ rw	1
+rwt	1
+eh 	4
+r.-	1
+.-i	1
+.h.	5
+h.)	1
+.).	5
+(vd	1
+vdi	2
+di)	2
+ vd	2
+i-e	1
+täh	5
+abm	2
+bme	2
+n /	5
+/ o	5
+55.	5
+bag	2
+idw	1
+fkü	1
+küb	1
+58.	3
+lzv	2
+59.	6
+ln-	4
+66.	4
+al)	4
+aym	3
+oue	2
+voc	2
+l q	3
+dov	4
+huo	1
+riq	3
+938	11
+r é	4
+ év	1
+éva	1
+ngé	1
+gél	1
+n x	5
+ xa	2
+xav	1
+oux	2
+ux.	3
+944	21
+eet	8
+rév	1
+éve	1
+37–	2
+d'h	1
+'he	1
+52)	1
+rgí	1
+gíl	1
+íli	1
+eix	4
+ixe	5
+xei	4
+917	8
+† 5	6
+tug	13
+wim	10
+ o 	1
+etl	10
+dka	5
+0 r	3
+huv	1
+eia	4
+(re	108
+ rt	2
+tp 	1
+84/	1
+4/8	1
+/85	1
+lmb	4
+(o 	1
+64)	2
+psd	1
+lm)	1
+zhä	4
+olp	10
+lph	27
+52–	3
+hn.	11
+ssm	7
+99–	2
+57)	2
+xil	11
+e.n	1
+.na	7
+ägu	6
+932	18
+ai-	3
+i-g	2
+lup	1
+65/	1
+5/6	1
+/66	1
+cet	3
+ty.	9
+1–8	2
+–89	1
+oit	4
+rg’	1
+g’s	2
+’sc	1
+zku	2
+vi.	3
+zab	7
+4.e	1
+.ei	5
+u 4	5
+ 5–	2
+5–2	3
+–24	1
+73,	4
+udv	7
+vig	12
+asm	6
+7 –	3
+45–	2
+47.	4
+boe	6
+oeh	4
+u 5	5
+rgh	10
+26,	3
+77)	4
+. 7	12
+ 7–	2
+7–8	1
+–8.	1
+lul	5
+88,	6
+805	7
+053	4
+097	3
+1-6	4
+-6,	2
+33,	4
+219	3
+–22	1
+222	3
+ät.	7
+41.	2
+ldg	10
+32,	7
+117	3
+17–	3
+–12	9
+kay	4
+ly.	2
+kuh	2
+msw	3
+uly	3
+ 6)	1
+zle	13
+t/w	1
+/we	3
+476	6
+76-	4
+-02	3
+203	1
+-8,	4
+53 	1
+3 f	1
+ f.	1
+ou-	3
+u-k	6
+h 望	1
+ 望海	1
+望海楼	2
+海楼教	1
+楼教堂	1
+教堂,	1
+堂, 	1
+iny	3
+nyi	3
+yin	6
+ wà	2
+wàn	2
+àng	2
+ghǎ	2
+hǎi	2
+ǎil	2
+iló	2
+lóu	2
+óu 	2
+jià	1
+iào	1
+àot	1
+otá	1
+tán	3
+áng	3
+u c	6
+ (望	1
+(望海	1
+海楼天	1
+楼天主	1
+天主堂	1
+主堂 	1
+堂 w	1
+tiā	2
+iān	3
+ānz	1
+zhǔ	1
+hǔt	1
+ǔtá	1
+u (	4
+ (圣	1
+(圣母	1
+圣母得	1
+母得胜	1
+得胜堂	1
+胜堂 	1
+堂 s	1
+shè	2
+hèn	2
+èng	2
+ngm	2
+gmǔ	1
+mǔ 	1
+ǔ d	1
+dés	1
+ésh	1
+ tá	2
+nji	4
+jin	8
+na.	13
+duf	2
+gzh	1
+hiz	2
+gqi	1
+qia	2
+iao	1
+ao-	1
+o-b	2
+oxe	3
+xer	9
+904	4
+rdb	4
+ksr	10
+k c	9
+(3-	1
+thé	3
+héd	1
+édr	1
+- l	2
+ l'	5
+l'a	5
+'ac	1
+té 	8
+cié	4
+iét	4
+été	5
+ngè	1
+gèr	1
+840	3
+0 à	1
+ à 	3
+à 1	3
+1 -	1
+ch
+	2
+lsä	8
+äug	8
+mäu	3
+  d	6
+rz,	14
+füß	2
+üße	2
+hnf	2
+ 5/	2
+5/4	2
+/4-	1
+-1/	1
+1/1	7
+/1-	1
+1-3	3
+-3/	1
+3/3	1
+/3-	1
+-4/	1
+4/4	1
+/4.	1
+üda	17
+asl	4
+; k	3
+utf	1
+rfg	2
+rz.	4
+loé	1
+oé-	1
+é-b	1
+(cr	1
+cry	5
+ryp	4
+ tl	1
+acu	1
+cua	2
+i-b	2
+(hy	3
+kii	1
+i)e	1
+)en	1
+ak:	4
+mam	4
+578	1
+789	2
+89-	3
+9-9	4
+-9
+	1
+21-	9
+p w	10
+of,	5
+869	9
+* 3	4
+olí	3
+lín	3
+ín,	1
+h-ö	2
+-ös	2
+ gy	10
+838	3
+ne;	1
+nfu	9
+ht;	2
+66–	2
+k.k	5
+gtu	5
+g.v	1
+  l	1
+ef,	2
+ig:	4
+rt:	14
+nz)	4
+z).	3
+rsv	4
+übt	9
+oßk	4
+ßkr	4
+ph-	12
+h-o	11
+p f	2
+rr.	2
+53.	2
+-kö	2
+of-	4
+f- 	5
+ f.	7
+zfl	8
+rdm	15
+dma	20
+ni)	3
+utv	2
+ut-	3
+rrg	4
+nnc	7
+mm,	4
+ibc	7
+ 99	8
+mm.	4
+ugb	18
+gbi	3
+gfl	1
+npf	2
+ivb	1
+vbr	1
+mef	3
+ngv	2
+gvö	2
+ äq	3
+äqu	4
+egz	1
+gzu	2
+imz	2
+mzu	4
+ai.	3
+pär	3
+lzs	5
+zse	3
+ äc	1
+äck	4
+süß	5
+üßg	1
+gd 	1
+nsj	5
+0 o	3
+utp	5
+veg	10
+zov	1
+ivg	1
+vgr	2
+ünl	2
+510	1
+nfz	8
+fzi	5
+-gü	2
+ünt	4
+ezz	2
+as:	1
+onp	2
+svö	1
+a-v	5
+lsh	5
+im,	7
+04-	4
+-64	3
+647	4
+47-	3
+7-2	3
+p b	8
+atv	7
+blv	1
+lv 	1
+405	4
+05-	8
+-13	4
+136	13
+364	4
+7-4	3
+odm	1
+wad	6
+-90	4
+058	2
+588	4
+820	2
+im:	1
+nnn	1
+ft)	5
+é i	3
+mpé	1
+pér	4
+éri	7
+ou.	1
+314	1
+4–3	1
+–32	3
+(bi	9
+ry.	5
+y.o	2
+.or	3
+rg)	13
+ iu	74
+iuc	4
+ucn	3
+cn 	3
+3.1	2
+.1.	1
+lu“	1
+etj	10
+tje	11
+je,	3
+pd-	9
+rgd	1
+gdo	3
+hrr	4
+dto	2
+ur-	21
+omk	10
+ftg	4
+är.	1
+oby	10
+byl	7
+yl“	1
+; n	5
+lp!	1
+p! 	1
+! h	1
+ot“	1
+yl 	3
+rfn	3
+zsh	1
+iev	13
+t.s	4
+lüb	3
+übb	1
+adb	9
+404	1
+-60	2
+601	1
+95-	5
+is’	1
+s’ 	1
+’ i	1
+o  	4
+  v	5
+-ec	1
+ho,	4
+h ч	1
+ чи	1
+чит	1
+ита	1
+та́	1
+а́)	1
+́) 	1
+324	2
+.44	1
+444	2
+.08	1
+ngo	11
+68.	1
+8.4	1
+.48	3
+sno	10
+(47	1
+.02	4
+023	1
+23)	2
+3),	15
+(80	2
+0.9	1
+.97	1
+lny	1
+9.6	2
+.65	3
+653	6
+53)	5
+iß,	2
+i −	1
+ −4	1
+−49	1
+49,	3
+9,6	1
+6 °	2
+tke	6
+fet	7
+owk	2
+wka	4
+ra.	6
+53,	3
+675	8
+75.	4
+ssg	2
+3 –	3
+rnö	4
+nös	10
+sfs	2
+fsr	3
+sr 	24
+ai,	1
+ta)	5
+36/	1
+6/3	1
+/37	1
+l-m	5
+ks.	3
+nzb	11
+nuk	9
+„br	4
+dt“	3
+boi	9
+aho	24
+jar	7
+aws	10
+ki,	2
+hew	6
+wik	7
+emj	2
+mjo	1
+w r	4
+(ap	2
+22)	1
+ßra	1
+ r2	2
+r25	1
+ah6	1
+h6 	1
+-ud	1
+r29	1
+297	1
+tlä	6
+är-	6
+-pä	1
+gaw	1
+h-t	4
+-ts	1
+rny	4
+ta
+	3
+878	1
+78–	1
+ rí	9
+río	10
+ío 	10
+cun	3
+aní	1
+nía	1
+ía 	2
+nrü	2
+r  	8
+  w	2
+tac	16
+caj	1
+cip	14
+ ay	1
+yop	3
+pay	2
+aya	8
+imn	15
+mno	14
+vae	11
+aep	14
+  i	5
+ae.	5
+awe	4
+ulq	5
+uap	4
+trö	11
+loa	2
+oak	3
+mmh	2
+mhä	1
+äun	4
+h-g	5
+röt	19
+ötl	6
+lbl	2
+tym	2
+frö	5
+ uf	5
+tpf	5
+ib 	9
+hnc	1
+n.b	7
+.be	14
+chc	1
+hch	2
+cty	1
+ylu	1
+phr	8
+hry	4
+ryn	2
+yno	6
+bap	1
+vov	3
+vip	3
+ tj	2
+tja	4
+zn 	1
+nud	2
+dum	6
+& j	1
+mcg	5
+cgu	1
+uir	2
+ogs	5
+w s	3
+zat	4
+adp	2
+dpo	6
+, 9	2
+ 9,	2
+ e1	2
+e11	2
+oi:	5
+i:1	5
+0.1	4
+137	6
+71/	2
+1/j	2
+/jo	2
+l.p	2
+.po	3
+e.0	2
+.01	2
+irz	2
+za 	16
+jod	2
+wle	2
+ey,	11
+ kh	8
+sa,	4
+a &	2
+1–9	2
+–9,	1
+54,	6
+54
+	1
+hib	22
+.0,	2
+98–	1
+8–2	1
+15
+	1
+ gt	11
+oco	5
+o 1	10
+l’a	2
+’au	1
+nnv	5
+ozz	2
+zzi	3
+zi 	5
+pé,	2
+gn 	4
+0 c	10
+ cm	33
+cm³	27
+³ k	1
+11e	2
+1er	1
+ps.	6
+fae	1
+oty	7
+m³.	1
+³.
+	1
+fbu	1
+pph	1
+ v-	1
+v-w	1
+60°	1
+0° 	2
+° h	1
+ öl	13
+öl 	6
+lsy	4
+ync	13
+, 3	20
+4 o	1
+nfg	1
+fia	11
+ypo	4
+-ac	1
+ksq	1
+oßd	3
+ßdä	2
+n,.	1
+,. 	1
+eßh	1
+ßhe	3
+fth	3
+fta	12
+nkv	1
+kve	6
+3 ü	1
+rtc	2
+tcu	16
+86.	1
+6.5	2
+.51	1
+5 €	1
+ € 	2
+€ v	1
+fav	4
+afv	1
+fvo	2
+lzu	7
+h §	9
+ § 	23
+§ 2	7
+tgb	2
+gb 	2
+twö	2
+edü	4
+afg	3
+§ 1	7
+159	5
+bs.	11
+tvg	1
+vg 	1
+ftp	3
+mta	2
+114	3
+,16	1
+ éc	2
+éco	7
+dré	2
+é n	1
+veu	1
+xio	5
+mog	5
+ilc	8
+zee	1
+(dy	3
+dyo	1
+ced	4
+udy	6
+ cn	1
+cnr	1
+nrs	1
+ugè	1
+gèn	1
+ène	3
+joë	1
+oël	1
+ël 	1
+ n=	1
+n=8	1
+=8 	1
+ggs	1
+rn)	8
+rci	18
+räi	4
+tph	2
+mct	3
+eb,	7
+.bi	2
+z „	2
+wuß	2
+ußt	3
+ßts	1
+el?	1
+l?“	1
+?“ 	2
+ee,	4
+in“	3
+ma.	3
+„pa	3
+-sé	2
+séb	1
+éba	1
+tiö	5
+nja	9
+jab	4
+ht:	6
+rlm	1
+95)	3
+98)	2
+04;	1
+3 v	12
+mt)	1
+7).	7
+ri,	2
+gfü	5
+6–8	2
+–81	1
+81.	2
+ig?	1
+g? 	1
+? i	2
+g 3	6
+82)	3
+2),	9
+31–	2
+1–5	2
+–55	1
+552	3
+52.	2
+ie?	2
+e? 	2
+? w	1
+596	3
+96-	6
+564	1
+7-5	2
+yti	9
+ii,	8
+3–3	1
+–34	2
+44.	4
+831	2
+312	4
+: ü	4
+243	2
+434	1
+349	1
+in/	1
+n/t	1
+/ts	1
+(2.	1
+257	2
+57-	1
+-9;	1
+9; 	6
+389	2
+547	1
+711	3
+79;	2
+; 4	3
+407	1
+732	1
+0).	18
+ldk	4
+dkn	1
+kne	6
+5/2	4
+781	3
+81–	2
+–78	1
+787	3
+aux	24
+ux-	12
+x-e	8
+-ea	8
+ux 	14
+x i	3
+gné	4
+néc	4
+meu	1
+5 c	6
+rcy	2
+cy 	4
+ulx	1
+lx 	1
+x e	3
+hoi	2
+-va	4
+ d’	5
+d’o	2
+’or	2
+x w	2
+-du	7
+5 q	1
+vag	7
+maa	3
+x g	3
+bov	1
+ové	6
+vée	1
+ée-	1
+ouz	1
+ze-	8
+e-r	7
+siè	1
+ièr	5
+hui	3
+lié	4
+iéc	1
+tbo	3
+).d	2
+rir	3
+mmü	2
+pou	8
+déc	1
+éch	15
+fs)	2
+ d9	1
+d96	1
+(eh	4
+ 66	5
+66)	3
+gny	8
+y-e	3
+eux	3
+le–	1
+e–n	1
+ufc	1
+fch	1
+châ	2
+hât	2
+âte	2
+(94	2
+vey	1
+0-c	2
+-cm	3
+cm-	1
+-os	13
+75)	4
+ldp	4
+(15	6
+58)	3
+t.(	1
+.(9	1
+(ma	10
+mao	2
+aor	5
+ ao	7
+aot	1
+oa)	1
+ mā	1
+māo	1
+āor	1
+pe:	1
+-sm	1
+ths	4
+hso	4
+ics	18
+cs,	3
+sa
+	2
+gy,	1
+735	1
+cek	1
+nd;	2
+mmo	17
+sm.	1
+776	1
+76)	2
+sms	1
+ned	12
+eec	2
+79)	2
+9);	1
+);
+	1
+uag	5
+th:	1
+ äs	3
+72)	5
+ir,	2
+lco	5
+jec	3
+ypu	5
+aßv	2
+ßvo	1
+ölb	8
+rml	4
+töß	2
+268	1
+/n.	1
+n.,	2
+lbt	3
+aßs	1
+mfo	5
+ukö	1
+uty	3
+utä	1
+lzt	2
+zto	2
+– o	4
+lbö	1
+uzg	2
+oce	8
+z)
+	1
+gt-	2
+ksk	5
+ei-	6
+i- 	6
+ühu	1
+xus	3
+udä	2
+260	4
+ixu	1
+klö	4
+bmä	1
+oßz	3
+ßzü	2
+öss	9
+tiu	121
+39,	1
+394	3
+94–	4
+4–4	1
+–44	2
+coe	7
+rl/	1
+l/w	1
+716	5
+63-	3
+39)	1
+luh	1
+n :	1
+höf	18
+öfe	15
+xt.	2
+34,	1
+737	2
+375	4
+75-	3
+-9,	3
+3–7	1
+–75	1
+-49	5
+496	3
+396	2
+* 6	4
+im;	1
+61)	2
+ -p	2
+lgy	1
+ehh	1
+oig	3
+oßm	3
+eyh	1
+yhe	1
+ub’	1
+b’ 	1
+’ u	1
+(ms	1
+ kb	5
+kb)	4
+b)
+	4
+l x	4
+ xx	7
+xxv	1
+xvi	3
+vi 	7
+wl,	1
+foo	3
+otb	3
+(nf	2
+fl)	1
+ xv	2
+ii 	18
+xxi	5
+hy.	3
+buf	4
+ mv	1
+mvp	1
+eap	1
+14:	2
+4:2	2
+:2 	7
+nfc	2
+fc)	2
+wl.	2
+13:	1
+3:3	2
+:3.	1
+afc	2
+(af	1
+c).	3
+ezw	7
+zwu	4
+  e	4
+dgo	3
+goa	9
+lbz	4
+hdo	6
+byn	1
+n  	11
+fsp	8
+ui 	5
+m y	2
+ yu	1
+yum	1
+ty,	13
+na)	11
+nub	3
+ba 	3
+ui,	1
+c.,	1
+byi	1
+yis	3
+ucu	4
+noë	1
+oë 	1
+ë d	1
+otg	1
+z.a	1
+boj	2
+ziđ	5
+iđa	5
+đar	5
+-ky	2
+kyr	2
+h б	1
+ бо	2
+бој	1
+оја	1
+јан	1
+ан 	2
+н з	1
+ зи	1
+зиђ	1
+иђа	1
+ђар	1
+аре	1
+рев	1
+еви	2
+вић	1
+ић;	1
+ћ; 	1
+hk 	12
+eyl	5
+kuw	2
+ć b	1
+ca,	10
+voj	2
+ojv	2
+jvo	2
+vod	2
+khk	1
+ihc	1
+mmv	4
+ć i	2
+iih	4
+ihf	3
+ey-	10
+y-w	1
+ktg	3
+shu	8
+krü	8
+fff	4
+3,5	4
+u 3	3
+uuf	3
+ks-	1
+ngb	3
+emn	4
+hlv	1
+ßmu	1
+rub	9
+u 7	1
+zfr	7
+zpr	9
+bfl	5
+230	4
+m ×	2
+× 2	2
+2.0	4
+.09	1
+094	3
+,5.	1
+mne	9
+omg	2
+35.	7
+.40	2
+5.5	1
+.50	3
+kw.	2
+ddu	1
+ m,	1
+nnd	3
+65,	8
+hfl	6
+m³/	4
+³/s	4
+/s 	3
+ohf	1
+8.0	3
+42.	3
+2.5	1
+(kv	1
+kva	1
+va)	2
+2.7	1
+1.3	1
+.31	1
+318	5
+8,8	1
+mio	1
+wh.	1
+u-a	3
+093	2
+ yb	1
+ybb	1
+5 r	1
+üd.	1
+- a	5
+(ib	1
+ba)	1
+rmw	1
+bsw	2
+ug–	1
+g–s	1
+–sa	1
+nüt	6
+heg	23
+egd	13
+gda	13
+h р	2
+ ро	1
+роч	2
+оче	2
+чег	2
+егд	1
+гда	1
+да)	1
+а) 	4
+v z	2
+ dw	2
+da.	6
+zvo	1
+ag-	1
+g-g	1
+942	15
+mi.	1
+nez	16
+ezg	4
+zgo	4
+ (к	4
+(ко	3
+кон	3
+оне	3
+нец	3
+ецг	3
+цго	3
+гор	4
+орс	2
+рск	2
+ски	2
+кий	2
+ий 	2
+й л	1
+ ле	1
+лес	1
+есп	1
+спр	1
+про	1
+ром	2
+омх	1
+мхо	1
+хоз	1
+оз)	1
+з) 	1
+ска	4
+кая	2
+ая 	3
+я у	1
+ уз	1
+узк	1
+зко	1
+кок	1
+око	1
+кол	1
+оле	1
+лей	1
+ейн	1
+йна	1
+ная	2
+я ж	1
+ же	1
+жел	1
+еле	2
+лез	1
+езн	1
+зна	2
+я д	1
+ до	3
+дор	2
+оро	3
+рог	1
+ога	1
+га)	3
+msi	5
+koj	2
+nij	4
+ (р	1
+(ро	1
+его	1
+год	1
+одс	1
+дск	1
+ско	4
+кое	2
+ое 	2
+е с	1
+ се	2
+сел	3
+ель	2
+льс	1
+ьск	1
+е п	1
+ по	1
+пос	1
+осе	1
+лен	1
+ени	1
+ние	1
+ие)	1
+е),	2
+ dö	13
+dör	12
+(zw	5
+241	2
+418	1
+dei	17
+ m8	1
+m8.	1
+pys	1
+ (п	1
+(пы	1
+пыс	1
+ыст	1
+стр	1
+тро	1
+ома	1
+ма)	1
+ nj	1
+jaw	1
+awo	4
+ (н	1
+(ня	1
+няв	1
+яво	1
+вод	1
+оды	1
+ды)	1
+ы) 	1
+waj	3
+ (у	1
+(ус	1
+уст	1
+сть	1
+ть-	1
+ь-в	1
+-ва	1
+вае	1
+аен	1
+ень	3
+ньг	2
+ьга	2
+а),	1
+орь	2
+рье	1
+ье)	1
+(ку	1
+кур	1
+ург	1
+рго	1
+гом	1
+оме	1
+мен	2
+нь)	1
+ь),	1
+ (с	1
+(се	1
+льм	1
+ьме	1
+ (б	2
+(бо	1
+бор	2
+рок	1
+ок)	1
+к).	1
+ iw	1
+xej	1
+eje	7
+2.4	1
+rlé	3
+léa	3
+y-l	11
+15:	3
+5: 	3
+euv	8
+uvi	6
+orê	2
+rêt	2
+êt.	1
+rye	1
+yen	3
+êt 	1
+raî	1
+aîn	1
+îno	1
+ecy	1
+-us	6
+bré	1
+réc	14
+ugy	1
+gy-	2
+lez	2
+ez-	1
+z-n	1
+épi	2
+.16	1
+n î	2
+ îl	2
+île	2
+ce;	1
+gju	2
+jum	2
+d é	1
+ ép	1
+sav	2
+moi	13
+e-g	2
+viè	2
+ièv	1
+ève	2
+ yv	2
+yve	2
+ühz	1
+ztu	1
+l’e	2
+’es	2
+ohi	4
+c é	1
+ éd	4
+édi	4
+2-8	4
+234	1
+34-	7
+-12	4
+-0,	5
+555	2
+5–5	2
+–56	1
+560	4
+rff	3
+ff“	1
+(1.	4
+örc	1
+(i.	1
+uhm	9
+vs,	1
+38.	5
+jut	3
+451	3
+51–	2
+–45	2
+-eb	2
+² v	1
+fsf	1
+uko	3
+fsz	3
+pe;	1
+ar;	2
+ iq	1
+iq.	1
+q. 	1
+rn-	10
+rmf	1
+ofa	2
+fré	15
+ené	3
+é f	1
+ezü	5
+ügl	4
+vex	3
+bzä	5
+nul	18
+uiv	2
+lbn	3
+bno	5
+hdi	1
+xe 	4
+ t1	1
+ t₁	1
+t₁-	1
+₁-r	1
+-ke	4
+ibp	4
+bpr	5
+bc-	1
+c-s	1
+rb)	1
+hlw	3
+xtv	2
+b.:	1
+„a“	1
+“ -	1
+- „	1
+hsy	1
+xtb	2
+sw.	10
+w.)	8
+.),	8
+ml-	1
+l-d	7
+map	5
+rd:	2
+ügb	7
+b-u	1
+ibm	3
+bmo	1
+iok	1
+eyb	5
+ybo	5
+l-,	3
+l-k	6
+oys	4
+mep	2
+- s	2
+ryt	9
+yty	6
+zal	7
+woi	1
+oiw	1
+iwo	1
+d-m	6
+asu	7
+gmi	2
+wia	3
+ ił	1
+iła	1
+ław	2
+wo.	2
+woj	1
+ewó	1
+wód	1
+ódz	1
+dzk	1
+519	1
+26)	1
+  a	9
+moh	4
+,46	1
+460	2
+45.	6
+5.n	2
+ß w	2
+orą	1
+rąs	1
+ąsk	1
+seß	8
+eß;	1
+ß; 	1
+ld;	3
+eß)	1
+ß) 	1
+sgy	1
+931	17
+ ns	20
+dsn	1
+576	2
+6.9	1
+.94	1
+40)	3
+(ss	2
+0.4	1
+.49	1
+rmb	5
+ßde	1
+s.1	1
+rbh	4
+bho	2
+pta	12
+snä	2
+rré	1
+hsm	2
+f-r	1
+ß i	3
+jäg	5
+n.k	1
+.ku	1
+7 n	6
+osn	6
+8 l	3
+sev	6
+„ev	1
+(os	2
+r-n	4
+-no	5
+ck;	2
+k; 	4
+öfi	2
+6-j	4
+-jä	13
+(tz	1
+zi)	1
+(ti	2
+nps	1
+se'	10
+e's	11
+'s 	15
+üßi	3
+hok	11
+mhü	2
+co.	7
+(pe	4
+nsy	15
+syl	1
+ylv	1
+40e	1
+od,	3
+63,	8
+kak	2
+kao	1
+aob	1
+soj	1
+nöl	1
+öl,	1
+l)
+	1
+r "	6
+ "c	1
+"cl	1
+ic"	1
+c" 	1
+" p	1
+i 0	2
+ 0.	3
+0.7	3
+.75	1
+ oz	4
+oz.	4
+z.(	3
+.(≈	3
+(≈ 	3
+≈ 2	1
+1,2	2
+ g)	3
+) r	7
+ "k	2
+"ki	1
+ze"	1
+e" 	4
+" v	2
+g 0	2
+≈ 1	2
+9,8	2
+ "l	1
+"lu	1
+ch"	1
+h" 	1
+" a	2
+0.5	2
+.55	1
+5,6	1
+ps"	1
+s" 	3
+, "	2
+ "y	2
+"yo	2
+te!	1
+e!"	1
+!" 	2
+" (	4
+(du	2
+rt!	1
+t!)	2
+!),	1
+r!"	1
+ht!	1
+!).	3
+n:"	1
+:"t	1
+"tw	1
+r."	1
+." 	3
+oßa	2
+ßar	2
+en!	2
+n!)	1
+'s?	2
+s?“	1
+s?)	1
+?) 	1
+d "	2
+ "t	3
+"th	1
+re'	1
+wro	1
+'s.	2
+s."	3
+(es	3
+n.)	3
+nu 	2
+c l	3
+(gp	1
+pl)	1
+ om	19
+nux	4
+ux,	4
+lwo	1
+xts	1
+ tm	2
+tmx	2
+mx 	2
+1.4	3
+.4b	1
+4b)	1
+  f	4
+xtd	1
+ tb	3
+tbx	1
+bx 	1
+m.b	1
+ocu	2
+ (x	1
+(x)	1
+x)h	1
+)ht	1
+ml,	2
+ xm	1
+xml	1
+, x	1
+ xl	2
+xli	1
+nu-	1
+u-g	1
+t-.	1
+-.p	1
+po-	2
+(po	9
+ct)	1
+ocb	1
+cbo	1
+n "	4
+ "m	1
+"mi	1
+03"	1
+3" 	1
+" w	2
+t-ü	1
+goo	11
+"dg	1
+dgt	1
+-om	1
+at"	1
+t" 	2
+" s	1
+ktd	2
+ sd	2
+sdl	2
+dl 	2
+o.d	2
+m "	2
+"ta	1
+wip	6
+pe"	1
+" e	2
+ocx	1
+cx.	1
+x.
+	5
+(um	6
+nzm	18
+zmo	2
+skt	1
+rkf	2
+moq	1
+oq 	1
+q e	1
+rmü	4
+müb	1
+odf	1
+ c+	1
+c++	1
+++ 	1
++ e	2
+lyo	4
+on/	1
+n/f	1
+/fr	1
+x b	6
+k.e	2
+ "a	2
+"au	1
+te"	4
+th-	1
+d.w	1
+.wi	3
+x-ä	1
+-äh	2
+.7.	1
+7.3	1
+.3 	3
+ x)	1
+x).	2
+x-d	1
+ ub	6
+tu 	3
+9.0	2
+.04	2
+3.6	2
+.6 	3
+dmä	3
+2.3	2
+tu-	1
+16;	3
+6; 	4
+ lt	8
+.0 	2
+3.5	2
+.5 	1
+4.0	7
+4.1	1
+.1 	1
+ zc	3
+zch	4
+h კ	1
+ კა	1
+კახ	1
+ახა	1
+ხაბ	1
+აბე	1
+ბერ	1
+ერ 	1
+რ ც	1
+ ცხ	1
+ცხა	1
+ხად	1
+ადა	1
+დაძ	1
+აძე	1
+ძე,	1
+ე,t	1
+,tr	1
+akh	1
+skh	1
+ze;	1
+* 7	3
+taw	2
+wi,	2
+if 	3
+dsv	1
+sva	4
+t-a	3
+ija	6
+ja 	30
+ wl	2
+wla	4
+kaw	2
+awk	8
+03/	5
+3/0	1
+/04	1
+-eu	4
+owd	3
+wdy	1
+dyh	1
+yha	1
+aid	8
+ku.	1
+ u-	13
+u-2	1
+-21	2
+1-n	2
+tsy	5
+ sr	6
+l 3	2
+pe,	6
+iup	1
+upa	3
+ac-	1
+ohs	4
+,5)	1
+790	6
+awf	2
+wfo	2
+mdb	1
+808	5
+avy	9
+vy 	11
+lrö	3
+pyr	19
+(ro	2
+be)	4
+umr	3
+rzn	2
+cru	2
+„lu	1
+yt“	1
+umc	22
+mca	15
+ösl	9
+49–	3
+irw	5
+rox	5
+370	2
+ppm	1
+pm 	4
+rdk	3
+wef	6
+msu	14
+ulf	30
+ 59	12
+9,4	1
+auo	1
+ko,	4
+92.	4
+96.	4
+fid	9
+ffd	4
+fdi	5
+id.	8
+idl	3
+dlö	3
+ipr	2
+um-	11
+mox	3
+vak	5
+kuu	2
+lb-	1
+b-g	1
+-gl	2
+lzp	3
+ 77	5
+777	5
+7 °	2
+lci	15
+ciu	24
+ g/	2
+g/c	1
+/cm	1
+cm3	1
+m3 	1
+mgr	3
+ fm	1
+fm3	1
+m3m	1
+3m 	1
+25)	2
+5)v	1
+)vo	3
+e:r	1
+:ra	1
+pe/	1
+/22	1
+(ku	8
+-ty	4
+yp)	3
+= 6	2
+608	1
+ pm	4
+215	1
+c w	1
+xag	1
+m-t	6
+= 4	1
+432	2
+ c 	2
+c =	1
+= 7	1
+706	2
+605	3
+c i	7
+vst	2
+umn	4
+dbi	4
+mhy	1
+iak	4
+t ä	3
+ ä.	3
+ä. 	3
+o2)	1
+sfä	10
+, 8	9
+84s	2
+4sr	2
+sr,	4
+86s	3
+6sr	3
+87s	4
+7sr	4
+88s	2
+8sr	2
+,58	2
+t 9	7
+,86	1
+7,0	1
+r.9	1
+.90	1
+90s	13
+0sr	13
+,54	1
+546	1
+mev	2
+lbw	7
+28,	8
+,78	2
+u 9	3
+90y	2
+0y,	1
+(t1	1
+t1/	1
+/2 	2
+2 =	1
+64,	5
+ h)	1
+e =	1
+= 2	3
+282	1
+ev)	1
+v) 	4
+90z	1
+0zr	1
+zr 	1
+taz	1
+imä	10
+l 9	1
+35u	1
+5u 	1
+nex	3
+pt.	5
+e \	3
+ \m	3
+\ma	3
+m {	3
+ {^	3
+{^{	3
+^{2	4
+{23	4
+35}	4
+5}_	2
+}_{	3
+_{\	6
+{\ 	11
+\ 9	4
+ 92	6
+92}	4
+2}u	2
+}u+	2
+u+_	2
++_{	4
+_{0	4
+{0}	4
+0}^	5
+^{1	6
+1}n	4
+}n\	2
+n\l	2
+\lo	4
+w _	4
+2}^	2
+36}	4
+6}u	2
+}u\	2
+u\l	2
+\ 5	2
+57}	1
+7}^	2
+{14	2
+44}	1
+4}l	1
+}la	1
+la+	1
+a+_	2
+_{3	7
+{35	2
+5}^	1
+^{9	8
+{90	8
+90}	8
+0}b	1
+}br	2
+br+	1
+r+2	1
++2\	1
+2\ 	1
+\ _	7
+}n}	2
+n} 	2
+} }	3
+ }
+	3
+ 56	8
+56}	1
+6}^	3
+43}	1
+3}b	1
+}ba	1
+ba+	1
+{36	2
+0}k	2
+}kr	2
+kr+	1
+r+3	1
++3\	1
+3\ 	1
+0}_	1
+5}b	1
+br\	1
+r\ 	3
+\ {	10
+{\x	5
+\xr	5
+xri	5
+ow[	5
+w[{	5
+[{{	5
+{{1	2
+{1,	1
+1,9	2
+,91	2
+91}	1
+1}\	1
+}\ 	10
+\ s	3
+ s}	3
+s}}	3
+}}]	5
+}]{	5
+]{\	5
+{\b	5
+\be	5
+a ^	5
+ ^{	5
+^{-	5
+{-}	5
+-}}	5
+kr\	1
+{{3	1
+{32	1
+2,3	2
+,32	2
+32}	1
+2}\	1
+{37	1
+37}	1
+0}r	1
+}rb	1
+rb\	1
+b\ 	1
+{15	1
+58}	1
+8}\	2
+{38	1
+38}	1
+8}^	1
+0}s	1
+}sr	1
+sr\	1
+{{2	1
+{28	1
+78}	1
+\ a	1
+ a}	1
+a}}	1
+{39	1
+39}	1
+9}^	1
+0}y	1
+}y\	1
+y\ 	1
+{{6	1
+{64	1
+4,0	1
+,0}	1
+0}\	1
+\ h	1
+ h}	1
+h}}	1
+_{4	1
+{40	1
+40}	1
+0}z	1
+}zr	1
+zr}	1
+r} 	1
+  g	2
+0,0	1
+,07	1
+7 t	3
+tbq	2
+bq 	3
+q 9	1
+yl,	1
+q b	1
+–58	1
+61–	1
+1–6	2
+–63	3
+37c	1
+7cs	1
+6 ·	1
+ · 	1
+· 1	1
+ bq	1
+q (	1
+ pb	1
+pbq	1
+bq)	1
+q).	1
+a ü	4
+ukä	1
+ämi	2
+9 j	6
+1 j	6
+ldd	2
+hyr	1
+yre	3
+eoi	1
+liq	4
+uid	11
+0y 	1
+ttü	1
+n.8	1
+.87	2
+iar	10
+bid	5
+87r	1
+7rb	1
+.st	5
+räh	1
+avr	2
+vr 	1
+jül	3
+üli	2
+17[	1
+7[v	1
+[ve	1
+et]	1
+t] 	1
+] a	1
+ärh	2
+mle	5
+m-l	3
+örn	3
+g  	4
+  h	4
+ßbe	1
+(gi	3
+ß- 	1
+teö	1
+ ox	14
+dgu	1
+kgu	1
+e  	14
+egü	6
+kku	11
+u-p	1
+r 0	2
+ g,	1
+csä	1
+89s	1
+9sr	1
+lsn	3
+n“)	7
+id,	8
+(kl	2
+ d)	1
+ol,	4
+e +	1
+ +2	1
++2 	1
+luo	3
+srx	1
+rx2	1
+x2.	1
+mfl	3
+ssä	3
+zsä	1
+hnp	2
+ug-	1
+um(	3
+m(i	3
+(i)	3
+i)-	1
+)-v	1
+i)h	1
+)hy	1
+oh,	1
+i)c	1
+)ch	1
+src	1
+cl,	1
+rbg	2
+efg	2
+npo	3
+ylc	1
+lcy	1
+cyc	5
+ycl	5
+clo	5
+yl-	2
+(cp	1
+cp*	1
+p*)	1
+*),	1
+t.e	1
+e:s	1
+:st	1
+jai	1
+köh	2
+öhl	6
+: u	6
+nn'	1
+n's	1
+ncy	4
+y-v	3
+-vc	1
+vch	1
+.10	3
+02/	1
+/14	3
+435	2
+356	3
+7.a	1
+.a2	1
+a25	1
+25_	1
+5_3	1
+_32	1
+321	2
+wib	2
+02.	3
+ruy	2
+uyt	2
+70-	4
+0-1	9
+-1,	3
+36–	2
+ewü	7
+(e 	1
+60b	1
+0b)	1
+b) 	4
+(bo	2
+me:	1
+bix	6
+ixa	1
+xa 	4
+xin	7
+ku,	2
+to;	1
+uco	2
+ou,	1
+g-b	4
+may	5
+yas	1
+ncr	1
+to,	7
+orí	1
+ríf	2
+ífi	1
+psh	1
+ue,	6
+edd	4
+dda	3
+t-h	6
+mim	1
+pi,	1
+t x	1
+mg/	1
+g/k	1
+/kg	1
+r-z	2
+ta-	6
+ti-	4
+i-a	1
+bsf	2
+fev	1
+zam	5
+dsb	2
+i 9	2
+g 9	1
+ 96	3
+ c:	1
+c: 	1
+av:	1
+v: 	2
+10a	2
+0a 	2
+tg,	1
+ k:	1
+ n-	1
+zgä	1
+k-j	1
+13
+	2
+ u:	1
+be
+	1
+enq	1
+nqu	4
+n)w	1
+)wi	1
+n §	5
+ao 	5
+d §	3
+tg 	5
+§ 5	2
+tdv	1
+§ 4	10
+bep	2
+rng	2
+410	2
+ro
+	1
+(na	4
+i /	2
+/ v	2
+v m	4
+rt
+	1
+at
+	3
+eu-	2
+e §	2
+ 1a	1
+1a 	1
+tg)	1
+ (§	7
+(§ 	7
+ao)	2
+o).	9
+ei:	1
+i:
+	1
+nzä	1
+zäm	1
+tsj	1
+-dr	4
+255	5
+55/	1
+ß §	2
+a.f	1
+.f.	1
+ao,	1
+daw	7
+luk	3
+cz.	2
+lce	2
+c k	6
+lkh	1
+17-	7
+7-j	3
+ßbö	1
+böc	1
+üt 	7
+c c	6
+10/	3
+0/1	4
+/11	3
+ihb	3
+ vf	2
+vfb	1
+fb 	1
+vfl	1
+fl 	1
+11/	4
+/12	4
+s.z	2
+.zu	4
+c v	3
+ ms	2
+v d	6
+lf.	2
+:1-	3
+1-h	1
+ims	8
+g-v	5
+ce.	7
+u-1	2
+16-	8
+6-n	1
+7 2	1
+zhā	3
+hān	3
+āng	4
+ dà	2
+dào	2
+àol	2
+íng	2
+h 張	1
+ 張道	1
+張道陵	1
+道陵 	1
+陵 /	1
+/ 张	2
+ 张道	1
+张道陵	1
+道陵,	1
+陵, 	1
+ng;	5
+* u	4
+jia	2
+su;	1
+† u	1
+56)	2
+6);	1
+ (張	1
+(張天	1
+張天師	1
+天師 	1
+師 /	1
+ 张天	1
+张天师	1
+天师,	1
+师, 	1
+  z	2
+āns	1
+shī	1
+hī)	1
+ī) 	2
+dao	14
+aoi	6
+hi,	4
+aod	1
+dej	1
+eji	2
+uoy	1
+fuz	1
+hua	10
+lao	2
+aoz	1
+(zh	1
+ngy	2
+gyi	1
+yi)	1
+hi)	1
+hao	1
+aos	1
+üml	2
+eu,	1
+lk.	1
+aol	7
+wud	1
+oum	1
+(fü	4
+jad	1
+lu 	6
+oß,	2
+lu,	1
+ifb	1
+bao	1
+aop	1
+pu 	1
+-37	3
+377	2
+1-8	3
+ 2;	1
+; z	4
+v.,	3
+  p	2
+z t	6
+moc	5
+ocr	4
+(dc	1
+bbl	5
+li,	7
+nrr	1
+ivo	7
+vo 	2
+occ	6
+cco	10
+to)	3
+ca)	3
+hyg	2
+ygi	1
+8 ü	2
+cio	5
+caz	4
+ dc	1
+dc-	1
+c-f	1
+ukk	5
+rpi	5
+* a	2
+mäk	2
+äki	1
+ryh	1
+yht	1
+up.	5
+idr	2
+bu-	2
+stø	1
+tøl	1
+øle	1
+ltc	15
+up-	11
+p-d	2
+e 7	7
+78.	2
+vé 	5
+ mě	5
+měs	5
+ěst	5
+avě	1
+vě.	1
+ě. 	1
+94.	3
+03.	6
+rkk	8
+äkä	1
+kär	12
+ärä	1
+äin	1
+msh	4
+äbn	2
+kag	1
+aks	6
+u-b	10
+ot-	9
+ts:	3
+onr	20
+eul	4
+önu	1
+ibo	5
+ns?	1
+s? 	1
+rl.	1
+odk	1
+pfü	1
+füb	1
+–61	1
+111	5
+(21	1
+36.	3
+d)e	1
+)er	1
+ 02	1
+027	2
+4.s	2
+037	1
+376	1
+ilp	17
+a -	1
+- z	1
+382	1
+z.v	1
+.v.	7
+v.o	1
+.o.	1
+837	4
+olj	6
+jow	7
+h и	1
+ иг	1
+иго	1
+рь 	1
+ь б	1
+ори	2
+рис	1
+исо	2
+сов	1
+ови	2
+вич	2
+ич 	2
+ч к	1
+ ко	2
+кор	2
+рол	1
+олё	1
+лёв	1
+ёв;	1
+в; 	2
+ sf	2
+sr;	1
+† 7	3
+uno	4
+awl	5
+wl)	1
+x c	4
+coy	2
+eaf	3
+haw	13
+wks	3
+94/	1
+4/9	1
+/95	1
+cko	10
+kou	5
+ex-	2
+w v	2
+hl-	5
+04/	2
+4/0	2
+/05	2
+rsk	5
+w z	2
+khl	4
+y 1	3
+6 t	3
+1 –	3
+ ud	1
+dss	3
+sr.	1
+gde	42
+veb	2
+häc	3
+bh 	10
+bsr	1
+ld–	1
+d–w	1
+–wi	1
+ktä	1
+ägl	14
+gpa	7
+dud	4
+224	5
+661	6
+617	3
+7-9	1
+rw.	5
+694	2
+hoy	3
+mka	10
+nhu	2
+rmv	2
+ziu	2
+aß,	2
+259	1
+-lü	1
+foc	1
+254	3
+hbi	3
+eo:	1
+702	5
+02–	2
+–70	2
+04
+	1
+suu	4
+uu;	1
+säl	1
+äla	1
+ti)	1
+y-r	2
+kki	3
+6/6	1
+/67	1
+uom	2
+arj	6
+ja,	5
+ahd	2
+sm-	3
+jok	1
+li-	2
+laz	3
+gfo	2
+ if	3
+ifk	1
+iig	1
+78/	1
+8/7	1
+/79	1
+81/	1
+1/8	1
+/82	1
+ehc	1
+otn	1
+tnu	4
+ u1	2
+u19	1
+9-e	1
+69.	1
+8-j	2
+koi	3
+oiv	1
+ivu	2
+vu 	1
+sap	2
+68“	1
+8“ 	2
+ ww	2
+w.i	1
+.ii	1
+hf.	1
+f.c	1
+msr	5
+möv	2
+öve	3
+fsj	1
+pañ	1
+año	1
+ño 	1
+noa	1
+kax	2
+naw	4
+awá	2
+wá 	1
+á (	1
+ua)	1
+pib	1
+wá,	1
+á, 	1
+axa	1
+xar	1
+oos	2
+os:	1
+ w.	2
+dix	1
+a y	10
+ y.	2
+227	3
+27–	4
+7–2	4
+–25	4
+oxf	8
+xfo	8
+593	3
+3–4	2
+hsu	10
+aiz	3
+ziè	3
+iae	12
+-lo	7
+-gé	1
+géa	1
+saô	7
+aôn	7
+ône	7
+-et	2
+omt	6
+mté	3
+ dh	5
+réo	1
+éon	1
+rté	1
+135	7
+odh	3
+dhu	2
+l’é	2
+’ép	1
+épe	1
+’ég	1
+égo	1
+cue	1
+acy	2
+cy-	1
+ot)	1
+enô	1
+nôv	1
+ôve	1
+ngü	3
+eot	18
+60,	5
+580	5
+595	1
+rgü	3
+ey:	2
+'ab	2
+ye 	3
+37è	1
+7è 	1
+è c	1
+grè	1
+rès	1
+'as	2
+uig	2
+tés	1
+és 	2
+66,	8
+ zd	8
+zdb	4
+db-	4
+b-i	4
+220	4
+9-0	6
+–21	3
+uré	1
+'au	1
+un-	13
+peu	45
+ez:	1
+yes	2
+giq	1
+uxe	1
+e é	1
+nté	1
+ée.	1
+. é	1
+ud,	3
+62.	2
+ea,	3
+* 5	3
+eo)	1
+uay	3
+ayi	2
+,70	1
+sió	5
+ión	5
+ón 	9
+gae	2
+aei	2
+ y 	6
+tlé	1
+lét	1
+éti	5
+ có	1
+cór	1
+órd	1
+dob	68
+13/	3
+3/1	2
+(ke	3
+ecu	6
+5-m	1
+) 2	1
+wha	2
+my,	1
+d-n	4
+käp	2
+äpt	2
+pt’	2
+t’n	2
+’n 	2
+ew,	1
+wof	1
+ofü	1
+94)	4
+ekn	2
+96)	3
+hnü	2
+nüf	1
+üff	2
+voy	1
+yag	1
+97)	4
+– ä	3
+zti	3
+95–	2
+97:	1
+91:	2
+: y	3
+„ex	2
+exc	6
+xce	4
+ctr	3
+my
+	1
+92:	1
+„ou	1
+e-o	4
+-ov	1
+ew
+	1
+ig–	4
+g–m	1
+–ma	1
+ db	2
+db 	3
+r–b	4
+–be	4
+lsl	9
+tys	2
+erx	12
+rxh	12
+xhe	12
+g–b	2
+–ba	2
+g–h	4
+–ha	4
+844	8
+–br	1
+iej	3
+pfb	2
+(mh	2
+mhe	7
+ktv	2
+n–h	2
+növ	2
+(bp	1
+bpm	5
+pme	10
+ärv	6
+g-c	1
+-cö	1
+cöt	1
+n-h	7
+fs,	2
+ bp	4
+8 r	2
+.zw	2
+ppw	1
+pwa	1
+le/	1
+e/l	1
+ d-	5
+-zü	2
+ d 	1
+31/	3
+1/3	3
+/32	3
+exk	5
+xkl	3
+v f	7
+itv	6
+bko	4
+3 t	4
+– b	10
+vde	1
+-ex	3
+tz–	2
+z–t	1
+–tr	1
+rt–	1
+t–b	1
+rdd	1
+c 5	2
+ rb	1
+b 4	5
+(am	1
+60)	1
+jür	12
+örs	7
+ pü	1
+pür	3
+213	5
+„fa	1
+el“	4
+ütl	2
+iac	6
+cea	2
+lwu	1
+ömt	1
+0– 	1
+0-s	2
+lb.	1
+l-g	2
+ifö	2
+iby	2
+bye	1
+ägä	1
+gäi	1
+syr	3
+ ät	1
+s α	1
+ α-	2
+α-p	1
+nné	1
+gii	3
+uf;	1
+f; 	8
+doa	5
+oa 	4
+a .	1
+ ..	3
+...	6
+.. 	3
+212	1
+gsn	5
+t  	3
+  c	2
+aet	2
+794	3
+18/	1
+isu	12
+shs	2
+iul	1
+gyu	2
+yul	2
+ehé	1
+hér	1
+érv	1
+rvá	2
+vár	1
+ár)	2
+.)
+	7
+nru	5
+ukü	3
+5./	1
+./1	1
+n á	1
+ ág	1
+ágo	1
+ená	1
+árd	2
+réd	2
+éd 	1
+-lá	1
+láz	3
+ázá	1
+zár	1
+ár,	1
+ua,	1
+-sl	3
+ho-	2
+h ö	3
+ öd	3
+1 o	2
+itk	5
+ngd	3
+gdi	2
+fsh	3
+it;	3
+btr	4
+.41	1
+² a	1
+.07	3
+²) 	1
+ekm	3
+urj	3
+üd-	6
+nya	2
+drá	1
+ráv	1
+áva	1
+akö	1
+köz	1
+öz)	1
+n,
+	2
+fiu	3
+rij	3
+en(	1
+n(s	1
+(sh	1
+mde	11
+ouk	2
+(no	10
+(sl	1
+571	1
+.66	1
+00;	1
+0,4	1
+(83	1
+833	2
+3.4	1
+.47	2
+475	1
+551	2
+51.	2
+1.2	2
+.21	1
+211	2
+(6,	1
+141	2
+1.8	1
+.88	1
+(1,	1
+3.7	2
+.76	1
+.74	1
+unj	3
+d š	1
+ šo	1
+šok	1
+okc	1
+kci	1
+ci)	1
+9.1	2
+.17	1
+176	10
+9.9	1
+.92	1
+88.	3
+8.8	1
+.82	1
+skä	2
+„ne	4
+in!	2
+n! 	3
+! n	3
+ls!	1
+s!!	1
+!!“	1
+em!	2
+m! 	2
+! s	1
+ha!	1
+a!!	1
+!!)	1
+lbm	1
+bma	3
+oßu	3
+(ic	4
+ns!	1
+! –	2
+egy	4
+haz	2
+azá	1
+záb	1
+ába	2
+i ö	2
+örö	1
+rök	2
+ök 	1
+azs	1
+zsá	1
+ság	1
+ágb	1
+szá	1
+zág	1
+ág 	1
+ltá	1
+tám	1
+áma	1
+adá	1
+dás	1
+ásá	1
+sáb	1
+45/	1
+/47	1
+nc“	1
+c“)	1
+va/	1
+a/p	1
+/po	1
+ozs	1
+zso	1
+ny/	1
+y/p	1
+o 9	2
+ zs	3
+zsi	1
+zy 	3
+ ip	5
+nzp	9
+zpo	8
+je)	1
+zom	5
+oró	4
+róc	3
+óc 	2
+óc.	1
+g ö	1
+lső	2
+sőc	2
+őcs	2
+csa	3
+atá	3
+tár	4
+ár 	2
+lsó	1
+sóc	1
+ócs	1
+vát	1
+átl	1
+tlö	1
+löv	2
+övő	1
+vő,	1
+gyn	1
+lmó	2
+mód	2
+ód,	1
+rnó	1
+nóa	1
+óap	1
+apá	1
+pát	1
+áti	1
+tpé	2
+pét	5
+éte	2
+szt	5
+ né	2
+ném	1
+éme	1
+etk	1
+ rő	1
+rőt	1
+őtf	1
+ód 	1
+skő	2
+kőú	1
+őúj	1
+újf	1
+jfa	1
+kő 	1
+ő d	1
+gsi	6
+sgi	3
+emz	1
+mze	2
+toz	2
+ozá	1
+zás	1
+ás 	1
+apj	1
+pja	1
+ja)	1
+áro	1
+ató	1
+tó 	1
+ó a	1
+riá	2
+ián	2
+án 	2
+ký:	1
+ý: 	1
+ggl	2
+kia	2
+18–	2
+ved	3
+067	4
+677	1
+77-	2
+jör	1
+c.h	1
+725	2
+506	6
+röb	2
+öbe	5
+ülc	1
+l/m	1
+/mü	1
+mür	1
+bty	1
+p l	2
+ubm	1
+ühg	3
+u-h	1
+haß	1
+aßl	2
+ßla	1
+6/2	2
+mb-	1
+b-w	1
+p-t	5
+to.	7
+9-j	3
+joz	1
+zef	2
+poo	5
+1:2	2
+:2-	1
+2-s	2
+zrü	1
+,48	1
+489	1
+(gd	1
+gd)	1
+lbf	15
+bfi	14
+3:0	2
+d-e	2
+2:1	2
+1-s	3
+zfü	2
+2:3	1
+:3 	1
+ sá	4
+sán	1
+ánc	1
+ez 	6
+ky.	6
+e à	2
+d-r	10
+6-f	2
+(1/	1
+tfä	2
+npu	1
+gby	14
+y-u	1
+ rc	2
+rc 	5
+c t	4
+fiä	1
+bwi	3
+by.	3
+ (“	1
+(“t	1
+“th	1
+ng”	1
+g”)	1
+”) 	1
+ewl	1
+ds-	2
+i-n	2
+27:	1
+7:2	1
+:21	1
+35:	1
+5:1	1
+rzr	2
+zri	1
+51:	1
+:15	1
+am“	1
+m“,	3
+t.g	2
+.gr	2
+r-1	2
+ahs	2
+61:	1
+:29	1
+efp	1
+fpu	1
+rdh	4
+07/	4
+7/0	3
+/08	3
+0 €	3
+€ d	1
+rkh	3
+4-t	1
+ibü	19
+wm 	3
+än.	1
+arä	1
+ jl	1
+jle	1
+th.	10
+h.n	1
+tié	10
+iéf	10
+éfo	10
+té.	1
+é.
+	2
+ioz	7
+oz 	5
+ og	4
+lgé	4
+gér	5
+éra	6
+dhö	1
+5,9	1
+,92	1
+täl	2
+'an	2
+iei	2
+chè	3
+hèr	1
+-lè	4
+lès	4
+ès-	4
+vau	4
+-cr	2
+d’a	3
+’am	1
+alh	5
+é g	7
+imw	1
+678	2
+uté	1
+(ac	1
+hng	4
+egp	1
+ a3	1
+a36	1
+km.	2
+819	6
+rk;	1
+858	2
+tee	7
+ta;	1
+4 ü	2
+h)m	1
+)mo	1
+h)v	2
+e:f	2
+:fi	2
+ve/	2
+e/w	2
+/wa	2
+ng/	2
+g/g	2
+/gl	3
+koś	3
+ośc	5
+ści	5
+ció	3
+iół	3
+ół 	3
+ł k	1
+uló	1
+lów	1
+ów)	2
+w) 	6
+riä	1
+iä-	1
+ä-h	1
+ł w	1
+ wn	1
+wni	2
+owz	1
+wzi	1
+zię	1
+ięc	1
+ęci	1
+naj	7
+ajś	1
+jśw	1
+świ	2
+wię	2
+ięt	2
+ęts	1
+zej	1
+ej 	2
+j m	1
+ryi	1
+yi 	1
+y-k	2
+ł n	1
+koł	1
+oła	1
+łaj	1
+aj 	1
+j w	1
+604	2
+i-w	3
+ühb	2
+säb	1
+tfü	4
+642	2
+hał	1
+ał 	1
+ł s	1
+kry	2
+mum	8
+rnl	3
+g-k	4
+ nn	2
+u-m	4
+-mü	4
+dgr	3
+03:	1
+ürs	15
+821	4
+lnh	2
+rn/	1
+n/l	1
+/lü	1
+oß-	4
+ß-)	1
+ue)	2
+: 4	1
+(hl	1
+gl)	2
+6 j	2
+-uf	2
+o-,	3
+mix	3
+ixt	1
+ dj	4
+dj 	1
+dj-	1
+j-p	1
+-pu	4
+mcs	1
+ap-	2
+p-ä	1
+tii	4
+rk“	3
+k“,	1
+r /	6
+(mü	2
+6 –	1
+iow	31
+ty“	2
+y“)	1
+wa.	3
+y 6	3
+7.8	2
+.86	2
+862	7
+ 74	4
+u.s	4
+.s.	5
+u).	2
+ol)	2
+sip	4
+pi.	1
+wa,	4
+41°	1
+1°3	2
+°39	1
+39′	1
+9′2	1
+′21	1
+21″	1
+1″ 	2
+91°	1
+°31	1
+31′	1
+1′3	1
+′30	1
+30″	1
+0″ 	3
+².
+	1
+8,4	1
+(28	3
+(13	6
+3,7	1
+ze)	2
+5,8	4
+2,8	3
+281	2
+(87	1
+7,9	2
+(35	1
+(41	1
+419	1
+(48	3
+311	3
+(44	1
+y 8	1
+-ri	9
+dtz	3
+- e	2
+wa-	4
+857	2
+o-n	1
+084	2
+,22	1
+5,3	1
+, 7	6
+2.2	3
+.22	1
+5.1	2
+.15	1
+öld	17
+lir	1
+zäs	1
+äsu	1
+eh-	2
+„na	1
+3/a	1
+xtg	1
+5.c	1
+.ch	1
+eod	25
+„bl	1
+zt;	2
+k  	3
+  „	1
+gör	2
+„hä	7
+rrm	1
+796	1
+äfl	2
+s.:	4
+ifz	1
+fzü	1
+r-w	2
+-41	6
+205	6
+76–	2
+–88	2
+riß	1
+682	4
+823	1
+23-	1
+1–2	6
+8-4	2
+417	1
+obr	6
+82–	4
+wul	1
+ecl	1
+= u	2
+57–	1
+267	3
+c.c	1
+766	2
+-43	1
+431	1
+-5,	2
+74–	1
+4–7	1
+–79	2
+9.)	1
+262	3
+625	4
+hym	1
+e..	1
+..“	2
+.“.	2
+“.)	1
+ss:	8
+/ma	2
+noo	2
+op:	1
+p: 	2
+rm-	2
+m-v	1
+df;	4
+mbü	1
+büg	11
+ttt	2
+bfe	2
+aßk	2
+ßkl	2
+bna	6
+ckd	3
+kdr	1
+uzn	2
+bnä	2
+hüf	3
+acc	7
+säß	1
+ägz	1
+gzü	1
+fäd	1
+oß.	2
+4-j	2
+nug	4
+hrj	1
+55,	4
+ocl	4
+clc	4
+lc 	4
+c 3	1
+315	2
+294	3
+6 +	1
+ + 	4
++ 7	1
+ssn	5
+sn 	5
+c 2	1
+468	1
+nok	3
+opc	1
+pco	1
+ sn	1
+fhö	2
+w-f	1
+pkw	1
+w-r	1
+omv	6
+30-	6
+0-v	1
+-v-	1
+v-s	11
+gsü	1
+izu	10
+lhä	1
+10e	2
+ t,	1
+lüh	2
+ jr	2
+jr.	2
+r.,	1
+amd	2
+w j	4
+ey.	2
+wif	1
+rmp	1
+og:	1
+zth	3
+läß	2
+äßt	1
+.“f	1
+“fl	1
+ef
+	1
+ozo	1
+ärc	1
+rpö	1
+pön	1
+o ö	2
+imv	1
+mvi	1
+mud	1
+asb	2
+kbu	2
+z-i	3
+htw	2
+ow)	3
+b –	1
+"po	2
+ld"	1
+d" 	1
+" i	1
+m)
+	1
+hüc	1
+nrw	3
+rw 	2
+a-j	1
+ß-e	1
+(th	6
+ii:	1
+048	2
+mck	1
+keo	1
+: c	16
+ca'	1
+a's	1
+-58	3
+581	1
+82-	4
+2-x	1
+ve:	1
+864	5
+4-2	1
+-26	2
+263	4
+ad’	1
+– ü	1
+cav	12
+aix	2
+x-l	2
+i-l	2
+32.	3
+p-p	4
+ls“	1
+085	2
+sua	3
+323	1
+eh.	1
+h.d	2
+ üx	1
+üxk	1
+xkü	1
+gyl	1
+062	3
+122	5
+228	2
+8-7	3
+-7,	2
+86–	2
+osé	8
+sé 	8
+rná	5
+nán	5
+ánd	5
+otú	1
+tú 	1
+ú b	1
+ruj	2
+uji	2
+jil	3
+lo;	1
+arí	3
+ría	2
+päp	1
+äps	1
+„pi	1
+piu	3
+ía-	1
+a-l	2
+za-	1
+käu	2
+rés	1
+  b	4
+aib	9
+! e	1
+e.v	6
+v.“	2
+ez“	2
+z“,	2
+chá	1
+háv	1
+áve	1
+vez	1
+ak-	1
+k-e	1
+ez,	2
+g &	1
+ 03	2
+034	2
+622	3
+35–	1
+miz	2
+ikp	3
+3.e	1
+edy	2
+dy,	2
+kyl	1
+woe	1
+oe,	1
+apt	3
+o-m	4
+³ w	1
+4,3	2
+tl.	5
+-ze	7
+ntv	2
+übu	11
+huc	3
+g-w	5
+okw	12
+agl	1
+rp-	1
+nkk	1
+döl	1
+örz	1
+evn	2
+vn 	1
+mw 	1
+/s.	2
+mw,	2
+n.ü	1
+.üb	1
+mp-	1
+p-k	1
+ mb	1
+mb)	1
+53
+	1
+an(	1
+n(*	1
+ir)	2
+)  	1
+phs	5
+ebb	6
+amc	1
+mco	1
+coa	3
+kof	2
+l.a	1
+.a.	1
+2 –	3
+y &	3
+& i	3
+wee	4
+hrü	1
+eßg	2
+,50	1
+ m/	1
+lgu	2
+p k	2
+oeb	2
+ssq	2
+nsn	3
+zky	3
+hsk	1
+esv	10
+b c	2
+tbü	8
+zeß	1
+ß.
+	2
+amn	3
+ kz	2
+kz-	2
+z-h	3
+8.d	1
+laß	2
+ür,	5
+ "f	5
+"fl	1
+luß	1
+ußü	1
+ßüb	1
+ng"	2
+g" 	2
+" –	1
+knö	2
+nöp	2
+ zk	1
+zk 	1
+eßs	2
+(mf	1
+mfs	2
+aja	18
+önh	2
+msä	1
+ün 	1
+ dz	1
+dzi	5
+yns	2
+ki“	1
+epn	1
+pni	1
+ee)	1
+-op	3
+hpe	2
+lzf	3
+o ü	1
+ubh	2
+ztp	2
+gd-	1
+dfe	2
+dr-	9
+vea	8
+swu	2
+nkä	1
+x d	3
+fs-	3
+ad)	1
+mdu	2
+ha-	1
+mwa	4
+gkl	2
+ (7	5
+(75	2
+ d,	1
+mek	3
+kkl	2
+nnü	2
+bsk	5
+em“	1
+a-z	1
+us
+	1
+; o	2
+tr.	5
+50)	4
+möb	3
+uf)	1
+f),	1
+osm	5
+lpt	11
+sgä	2
+grz	2
+gey	1
+zke	1
+zäu	1
+e.e	3
+ptt	2
+tgä	1
+lld	2
+273	3
+n–s	3
+–st	1
+gäs	5
+(bb	3
+bbg	1
+bg)	1
+-fü	3
+388	1
+55-	3
+5-7	1
+734	1
+nye	1
+yel	2
+kim	7
+thj	1
+hje	2
+= o	1
+e.)	1
+r »	1
+ »w	1
+»wa	1
+tz«	1
+z«.	1
+«. 	1
+fb-	1
+b-v	1
+9 –	1
+: …	1
+ …l	1
+…le	1
+mwi	1
+te…	1
+e…)	1
+…)
+	1
+z .	1
+w.w	1
+.wa	1
+z.d	1
+llé	3
+lée	2
+evr	3
+vre	6
+frz	1
+rég	1
+égi	1
+s y	1
+rkv	1
+rc“	1
+48°	1
+8° 	2
+° 4	1
+42′	1
+2′ 	3
+′ 3	2
+38″	1
+8″ 	1
+ n,	2
+ 2°	1
+2° 	1
+° 2	1
+ 2′	1
+31″	1
+″ o	1
+ o)	1
+s "	4
+ "z	1
+"zu	1
+" m	1
+hlö	4
+aw 	12
+asg	6
+gow	4
+dgf	1
+r y	3
+gap	1
+üt,	1
+ewc	2
+wca	2
+7 -	1
+ -,	1
+i y	2
+eov	1
+wn.	1
+ihs	1
+cca	7
+aw,	1
+yea	1
+ph,	2
+aig	8
+igd	1
+utc	7
+ oj	1
+aa,	1
+zai	1
+ür.	1
+  m	7
+(id	1
+ez.	1
+e)“	1
+)“ 	2
+jeh	1
+ts“	4
+s §	4
+§ 3	5
+rkg	12
+) .	1
+(vw	1
+vwv	2
+wvf	2
+vfg	2
+fg)	1
+ §§	3
+§§ 	3
+(sg	1
+sgb	1
+gb-	1
+b-x	1
+-x)	1
+ vw	1
+fg 	1
+(ni	5
+dsu	7
+§ 6	2
+z 3	2
+kg)	3
+ndz	4
+ bn	1
+(ur	2
+so.	1
+mt;	1
+kg.	2
+üfe	1
+rbd	1
+nüg	5
+a ö	1
+ gb	1
+gbo	1
+286	1
+ zp	5
+po)	3
+ (ä	4
+(äu	2
+416	3
+wem	3
+rrü	3
+(fo	4
+r §	1
+415	3
+po.	3
+eiv	1
+– g	4
+.si	2
+ooh	1
+(ta	1
+ará	1
+rán	2
+ánt	1
+sa)	7
+cm 	5
+u –	3
+ax,	2
+inö	1
+pax	1
+gti	4
+ib,	1
+e.g	1
+4):	2
+) +	1
++ a	1
+372	1
+5-4	5
+ryl	6
+ghs	2
+anv	3
+l-z	1
+ney	10
+cey	1
+pup	1
+gd,	1
+y –	1
+(wk	1
+ks)	1
+t -	1
+- k	2
+gds	2
+gn,	1
+a.:	1
+dtl	1
+ 98	3
+82.	4
+ næ	1
+nær	1
+ærh	1
+mds	2
+(ga	3
+lm;	1
+ix;	1
+; h	7
+ed)	2
+ikv	1
+kvi	1
+duo	1
+uo.	1
+p t	2
+go:	1
+exu	7
+xue	3
+k-a	1
+ př	3
+při	3
+řik	3
+096	1
+hnj	3
+odn	1
+ohä	2
+häs	4
+dso	7
+rpt	3
+adh	4
+dhä	2
+slö	3
+öl-	1
+emg	5
+ff­	1
+f­g	1
+­ge	1
+rbm	2
+bmi	2
+(ph	1
+lzw	6
+öle	4
+zeo	1
+lk,	1
+rzd	2
+zdi	3
+ckn	10
+knu	6
+ylh	1
+(ce	2
+huk	2
+uk 	3
+r.b	1
+ché	5
+hé.	2
+ekü	8
+lky	1
+kyd	1
+ydh	1
+pox	3
+lyk	2
+yko	2
+rz)	3
+yad	1
+yur	2
+idh	2
+z)b	1
+)be	1
+lye	2
+lox	1
+uk)	1
+ uv	1
+uv-	1
+bhe	3
+rbp	1
+bpi	1
+rbn	1
+rbw	1
+2-k	1
+ips	19
+psk	4
+t-/	2
+-/a	1
+/ac	1
+iph	4
+tox	1
+x a	4
+ur)	1
+ffg	1
+er­	1
+r­k	1
+­ke	1
+ md	1
+mdf	1
+df-	1
+zpa	1
+(eb	2
+pän	4
+zfa	1
+pmd	1
+mdi	3
+ugf	4
+gfä	2
+ygr	1
+ißf	2
+ßfe	1
+kfa	3
+kfr	1
+nhy	1
+yph	3
+ömu	3
+ivk	1
+vko	1
+ffz	6
+oxy	3
+xyg	1
+yge	2
+rs)	2
+l-)	1
+-)v	1
+)ve	1
+xyd	1
+yda	1
+brø	1
+røn	1
+ønd	1
+dby	1
+ jó	2
+jón	2
+óns	2
+sdó	2
+dót	3
+ótt	3
+lof	2
+fsd	2
+zak	2
+k /	1
+/ h	3
+hud	4
+id:	1
+a /	5
+a á	1
+m /	1
+/ c	2
+csi	1
+ fó	1
+fór	1
+óri	1
+án:	1
+5:7	1
+:7,	1
+7:1	1
+:14	1
+14k	1
+4ka	1
+g /	3
+/ y	1
+niq	2
+ic-	3
+c-h	3
+gaf	2
+/ i	1
+ko:	1
+pf
+	1
+oyi	3
+o /	2
+zui	1
+gu 	1
+u /	1
+/ k	3
+niw	1
+h /	1
+ vl	3
+vla	2
+yav	1
+avs	2
+vsk	18
+bug	1
+/ a	1
+ bj	2
+bjo	1
+/ d	1
+drí	1
+ífa	1
+arð	1
+rða	1
+ðar	1
+rdó	1
+l /	2
+wda	1
+y /	1
+shm	3
+ież	1
+eżd	1
+żda	1
+ucz	1
+czy	3
+yk
+	1
+jua	7
+leó	5
+eón	5
+ón.	1
+  5	1
+8 c	5
+× 9	1
+lnü	1
+nüs	2
+xtu	3
+„ju	2
+juo	1
+n/d	1
+22“	1
+2“ 	1
+suj	1
+uje	1
+asw	2
+dpa	3
+ewh	1
+aw.	1
+. y	3
+rvu	3
+vue	2
+354	1
+fmä	2
+„co	4
+ol“	1
+f q	1
+xek	1
+4 r	3
+dki	1
+ärn	2
+898	4
+rdg	7
+hoß	1
+ß b	1
+nöf	1
+ijo	3
+eg-	1
+a.b	1
+srh	4
+käh	2
+n =	1
+däc	3
+(ds	1
+hg)	1
+o-w	5
+lrh	4
+ bá	2
+bát	1
+áto	1
+dt
+	2
+087	1
+876	2
+6-x	2
+-x
+	2
+75
+	1
+r):	2
+3.2	1
+.2:	1
+8-x	1
+nkw	3
+kwo	3
+rfp	1
+fpä	1
+mak	4
+wo,	1
+ ws	6
+wsw	5
+sw,	1
+00%	1
+0%i	1
+%ig	1
+(öp	1
+nv)	1
+öli	1
+sew	2
+10b	1
+0b 	1
+10w	1
+0w)	1
+w).	2
+xi-	1
+üh-	1
+28)	1
+(gt	2
+gtw	2
+tw 	2
+w 7	1
+ 72	4
+ebw	1
+diw	1
+kwa	14
+auj	2
+uja	3
+i-f	1
+3 =	1
+= 1	1
+ 00	1
+0 =	1
+d 0	2
+ 07	2
+7 =	1
+41:	1
+b 9	1
+bs)	3
+s)d	1
+bsh	1
+) 1	4
+-56	2
+ölt	1
+tv:	1
+ dv	4
+dvd	3
+vd 	3
+438	2
+384	1
+evy	5
+gak	2
+ cô	1
+côt	1
+ôte	1
+’az	1
+u18	1
+8-w	1
+o j	24
+a-d	1
+ky;	1
+y; 	3
+885	8
+45)	1
+835	2
+miu	7
+a- 	3
+ssw	4
+6 n	3
+go,	2
+lij	3
+h)j	1
+)jo	1
+siw	8
+h 寺	1
+ 寺洼	2
+寺洼文	1
+洼文化	1
+文化,	1
+化, 	1
+ sì	1
+sìw	1
+ìwā	1
+wā 	1
+ā w	1
+ wé	1
+wén	1
+énh	1
+huà	1
+uà,	1
+à, 	1
+zez	1
+su,	1
+n 寺	1
+寺洼山	1
+洼山,	1
+山, 	1
+tao	3
+o 临	1
+ 临洮	1
+临洮县	1
+洮县 	1
+县 (	1
+su)	3
+e 洮	1
+ 洮河	1
+洮河 	1
+河 v	1
+ (马	1
+(马鞍	1
+马鞍口	1
+鞍口陶	1
+口陶罐	1
+陶罐,	1
+罐, 	1
+ma'	1
+a'a	1
+aog	1
+ptc	1
+zea	1
+–11	2
+ (氐	1
+(氐,	1
+氐, 	1
+ dī	1
+dī)	1
+ qi	2
+ (羌	1
+(羌,	1
+羌, 	1
+  q	1
+qiā	1
+ (寺	1
+(寺洼	1
+寺洼遗	1
+洼遗址	1
+遗址,	1
+址, 	1
+ yi	1
+yiz	1
+zhi	1
+(6-	1
+ghu	3
+cem	3
+y —	1
+ — 	1
+— i	1
+scu	8
+xch	1
+(a 	1
+ngp	1
+ei
+	1
+npy	2
+dhü	1
+-dy	1
+soa	2
+ua 	4
+ 4/	1
+4/2	2
+nät	1
+39-	4
+oib	2
+7-6	1
+rao	5
+aon	2
+607	1
+070	4
+-65	2
+3.,	4
+alä	1
+gtü	1
+31-	3
+h ἀ	1
+ ἀτ	1
+ἀτα	1
+ταξ	1
+αξί	1
+ξία	1
+ία 	1
+α a	1
+xia	2
+a ‚	1
+ ‚u	2
+‚un	2
+ng‘	1
+‘ ‚	1
+it‘	1
+t‘)	1
+‘) 	2
+hfä	1
+g-u	1
+ysm	1
+(as	2
+ysd	1
+khy	1
+nd/	5
+/od	5
+ikö	12
+oim	4
+bsz	2
+zec	1
+rnf	1
+ufd	2
+fdo	1
+zod	1
+lkö	1
+-b1	1
+b12	1
+2-m	2
+mye	1
+-b-	1
+b-m	1
+u  	1
+d  	4
+(b1	1
+b1-	1
+1-/	1
+-/t	1
+/th	1
+(b3	1
+b3-	1
+3-/	1
+-/n	1
+syp	1
+= h	4
+adc	1
+dca	1
+lpy	1
+ hz	2
+  u	1
+%.
+	3
+uz,	7
+mtu	3
+(„c	1
+uzd	1
+zde	8
+s-o	9
+ f 	1
+ j 	1
+j (	2
+ph)	1
+hnä	1
+näb	1
+„si	7
+is“	2
+“),	4
+kde	1
+ärp	5
+-th	7
+a-o	1
+(k.	1
+k.)	1
+„zu	1
+ur“	1
+tzn	1
+5-x	2
+ba;	1
+: ö	2
+ff:	1
+ i:	2
+526	1
+81-	1
+h-b	20
+odz	1
+dz 	1
+t.n	2
+ cd	10
+cdu	3
+drh	2
+(om	1
+mv)	1
+mv 	3
+v n	3
+  r	1
+ew.	1
+phö	2
+ij 	3
+j t	2
+ev-	1
+v-v	1
+65.	3
+mue	4
+zbo	1
+rn:	3
+a-e	2
+-77	4
+or:	5
+ayt	7
+yto	11
+.25	2
+fax	1
+6.4	1
+478	2
+.27	1
+nw.	1
+w./	1
+./k	1
+/km	2
+4,6	1
+30,	3
+57,	7
+7,6	1
+,20	1
+4,4	1
+i 3	1
+4.2	1
+.29	1
+290	3
+0 $	1
+ $,	1
+$, 	1
+,30	1
+ 5a	1
+5a 	1
+353	4
+(us	1
+ubü	2
+büb	1
+csu	10
+u-f	2
+sl 	3
+(cs	1
+v 1	2
+iap	1
+z-b	1
+dvo	4
+ a–	1
+a–e	1
+–e.	1
+ür:	2
+: ‚	1
+‚he	1
+an‘	1
+n‘)	1
+l-l	3
+eav	1
+cd-	2
+dub	16
+3-c	1
+ „2	1
+„25	1
+25t	1
+5th	1
+y“-	1
+“-c	1
+ 9-	1
+9-l	1
+lp-	1
+p-b	1
+h 4	4
+4 c	7
+cds	1
+s +	1
++ 1	1
+d +	1
+ 7″	1
+7″-	1
+″-s	1
+ge;	1
+ogb	1
+gbä	1
+z 6	2
+1.i	1
+ep-	1
+(24	1
+73)	2
+: “	4
+ “…	3
+“…m	1
+…ma	1
+le’	2
+xec	2
+e.”	1
+.”
+	2
+hr:	1
+“…t	2
+…th	2
+nly	2
+cce	6
+up’	1
+p’s	1
+ady	2
+n.”	1
+.” 	1
+” b	1
+ “h	1
+“hi	1
+ar”	1
+r”,	2
+”, 	2
+, “	2
+ “s	2
+“sm	1
+er”	1
+“sp	1
+in’	2
+n’”	1
+’”.	1
+”.
+	1
+m …	1
+… s	1
+l …	1
+… a	1
+kmo	3
+gho	3
+t.”	1
+„ep	1
+ke“	1
+„id	1
+bzi	1
+ee“	1
+ pö	6
+pöp	1
+öpp	3
+rl-	3
+ew:	1
+el!	1
+l! 	1
+ eq	2
+uip	1
+ipm	1
+ke-	1
+-ap	1
+n ō	1
+tmö	1
+ mk	1
+mk.	1
+ii-	2
+de…	1
+…“.	2
+k-m	2
+im–	6
+m–n	4
+dlä	1
+huy	5
+uy-	2
+uy 	4
+uy.	2
+0-g	1
+en–	7
+n–n	3
+bfu	7
+rgw	3
+gwe	4
+750	2
+e)–	1
+)–d	1
+–de	2
+–sc	2
+-mm	4
+mm-	4
+„mu	1
+na“	1
+m–d	1
+hnm	4
+lbj	1
+bja	1
+75/	1
+5/7	1
+/76	1
+nf.	1
+90/	1
+0/d	1
+„lü	2
+y“.	2
+dt–	1
+t–j	1
+–je	2
+g.d	2
+fsg	1
+n–j	1
+689	1
+kaj	9
+ ра	2
+рае	1
+ае́	1
+е́в	1
+́вс	1
+вск	2
+ая)	1
+я) 	1
+niz	10
+asn	6
+sij	7
+ijs	8
+jsk	7
+owy	1
+817	1
+01–	2
+03k	1
+3k-	1
+k-0	1
+028	2
+ a2	2
+a29	2
+ m2	1
+m25	1
+– p	3
+haj	3
+gaj	1
+gai	1
+ezk	1
+ynk	25
+h σ	1
+ συ	1
+συν	1
+υνκ	1
+νκο	1
+κοπ	1
+οπή	1
+πή 	1
+ή s	1
+opé	2
+h ‚	1
+ ‚z	1
+‚zu	1
+n‘,	1
+, ‚	2
+ ‚a	1
+‚au	1
+n‘;	1
+ätl	1
+pe)	3
+plö	3
+(va	3
+sov	6
+(kr	1
+ic,	1
+‚ge	2
+gt‘	1
+t‘;	1
+-ps	1
+zup	2
+äßw	1
+ßwi	1
+äß‘	1
+ß‘ 	1
+‘ u	1
+dyk	1
+yka	2
+käl	1
+va-	2
+pfw	1
+(ek	1
+ekg	3
+aai	1
+ntö	4
+kfl	2
+i ä	2
+rmg	1
+pfr	2
+rfv	1
+hzv	1
+zv,	1
+äßk	1
+ßko	1
+w-o	1
+-ou	1
+omy	4
+myo	3
+mpv	1
+pve	1
+pfp	1
+fph	1
+ubc	3
+bcl	2
+(su	2
+zrh	1
+rzm	1
+zmu	2
+(6 	1
+bkl	3
+(lä	1
+mi)	1
+ißa	1
+ßau	1
+mda	1
+iur	63
+pep	5
+tid	2
+np)	1
+ofd	2
+fde	2
+t-e	2
+-ek	2
+evt	2
+vtl	2
+anä	1
+).b	1
+-ul	1
+äßv	2
+ßve	3
+pfo	4
+foh	4
+szö	1
+ümp	2
+ceb	1
+n α	1
+α-a	1
+wog	1
+zfu	1
+icd	1
+cd)	1
+(ho	2
+ocm	1
+cm)	3
+moy	1
+l.:	1
+9):	2
+sc)	1
+631	4
+671	4
+93/	1
+3/e	1
+/eu	1
+rtj	1
+tj/	1
+j/e	1
+/eh	1
+hp2	1
+p29	1
+298	2
+(gu	2
+of)	2
+f).	2
+ig;	2
+uam	5
+bwü	5
+22–	2
+2–2	1
+9 c	3
+ebh	3
+bhu	1
+bt;	1
+iß.	1
+nzd	2
+ißl	1
+uah	3
+ua-	1
+a-w	1
+-ok	1
+xas	4
+oah	1
+uev	4
+osí	1
+sí 	1
+í b	2
+jal	2
+aju	2
+, q	3
+eré	1
+rét	1
+éta	1
+aii	4
+a.d	1
+f ü	2
+gdw	1
+esq	1
+do,	5
+as
+	2
+wst	1
+) –	4
+ko
+	1
+üsc	3
+245	2
+äme	3
+mhi	2
+ceo	6
+käf	1
+izä	1
+ma)	2
+lml	3
+chy	5
+12–	1
+ 9–	1
+5 ×	2
+21–	4
+–23	3
+adg	1
+cgo	1
+& g	2
+6-3	2
+390	1
+0–3	1
+–39	2
+91
+	1
+z-s	2
+hüh	1
+h &	2
+& c	3
+kg,	2
+45
+	2
+uai	2
+yo,	2
+w e	3
+afo	2
+fow	2
+ynx	1
+nx 	1
+thw	3
+2–3	2
+0.2	1
+.23	1
+. &	5
+d y	1
+yeh	1
+nuh	1
+ up	2
+bic	2
+jär	1
+vi)	2
+ra)	2
+ce'	1
+e' 	1
+' p	1
+moz	8
+eo,	1
+é j	1
+e ,	2
+osì	2
+sì 	2
+ì f	2
+ikg	2
+héâ	1
+éât	1
+âtr	1
+enè	2
+nèv	2
+  –	1
+o –	2
+mav	2
+ hé	1
+hél	1
+élè	1
+lèn	1
+n.e	1
+  t	3
+adè	3
+dès	3
+ès'	1
+s' 	1
+' t	1
+kud	2
+drj	1
+jaš	1
+aš 	2
+š i	1
+aná	1
+náč	1
+áče	1
+ček	2
+atj	2
+ni-	1
+ke’	1
+kuš	1
+uše	1
+šej	1
+ej.	1
+gly	4
+c  	2
+  o	1
+oo 	2
+ c-	2
+c-m	1
+c-d	1
+hay	1
+ayd	1
+ydn	1
+dns	1
+(d 	1
+78)	3
+fyn	1
+ bb	3
+bbc	3
+d.“	2
+.“s	1
+“se	1
+op.	8
+ixp	1
+xpu	1
+ul’	1
+l’s	1
+szy	2
+haï	1
+aïm	1
+ïm 	1
+’as	1
+tré	2
+rée	1
+ée)	1
+aen	2
+eeu	2
+euw	2
+uw 	1
+hms	4
+sy,	1
+d'é	1
+'ét	1
+é v	1
+gsä	1
+lo.	2
+r −	1
+ − 	5
+− g	1
+n −	1
+− b	1
+w f	2
+rsè	1
+sèn	1
+k-t	3
+, y	1
+néz	1
+éze	1
+ség	1
+égu	1
+ly,	1
+11
+	1
+ki:	7
+ev,	1
+ey;	2
+vop	1
+er
+	6
+ès:	1
+ès;	1
+09
+	1
+do)	1
+puc	1
+ucc	8
+cci	6
+no;	1
+ gh	1
+ghi	1
+hiu	2
+iu,	2
+97
+	2
+ovs	13
+h д	1
+дос	1
+ост	1
+ста	1
+та 	6
+а д	3
+ ди	2
+дим	1
+имо	1
+мов	1
+овс	1
+ка;	1
+а; 	1
+opj	3
+pje	3
+ lj	2
+lju	2
+jub	4
+ubč	2
+bčo	2
+čo 	2
+evs	4
+aza	2
+(vm	1
+vmr	3
+mro	4
+-dp	3
+dpm	3
+pmn	3
+ vm	2
+eii	5
+iin	4
+eiä	1
+iäm	1
+ajk	3
+jko	3
+. а	1
+ аг	1
+аге	1
+ген	1
+енц	1
+нци	1
+циј	1
+ија	4
+јат	1
+ата	5
+а з	1
+ за	1
+за 	1
+а р	1
+раз	1
+азу	1
+зуз	1
+узн	1
+нав	1
+ава	2
+вањ	1
+ање	1
+ње)	1
+е) 	2
+. д	1
+ де	1
+дем	1
+емо	1
+мок	1
+окр	1
+кра	1
+рат	1
+атс	1
+тск	1
+ко-	1
+о-р	1
+-ре	1
+реп	1
+епу	1
+пуб	1
+убл	1
+бли	1
+лик	1
+ика	1
+кан	1
+анс	1
+нск	2
+ка 	3
+а п	1
+ па	1
+пар	1
+арт	1
+рти	1
+тиј	1
+ја 	2
+а н	3
+ на	6
+на 	6
+а м	1
+ ма	1
+мак	2
+аке	2
+кед	2
+едо	2
+дон	2
+они	2
+ниј	2
+ја)	1
+а).	1
+vni	1
+fio	1
+da-	2
+t б	1
+ бр	1
+бро	1
+род	1
+од,	1
+д, 	1
+: к	1
+ кн	1
+кня	1
+няз	1
+язъ	1
+зът	1
+ът 	1
+т н	1
+а т	1
+ тъ	1
+тъм	1
+ъмн	1
+мни	1
+нин	1
+ина	2
+нат	1
+а (	6
+, к	1
+ кр	1
+кръ	1
+ръщ	1
+ъща	1
+щав	1
+ван	1
+ане	1
+не 	1
+е н	1
+ да	2
+дам	2
+ама	2
+мат	2
+, с	1
+ сп	1
+спи	1
+пир	1
+ирк	1
+рка	1
+, п	1
+ пр	1
+пре	1
+ред	1
+ед 	1
+д в	1
+ вх	1
+вхо	1
+ход	1
+ода	1
+да 	1
+а к	1
+рид	1
+идо	1
+ора	1
+ра 	1
+d м	1
+ мо	1
+мол	1
+оли	1
+лит	1
+итв	1
+тва	1
+ват	1
+sjo	1
+w ü	1
+dje	6
+ në	1
+në 	1
+ë b	1
+dhë	1
+hës	1
+ësi	1
+iß)	1
+ß),	1
+ xh	1
+xha	1
+9-2	2
+бел	2
+ели	2
+ли 	2
+и д	2
+дож	1
+ожд	1
+ждо	2
+дов	2
+ви 	1
+и (	1
+dož	1
+ožd	1
+ždo	1
+vi,	1
+(бе	1
+ дъ	1
+дъж	1
+ъжд	1
+ове	1
+ве)	1
+4-9	1
+-99	1
+4.d	1
+а –	1
+– н	1
+нај	1
+ајв	1
+јви	1
+вис	1
+сок	1
+ока	1
+а у	1
+ уб	1
+уба	1
+бав	1
+ави	1
+вин	1
+ked	1
+ajv	1
+jvi	1
+bav	1
+2-5	1
+ -f	2
+tzd	3
+lnu	1
+fok	2
+t-,	2
+uf-	2
+nzf	2
+z x	1
+ xy	1
+xy 	1
+og)	3
+wn)	1
+zdo	1
+ggf	1
+gf.	1
+r ↔	1
+ ↔ 	2
+↔ k	2
+e ↔	1
+nzn	1
+ -a	1
+fsm	1
+ ie	2
+05
+	2
+nt:	4
+unh	6
+03
+	2
+h.-	3
+.-g	3
+-g.	3
+38–	2
+8–3	1
+owt	2
+wte	1
+wax	2
+axm	2
+xma	2
+10
+	1
+f 4	2
+apm	1
+pma	1
+mcm	1
+cma	1
+ayn	2
+r))	1
+)) 	3
+ 7e	1
+7er	1
+ytu	1
+eyc	1
+we 	7
+sił	1
+iły	1
+ły 	1
+ zb	2
+zbr	2
+ojn	1
+jne	1
+(ns	1
+sz;	1
+ymc	1
+mcz	1
+cza	1
+tyc	3
+ctw	1
+sz.	1
+sz 	9
+wią	2
+iąz	2
+ąze	2
+szc	2
+zcz	2
+czu	2
+rcz	2
+äro	2
+sz-	6
+-ak	2
+sz,	1
+z-z	2
+-zj	2
+zj 	1
+(„z	1
+zy“	1
+d“)	1
+rów	1
+zj-	1
+j-b	1
+bry	4
+ryg	1
+yga	1
+a ś	1
+ św	1
+ęto	1
+zys	1
+ysk	1
+(zi	1
+1.5	1
+z-e	1
+(nz	1
+zw)	1
+icj	1
+cja	1
+byw	2
+ywa	2
+imd	2
+l-p	3
+n.n	2
+.ns	1
+ nz	1
+zw-	1
+w-e	1
+dox	2
+60/	1
+lji	1
+m x	1
+pds	2
+ewg	1
+wge	1
+pso	3
+d &	1
+ewt	1
+wto	3
+bbo	5
+-55	1
+-50	2
+fay	4
+251	1
+51-	3
+mae	3
+815	2
+-69	1
+691	3
+91-	3
+r.1	2
+six	1
+x 2	1
+; 7	2
+iou	1
+on;	3
+ft@	1
+t@b	1
+@bp	1
+bph	1
+o-u	2
+-ug	2
+n.t	1
+.tr	1
+el'	1
+l' 	1
+' u	1
+zaj	1
+ov,	1
+ p[	1
+p[j	1
+[jo	1
+jot	1
+tr]	1
+r] 	1
+] m	1
+ m[	1
+m[e	1
+[ef	1
+fod	1
+vič	1
+ič]	1
+č].	1
+]. 	1
+kij	2
+j d	1
+aam	1
+azy	1
+gič	1
+iče	1
+sk:	1
+. б	1
+ ба	1
+баб	1
+аби	1
+бин	1
+инс	1
+й д	1
+диа	1
+иал	1
+але	1
+лек	1
+ект	1
+кт 	1
+т с	1
+ са	1
+саа	1
+аам	1
+амс	1
+мск	1
+ког	1
+ого	1
+го 	1
+о я	1
+ яз	1
+язы	1
+зык	1
+ыка	1
+ка
+	1
+ áh	1
+áhk	1
+hkk	1
+sáp	1
+ápm	1
+lač	1
+ačč	1
+čča	1
+čat	1
+mui	1
+sám	2
+áme	2
+mej	2
+ejo	1
+oav	2
+avk	1
+vkk	1
+maŋ	1
+aŋi	1
+ŋim	1
+muš	1
+uš 	1
+š s	1
+laš	1
+š o	1
+moš	1
+š j	1
+ já	1
+jám	1
+ámi	1
+mii	2
+avv	1
+vve	1
+njá	1
+jár	1
+árg	1
+ty:	1
+" u	3
+79-	1
+-96	2
+ruw	4
+mäa	4
+äan	4
+ghü	1
+157	5
+r.o	1
+.ob	1
+621	2
+na;	6
+676	5
+690	5
+gr.	1
+640	3
+müt	3
+29–	4
+652	4
+ofg	2
+668	12
+68,	8
+619	1
+rf;	2
+fom	2
+670	11
+ (†	5
+(† 	5
+632	1
+wov	2
+659	4
+731	1
+ze
+	1
+* j	2
+685	2
+na
+	1
+, †	1
+† s	1
+rh.	1
+ülp	1
+st
+	1
+fuc	2
+e);	12
+723	1
+(on	26
+xhi	6
+uae	4
+rr,	1
+)do	1
+rvm	1
+vma	1
+ qv	1
+qvo	1
+scv	1
+cvr	1
+vrs	1
+svs	1
+ bv	1
+bvl	1
+vll	1
+i &	1
+uib	2
+x n	1
+663	5
+e)c	1
+)co	1
+psu	1
+ ej	2
+eju	1
+usq	3
+nct	6
+pua	1
+654	5
+& q	1
+o-j	2
+yss	4
+emq	2
+mqu	5
+dib	3
+656	1
+56,	1
+cim	9
+ci.	3
+önf	1
+ib.	6
+658	3
+öls	1
+cae	6
+uas	2
+ctu	5
+tu"	1
+u" 	1
+" :	1
+e)b	1
+)bi	1
+iud	3
+sae	2
+62,	4
+pff	1
+nii	1
+spv	4
+pvt	1
+vta	1
+, [	1
+ [d	1
+[di	1
+ne]	1
+e])	1
+]);	1
+; j	12
+c j	2
+& 2	1
+xxx	1
+xiv	2
+-iu	1
+ eo	4
+umq	3
+vah	1
+666	10
+aed	1
+cid	3
+dii	1
+di.	2
+iut	1
+ac.	2
+ecr	1
+uod	3
+e)t	1
+)th	1
+vot	1
+667	8
+inq	1
+odt	1
+imē	1
+mēs	1
+ēse	1
+seō	1
+eōs	1
+ōs 	1
+tu,	1
+isd	2
+u &	1
+xcu	1
+anq	1
+ecc	3
+769	4
+bül	1
+ülo	1
+io,	5
+ibg	2
+707	2
+ jc	1
+jct	1
+, &	1
+& p	1
+br.	1
+äß.	1
+r);	1
+sii	1
+paß	1
+aßq	1
+ßqu	1
+)de	1
+eo.	1
+uln	3
+ae,	4
+ lv	1
+aml	1
+atq	1
+tqu	2
+ax.	2
+agk	1
+gk,	1
+733	1
+ui.	1
+aia	1
+tuo	4
+ülf	1
+lff	1
+si,	1
+vix	2
+vun	1
+a q	1
+uol	1
+(ju	1
+ jö	1
+jöc	1
+kwü	1
+ubw	4
+360	5
+kló	5
+lós	5
+ós 	4
+ ká	8
+kál	13
+áll	13
+-ká	1
+lló	3
+ló 	2
+ó [	1
+ [ˈ	1
+[ˈm	1
+ˈmi	1
+loː	1
+oːʃ	1
+ːʃ 	1
+ʃ ˈ	1
+ ˈk	1
+ˈka	1
+kaː	1
+aːl	1
+ːlː	1
+lːɒ	1
+ːɒi	1
+ɒi]	1
+i] 	1
+] (	1
+nyí	1
+yír	1
+íre	1
+gyh	1
+yhá	1
+ház	1
+áza	1
+za,	2
+göm	1
+ömb	1
+mbö	1
+bös	1
+hy 	4
+ lá	3
+lás	1
+ász	1
+szl	1
+zló	1
+ó b	1
+bár	1
+n’s	3
+54.	3
+„um	2
+„en	3
+lbh	2
+ kà	1
+kàl	1
+àll	1
+-hä	1
+ ss	7
+gyö	1
+yör	1
+örg	3
+rgy	1
+ rá	1
+ánk	1
+060	1
+tvá	1
+ván	1
+deá	1
+eák	1
+ák:	1
+gyk	1
+yká	1
+ló,	1
+ó, 	1
+ós.	1
+oed	3
+d.)	2
+492	1
+zbw	1
+bw 	1
+w –	1
+-ol	1
+zfo	2
+vsc	1
+42)	1
+euh	4
+ße
+	1
+re/	2
+e/u	1
+/un	2
+e/h	2
+/hi	1
+re
+	1
+3.–	1
+.–1	2
+x-j	1
+g-,	1
+axv	2
+xvo	2
+70/	1
+0/7	1
+/71	1
+ofv	1
+fvi	1
+(u.	4
+azm	1
+lz,	3
+-ep	1
+pp-	1
+naz	4
+7 „	1
+b.s	2
+(kü	3
+ssd	2
+ibw	4
+atp	3
+lwö	1
+räp	4
+äpo	1
+v (	1
+f -	2
+ -e	2
+l 4	1
+ 4)	2
+-tw	1
+ßeh	1
+8.,	1
+763	1
+403	1
+  (	12
+di:	2
+g):	1
+  j	1
+„fs	1
+“,„	1
+,„e	1
+„eu	1
+ut“	1
+wr-	1
+hsr	1
+m“.	1
+lf-	5
+f-g	4
+pad	2
+tc/	1
+c/d	1
+„gi	1
+giz	1
+iz“	1
+z“
+	1
+73:	1
+it
+	1
+77:	2
+a)
+	4
+ik)	1
+k)
+	1
+78:	1
+pao	1
+s)
+	1
+79:	1
+a.)	3
+82:	1
+„jo	1
+oaq	1
+uim	1
+al
+	2
+87:	1
+rej	1
+js 	1
+01:	1
+ sã	3
+são	3
+ão 	8
+775	1
+uk,	2
+ek/	1
+k/h	1
+-tä	1
+„le	5
+r/l	1
+“)
+	2
+e.t	1
+.th	1
+ 5-	2
+295	1
+pod	4
+od)	1
+541	3
+69
+	2
+eek	2
+e.'	1
+.'d	1
+'di	1
+te'	1
+e'v	1
+'vo	1
+xt+	1
+t+k	1
++kr	1
+rf:	1
+w g	1
+. '	1
+ 'o	1
+'ou	1
+tz'	1
+z'.	1
+'. 	1
+464	2
+ösn	1
+= v	2
+9 =	1
+-4,	1
+(tü	2
+öpr	1
+rü)	1
+ü) 	1
+e ş	1
+ şe	1
+şen	1
+-tü	1
+fob	1
+14)	3
+ yı	1
+yıl	1
+ılm	1
+zme	5
+el;	3
+omh	3
+25–	3
+692	1
+möl	1
+.ab	1
+ek.	1
+dzu	5
+imr	1
+703	5
+mb 	1
+ymu	1
+73–	1
+–17	4
+744	2
+44)	2
+683	1
+83;	1
+3; 	4
+3 h	4
+zra	2
+l.b	1
+ci,	1
+95
+	1
+z–d	1
+–da	1
+viu	1
+41f	1
+1f 	1
+akw	1
+-mä	1
+kiö	1
+iöl	1
+wra	3
+d-i	1
+mje	2
+50–	2
+ ml	1
+41–	1
+lzä	1
+ütu	2
+kly	2
+yn.	1
+ewm	1
+wma	2
+93–	1
+lae	3
+ cy	2
+cyp	2
+yn,	1
+nn’	1
+h с	1
+ ст	2
+сте	2
+теф	1
+ефа	1
+фан	1
+н с	1
+сер	1
+ерг	1
+рге	1
+гее	1
+еев	1
+ч с	1
+теп	1
+епа	1
+пан	1
+ано	1
+нов	1
+ов;	1
+wys	2
+phk	1
+ylj	1
+fim	1
+udb	1
+odj	1
+djo	1
+mhl	3
+hl)	2
+mij	1
+w-p	1
+l-t	2
+awt	2
+3 4	1
+(oc	1
+sih	1
+ac)	1
+(äp	1
+äpf	1
+(gî	1
+gît	1
+îte	1
+a-n	3
+té)	1
+é) 	1
+igü	1
+eom	6
+r á	1
+ á 	1
+á p	1
+pai	1
+lfm	7
+dtä	1
+ zz	1
+bij	1
+ijn	1
+jn)	1
+yeu	1
+dhi	3
+ddy	1
+as!	1
+s!,	1
+!, 	1
+kög	14
+gls	9
+cuv	3
+iés	3
+és-	3
+f-m	1
+tüh	2
+305	4
+ 8)	2
+7 j	4
+ß n	1
+g 
+	1
+(cu	2
+le
+	1
+hy,	2
+ fx	7
+fx 	7
+x z	7
+axx	4
+xx 	5
+† n	3
+ivp	2
+vpf	2
+n/h	1
+/he	1
+j.
+	2
+28
+	1
+äßl	1
+93
+	1
+456	3
+a 9	3
+ivd	2
+vda	1
+bbf	1
+bf/	1
+f/d	1
+pf)	1
+f)
+	1
+ß-w	1
+(op	1
+i..	1
+nax	1
+xos	1
+mp:	1
+52
+	1
+ck“	1
+k“ 	3
+rlb	2
+ey)	3
+cof	1
+cig	1
+96:	1
+6: 	3
+.br	1
+rd
+	1
+88:	1
+na!	1
+a! 	1
+& d	1
+ z 	5
+rnš	2
+nšt	2
+šte	6
+tej	6
+ejn	6
+jna	4
+37;	1
+ldš	1
+dšt	1
+ubš	2
+bšt	2
+jn 	1
+469	1
+470	2
+ea/	1
+a/d	1
+ünb	1
+eně	4
+něk	4
+ěk 	4
+ná 	1
+á f	2
+i.,	6
+tiš	1
+išn	1
+šno	1
+ec 	5
+jn,	1
+utš	1
+tšt	1
+th/	1
+h/e	1
+/el	1
+liš	2
+išk	2
+ška	2
+8)i	1
+)in	1
+(el	2
+ic)	2
+64;	2
+, ⚭	2
+ ⚭ 	2
+⚭ 1	2
+480	3
+boč	1
+oče	1
+(dü	1
+ürr	2
+(ii	1
+i.)	1
+l/s	1
+ý č	1
+čer	1
+te/	1
+e/m	1
+; (	1
+* e	1
+72;	1
+20)	3
+n ž	1
+ že	2
+žer	2
+otí	2
+tín	2
+f š	1
+ šu	2
+šum	2
+tr 	5
+arš	1
+rší	1
+ší 	1
+í z	1
+e ž	1
+ína	1
+a š	1
+ku;	1
+ pá	2
+pán	1
+áni	1
+ vz	1
+vze	1
+tup	1
+pád	1
+ád 	1
+ubř	1
+bří	1
+ří 	1
+í h	1
+ dě	1
+děj	1
+ěji	1
+iná	1
+nác	1
+ách	1
+h č	1
+čec	1
+vy.	3
+ha,	2
+ryb	1
+ybk	1
+bka	1
+60–	1
+0–6	2
+ptf	2
+baa	2
+obf	1
+eea	2
+ut:	1
+a4a	1
+4a 	1
+smü	2
+80'	1
+0'0	1
+'00	1
+zre	3
+uci	2
+ivm	4
+vmo	3
+xib	1
+beq	1
+iv-	1
+v- 	1
+afb	1
+opm	3
+raq	1
+fut	2
+rtà	1
+tà“	1
+à“.	1
+aou	4
+nir	5
+geü	2
+eüb	2
+(of	3
+ik
+	1
+h-v	1
+397	3
+363	1
+076	1
+762	1
+57.	5
+dl,	1
+43-	1
+739	2
+toa	2
+032	2
+029	2
+ndv	1
+läm	1
+ke;	1
+6 c	2
+hb4	1
+b4 	1
+² w	1
+427	2
+³ p	1
+t.2	1
+.20	2
+auh	2
+ivh	1
+vha	1
+lzr	1
+lzh	2
+ ([	1
+([b	1
+[bw	1
+dyʀ	1
+yʀs	1
+ʀsi	1
+siː	1
+iː]	1
+ː],	1
+z“)	1
+zwo	2
+akl	2
+th
+	1
+z))	1
+08–	2
+ cö	1
+cöl	1
+20–	2
+).e	3
+863	1
+59/	1
+9/6	1
+/60	2
+62/	1
+2/6	1
+/63	1
+rrn	3
+h);	1
+05–	1
+44–	1
+47–	2
+69–	1
+rl:	2
+68-	2
+-5-	1
+sl:	2
+sls	1
+792	1
+92-	2
+ 6:	1
+ t–	1
+t–z	1
+–z.	1
+063	2
+54–	1
+dly	12
+ly'	5
+y's	6
+ntk	4
+idv	3
+ts)	1
+"fr	3
+ly"	1
+y",	1
+nü.	1
+kkü	1
+ "s	1
+"s"	1
+s",	1
+."
+	1
+nc.	3
+lo)	1
+o),	1
+äli	1
+2 "	1
+ "h	1
+"ha	1
+ulc	1
+413	1
+7–4	1
+–41	1
+414	1
+2.–	1
+.–2	1
+(rö	1
+a.3	1
+.34	1
+774	1
+ns;	2
+amh	2
+zz-	1
+74
+	1
+mbs	4
+bs-	1
+in
+	1
+tg.	5
+guy	3
+uvr	1
+vro	1
+r [	1
+ [e	1
+[ev	1
+as]	1
+s]:	2
+ [c	1
+[ch	1
+us]	1
+02
+	2
+ bw	6
+bwv	2
+wv 	2
+v 2	2
+248	2
+8 –	1
+ek;	1
+ h-	1
+; c	1
+jei	1
+ei;	1
+i; 	2
+axs	1
+xse	2
+eu:	1
+ms
+	1
+ra:	1
+m“)	1
+. „	6
+‚bl	1
+‘ d	1
+207	2
+khz	2
+612	3
+e-ü	2
+ärö	1
+röi	1
+öis	1
+ntj	1
+je“	1
+mm“	1
+mlü	1
+/ f	1
+ehw	2
+ks“	1
+-nu	1
+bkü	5
+mmp	1
+oe-	1
+nry	2
+pik	3
+riw	1
+cow	1
+yet	2
+mwo	2
+.56	1
+,67	1
+6.7	1
+.77	1
+6,2	1
+6,6	1
+9,2	1
+.54	2
+548	1
+fep	1
+hfö	3
+„hö	2
+mt“	1
+„ps	4
+hps	1
+rüp	5
+„os	2
+kfä	1
+„kr	3
+: 
+	2
+“.d	1
+ßt:	1
+“.n	1
+üfs	1
+22
+	1
+27
+	1
+lpä	6
+501	2
+–50	2
+503	1
+rgè	1
+gè:	1
+è: 	1
+96–	1
+npä	1
+ ey	1
+rju	1
+kät	1
+thc	1
+evu	1
+ktm	1
+ktf	1
+kfi	1
+köc	1
+f.s	1
+767	2
+uos	1
+752	3
+742	2
+ah“	1
+ng’	2
+761	2
+ty’	1
+y’s	1
+kfo	1
+ „y	1
+„yo	1
+mr.	1
+rg“	2
+(tu	1
+é „	1
+obo	2
+bo“	1
+o“ 	2
+“ c	1
+oi)	1
+arç	1
+rça	1
+ça 	1
+kl 	1
+buk	2
+2:2	1
+ 0:	2
+0:2	2
+6 ü	1
+ón-	1
+ má	1
+mál	1
+ála	1
+ b,	1
+oky	5
+kyo	6
+yo)	1
+anö	1
+övr	1
+vri	1
+syt	1
+nyb	1
+yby	1
+ütf	1
+-ef	2
+irf	3
+ebg	8
+ds;	1
+ktb	2
+; f	2
+ i)	1
+i)
+	5
+tnä	1
+ip?	1
+p? 	1
+? z	2
+hoa	6
+t-n	1
+g ä	3
+„pr	2
+g“;	1
+n.z	1
+izs	11
+; u	3
+iv)	1
+v)
+	2
+bth	1
+iv,	3
+f ä	1
+xua	4
+örk	1
+ v)	1
+ch?	1
+h? 	1
+? f	1
+p s	4
+ip)	2
+p);	1
+-/u	1
+271	1
+t.f	2
+.fr	1
+ebk	1
+d:
+	1
+be“	4
+b“)	3
+; „	1
+„ag	2
+bkö	1
+39/	1
+9/4	1
+/40	1
+“.i	1
+bw“	7
+w“)	5
+ vb	2
+vbw	2
+„ök	1
+umd	3
+eab	3
+ „[	1
+„[s	1
+[s]	1
+s]i	1
+]ic	1
+äsc	2
+w“;	1
+w“ 	1
+r.)	1
+bw,	1
+„re	2
+tz“	1
+z h	4
+u „	1
+„tr	3
+es;	1
+uho	1
+“);	1
+p.
+	1
+ptq	1
+hs;	1
+de;	1
+23
+	1
+ hg	4
+hg.	3
+–69	1
+082	1
+272	1
+hèl	2
+èle	2
+eyo	1
+w p	1
+(mt	1
+tu)	1
+u),	1
+vdr	1
+ß-g	1
+u-t	1
+vaa	2
+ex,	2
+p.1	1
+9 °	1
+– q	1
+ hm	3
+(l0	1
+l03	1
+3/f	1
+/f0	1
+f03	1
+3/g	1
+/g0	1
+g03	1
+03)	3
+k-z	1
+ u 	2
+563	2
+hg 	2
+g 7	2
+upo	1
+tyn	1
+l-f	8
+ jø	2
+jøs	1
+øss	1
+gfj	1
+n .	3
+tfj	1
+g .	1
+fox	1
+oxh	1
+xho	1
+lfj	1
+nyc	1
+ycr	1
+m-d	1
+r x	3
+ x-	1
+x-p	1
+ws-	1
+s-8	1
+-8b	1
+8b,	1
+kh,	1
+un)	1
+kui	1
+onq	1
+35°	1
+5° 	1
+° 1	2
+12′	1
+′ 0	2
+ 0″	2
+ 8°	1
+17′	1
+7′ 	1
+ w
+	1
+ohw	1
+hüm	1
+paw	1
+sgm	1
+loÿ	1
+oÿs	1
+ÿs 	1
+ pé	3
+11;	2
+né-	1
+é-p	1
+oew	11
+8 n	2
+gdf	2
+ptk	1
+5 –	1
+gdg	2
+d.v	2
+.vi	2
+ mé	2
+mér	2
+rb,	3
+4 -	1
+- 1	1
+ftf	2
+xel	1
+rl,	1
+345	1
+ehy	1
+esü	2
+.“n	1
+“na	1
+fi-	1
+dsf	1
+0–5	3
+–54	1
+(nu	1
+) 3	1
+ea.	1
+„ir	6
+17
+	2
+2–?	1
+–?)	1
+?),	1
+799	1
+(rh	2
+goc	1
+„gu	1
+a“.	1
+phu	1
+ pz	1
+pze	1
+? u	1
+n?.	1
+?. 	1
+41
+	1
+43“	1
+3“.	1
+oh.	6
+42
+	1
+u)
+	1
+45“	1
+5“.	1
+44
+	1
+4  	1
+46“	1
+6“.	1
+47“	1
+7“.	1
+46
+	1
+48“	1
+8“.	1
+47
+	1
+trh	2
+„tw	1
+ aq	6
+19/	1
+f.w	1
+(bü	1
+20
+	1
+ln
+	1
+94
+	1
+il:	3
+2-9	1
+69-	3
+-2
+	3
+t.:	1
+raç	1
+açã	1
+ção	1
+stó	1
+tól	1
+óli	1
+joã	3
+oão	3
+goy	1
+oyt	1
+yta	1
+ntô	1
+tôn	1
+ôni	1
+04–	2
+xko	2
+diö	7
+iöz	7
+ey“	2
+niã	1
+ião	1
+„ss	1
+ssj	3
+sjv	3
+jv“	1
+v“)	1
+(25	2
+ebv	1
+bvr	1
+ x.	2
+icí	1
+cín	1
+íni	1
+02)	1
+jv)	1
+lón	1
+4 3	1
+(„l	1
+62“	1
+2“)	1
+jv 	1
+h)@	1
+)@1	1
+@1@	1
+1@2	1
+@2v	1
+2vo	1
+e:t	1
+:to	1
+nk/	1
+k/w	1
+w.a	1
+.ad	1
+a.o	1
+é. 	1
+hé 	3
+n.l	2
+íns	10
+ý (	1
+ce)	1
+ w1	5
+w1 	3
+nfm	1
+wrt	2
+tuj	4
+ují	4
+jí 	3
+í 2	2
+(14	1
+ý i	1
+lič	1
+ičk	1
+čků	1
+kův	1
+ův 	1
+v ú	1
+ ús	1
+úst	1
+u č	1
+o.s	1
+ir“	1
+“-t	1
+aek	1
+ekw	1
+ské	2
+ké 	2
+é l	2
+ázn	2
+zně	2
+ně 	2
+ě e	1
+ý e	3
+“-p	1
+a-u	1
+ě l	1
+ý m	1
+ptz	1
+toš	3
+š u	3
+k š	3
+ še	3
+šeb	3
+äbl	1
+ý s	1
+b t	2
+ý a	2
+zzo	3
+gko	1
+ob.	2
+eio	1
+g-p	1
+-py	1
+pyo	1
+jí,	1
+í, 	1
+lkä	2
+dph	1
+w1,	1
+n š	1
+ šá	1
+šár	1
+árk	1
+ová	1
+vá 	1
+10;	1
+ec)	1
+fo 	1
+fo,	1
+va,	1
+owm	1
+hdå	1
+dår	1
+årl	1
+(=f	1
+=fe	1
+b.g	1
+.ge	2
+(4 	1
+bhö	1
+nzv	1
+6,4	1
+,42	1
+².s	1
+gts	1
+öku	2
+lns	1
+-kä	1
+füs	2
+üs 	2
+ vg	1
+vgn	1
+ s1	1
+s1 	1
+(30	1
+uh:	1
+ s–	1
+s–u	1
+–u.	1
+b 7	1
+036	1
+643	1
+c 8	1
+753	1
+392	1
+beß	1
+ßle	1
+509	1
+ofm	4
+g-f	1
+ i,	2
+452	1
+071	2
+712	1
+455	1
+zof	2
+bfü	1
+ l-	1
+-fö	1
+nnk	2
+(ci	3
+–60	1
+°c)	4
+il“	1
+zzu	2
+30–	1
+c ü	1
+asr	5
+ 5″	1
+5″-	1
+″-,	1
+ 6″	1
+6″-	1
+″- 	1
+ 8″	1
+8″-	1
+″-o	1
+gsö	3
+söf	3
+it/	2
+t/l	1
+hmg	1
+–1,	1
+,5″	1
+5″ 	1
+″ b	1
+ (≥	1
+(≥2	1
+≥20	1
+ (~	1
+(~1	1
+~14	1
+40°	1
+° i	1
+n))	1
+°c➞	1
+c➞4	1
+➞40	1
+c f	1
+ftd	1
+586	4
+ziw	1
+öna	1
+lbb	1
+eyd	1
+ydt	1
+89)	2
+psf	1
+-ss	1
+l.s	1
+.sp	2
+ksf	1
+töh	1
+(qi	1
+qin	1
+saj	1
+ja.	1
+psa	7
+gbu	1
+ob,	1
+jif	1
+hij	1
+iob	1
+ür-	1
+r-)	1
+-) 	1
+obp	1
+jaï	1
+aïr	1
+ïru	1
+ryd	1
+ydi	1
+kyt	1
+ehk	1
+(ai	1
+räz	1
+äzi	1
+aio	1
+(„i	1
+de!	1
+e!“	1
+!“)	1
+nän	2
+nh 	1
+os;	1
+ie;	1
+édé	2
+dér	1
+: 6	1
+hét	1
+xeq	1
+(l’	1
+’ar	1
+(mé	1
+méd	1
+dée	1
+ée,	1
+ul,	1
+ vê	1
+vêp	1
+êpr	1
+isé	1
+sér	1
+ssf	1
+jid	1
+ kv	3
+ „q	1
+„qu	1
+-dä	1
+gnü	1
+ßt)	1
+rwö	1
+(at	2
+ckv	1
+(em	2
+fgi	1
+.ex	1
+ör 	2
+müd	2
+eev	1
+n.v	2
+yp,	1
+„du	3
+(„d	2
+h“)	1
+(„h	1
+iml	3
+-vl	1
+vlu	1
+luy	1
+uyn	1
+(äg	1
+e-u	6
+va:	1
+e ‘	1
+ ‘u	1
+‘un	1
+g’.	1
+’. 	1
+8.p	1
+.ps	1
+ur:	3
+306	5
+561	1
+611	1
+noy	1
+a)p	1
+)ps	1
+5-s	1
+-28	2
+351	2
+uea	1
+aky	1
+a)s	1
+)so	1
+dhb	1
+hb-	1
+99/	1
+9/2	1
+4.7	1
+hw 	2
+w k	3
+gav	2
+ kj	1
+kje	1
+n ,	1
+(1)	6
+ hj	1
+(5/	1
+/2)	1
+ørg	1
+(4/	1
+/3)	1
+(3)	5
+(6)	1
+- w	1
+3/6	1
+/6)	1
+nič	1
+iči	1
+čić	1
+ć  	1
+övg	1
+(2)	1
+kib	1
+ixs	1
+ißs	1
+ßsu	1
+ltö	1
+kec	1
+tey	14
+oem	1
+uhs	1
+"fi	1
+or"	1
+" b	2
+apg	1
+pge	1
+üh.	1
+köt	2
+16s	1
+6se	1
+ukb	1
+ttc	1
+pöm	1
+zi-	1
+moe	1
+30/	1
+0/3	1
+/31	1
+ibk	1
+bkr	1
+dsg	1
+-kü	2
+63
+	1
+t /	1
+nk
+	1
+ugk	8
+ np	1
+skw	1
+ p-	1
+p-8	1
+nt“	1
+h-8	1
+-8-	1
+8-v	1
+rp.	3
+,8;	1
+8; 	3
+ bg	1
+bgm	1
+gm-	1
+m-1	1
+wk.	2
+amj	1
+-lf	1
+lfk	1
+k 3	2
+h 8	2
+054	2
+051	1
+51)	1
+4.–	1
+–15	2
+041	1
+xo 	1
+g.h	1
+pp.	1
+1e-	1
+-ee	1
+uws	1
+wse	1
+aaf	1
+ijk	2
+jkh	1
+id?	1
+d?,	1
+?, 	1
+aak	1
+ ui	1
+jke	1
+emk	1
+287	1
+87
+	1
+ i
+	1
+(b.	1
+sc.	1
+ph.	1
+.d.	1
+y),	1
+ikw	1
+kwi	1
+cs.	2
+hpa	3
+(7.	1
+sgp	1
+gp)	1
+sh-	1
+(bg	1
+ga)	2
+(gf	1
+gfd	1
+fd)	1
+(rs	1
+-70	1
+709	1
+ayl	3
+ll:	1
+-63	3
+ gd	1
+gdr	1
+ny'	1
+= t	1
+582	1
+„ta	1
+ocn	2
+cne	2
+yog	1
+gy:	1
+6-7	2
+nej	2
+üßw	1
+ßwa	1
+geș	1
+eș,	1
+ș, 	1
+jiu	1
+reș	1
+eș 	1
+ș u	1
+i.d	1
+et"	1
+2 c	1
+cm,	1
+ 8–	2
+ms)	2
+msl	2
+278	1
+„em	2
+msd	1
+(nl	1
+nlw	1
+lwk	1
+wkn	1
+kn)	1
+oßf	1
+ßfo	1
+inä	2
+yōi	2
+ōic	2
+miy	4
+iya	5
+yao	4
+aok	4
+. 宮	1
+ 宮岡	1
+宮岡 	1
+岡 洋	1
+ 洋一	1
+洋一,	1
+一, 	1
+ yō	1
+hi;	1
+kky	1
+kyō	3
+yō-	1
+ō-u	1
+ ky	2
+yōt	1
+ōto	1
+g y	2
+yau	2
+ov-	1
+ka-	2
+a-y	1
+-ya	1
+u-u	1
+ fj	1
+niy	1
+237	1
+ri:	1
+–77	1
+dv.	1
+h.,	1
+oc.	1
+h ي	1
+ يا	1
+يار	1
+ارا	1
+را,	1
+ا, 	1
+dmg	2
+mg 	2
+ yā	1
+yār	1
+ārā	1
+rā)	1
+ā),	1
+zih	2
+ih 	2
+aa-	1
+ "g	1
+"ge	1
+"to	1
+gs"	1
+a "	1
+"kö	1
+ls"	1
+bu 	1
+jao	1
+"ar	1
+op"	1
+p" 	1
+724	5
+29;	1
+49;	2
+680	1
+omd	2
+önb	4
+73;	1
+74;	1
+746	2
+rnz	1
+ksn	1
+ß –	1
+eh´	1
+h´ 	1
+´ w	1
+56.	2
+ag:	1
+(ok	1
+01)	3
+1-x	1
+bbk	1
+kl)	1
+24;	1
+; -	2
+b x	1
+ x,	1
+98;	1
+thk	1
+ v,	1
+18f	1
+8ff	1
+f.,	1
+539	1
+08-	1
+df,	1
+024	1
+kb.	1
+r.t	1
+.to	1
+4°5	1
+°53	1
+53′	1
+3′4	1
+′46	1
+46″	1
+6″ 	1
+90°	1
+0°0	1
+°01	1
+01′	1
+1′2	1
+′24	1
+24″	1
+4″ 	1
+y 9	1
+üdr	1
+ p 	1
+ h 	1
+; 0	1
+9,5	1
+9,0	1
+4.5	1
+.59	1
+o ō	2
+ ōg	7
+ōga	8
+. 大	1
+ 大賀	1
+大賀 	1
+賀 典	1
+ 典雄	1
+典雄,	1
+, ō	1
+io;	1
+ka;	1
+ tō	1
+tōk	1
+ōky	1
+yō 	1
+ō g	1
+iju	1
+fäc	1
+gyo	1
+k.,	1
+coo	1
+oo)	1
+p.z	1
+zev	2
+buy	1
+uyu	1
+yuk	1
+h ō	1
+-ce	1
+t ō	1
+e ō	1
+d ō	1
+uez	2
+* n	1
+oa,	1
+oa.	1
+s.s	1
+ai)	1
+) „	1
+„o 	1
+eyr	11
+yr.	2
+rn&	1
+n&h	1
+&ha	1
+z)a	1
+)au	1
+ßze	1
+ 2a	2
+2a 	1
+ 2b	2
+2b.	1
+2a,	1
+2b,	1
+ 3b	1
+3b,	1
+(sb	2
+sbs	2
+sa-	2
+roë	1
+oën	1
+ën 	1
+ägh	1
+ c2	1
+c28	1
+ftü	6
+³ u	4
+(65	1
+itü	3
+10c	1
+0c 	1
+³ b	4
+,9.	1
+³ d	2
+ri)	1
+m³-	3
+³-m	2
+ xu	2
+xu 	1
+ j1	1
+j1 	1
+xu)	1
+kpa	1
+ sx	1
+sx 	1
+(92	1
+m³)	1
+³) 	1
+³ e	1
+9-c	1
+³-t	1
+(78	1
+³ 1	1
+16v	1
+6v 	1
+³ a	1
+xe/	1
+c“.	1
+xl/	1
+l/g	1
+e x	1
+ xr	1
+xr/	1
+r/g	1
+/gr	1
+gr 	1
+grx	1
+rx.	1
+.63	1
+635	2
+kw/	2
+w/5	1
+/54	1
+ps;	1
+³ m	1
+w/6	1
+gcr	1
+³ 5	1
+1-k	1
+-kw	1
+,3-	1
+3-l	1
+kw)	1
+au
+	1
+m³,	5
+³, 	3
+kw,	4
+³,4	1
+,49	1
+³,5	1
+,57	1
+eoc	2
+océ	2
+céa	2
+5  	1
+ „9	1
+„9“	1
+9“ 	1
+ „8	1
+„8“	1
+ „1	1
+„1“	1
+1“ 	1
+-a.	2
+ lm	1
+mu 	1
+z &	1
+& f	1
+msn	1
+ y2	1
+y2k	1
+2k 	1
+td.	1
+ cc	1
+eb-	1
+& m	2
+ bm	1
+bmw	1
+rym	1
+ymi	1
+3-j	1
+pöt	4
+ mt	1
+mtv	1
+v-p	1
+pvg	3
+vgg	3
+gg 	3
+3:4	1
+:4.	1
+25/	1
+/26	1
+ksl	3
+:0-	1
+:3-	1
+3-u	1
+dtd	1
+rby	1
+8:2	1
+7/2	1
+ülz	1
+z 0	1
+5:2	1
+2:8	1
+:8,	1
+üd/	1
+rd/	1
+d/w	1
+rkä	1
+idk	1
+378	1
+(3:	1
+:1)	1
+1:4	1
+:4 	1
+em:	1
+-53	2
+534	2
+074	1
+516	4
+80–	1
+–51	1
+lyb	1
+ybr	1
+† o	1
+r/n	1
+/no	1
+z 4	1
+lyc	2
+474	1
+üdg	1
+80)	1
+rbb	1
+93;	1
+76/	2
+6/7	2
+/77	2
+odw	19
+ziö	3
+494	4
+pip	1
+pav	1
+imk	1
+dij	2
+.la	1
+bzo	1
+g.b	1
+(50	1
+quä	1
+uäd	1
+ädu	1
+etö	1
+orö	1
+g q	1
+dsr	1
+vou	1
+lé 	1
+7 ü	2
+508	3
+èvr	1
+„rö	1
+äta	1
+d.b	1
+ös,	1
+(2,	1
+28;	1
+32–	1
+34;	1
+ 5f	1
+5f.	1
+f.)	3
+(3,	1
+17;	1
+22f	1
+2f.	1
+f.;	2
+33)	1
+ 1f	1
+1f.	1
+374	1
+74f	1
+4f.	2
+(av	1
+ 4–	1
+4–6	1
+–6;	1
+23;	1
+9–3	1
+32;	1
+44f	1
+46a	1
+6a–	1
+a–4	1
+6–7	2
+; 9	1
+–94	1
+(rg	1
+-3,	2
+i,2	1
+,2,	1
+nd’	1
+igz	1
+ßfi	1
+s-$	1
+-$ 	1
+$ u	1
+rys	1
+84.	1
+kpo	17
+ül,	1
+(ak	1
+ t-	2
+t-z	2
+zyt	1
+scl	1
+oag	1
+äpa	2
+ ct	2
+ctl	3
+a-4	3
+(ip	1
+ab)	4
+b),	1
+d-1	3
+-l1	4
+l1 	1
+tez	2
+l1-	3
+1-a	2
+ ""	1
+""a	1
+"av	1
+ab"	1
+b""	1
+"" 	1
+gf-	1
+f-i	1
+l-1	1
+-ii	1
+ tk	1
+tk-	1
+ivf	2
+vfr	2
+1-p	1
+pl-	1
+-ct	1
+-4-	1
+4-a	1
+-pd	1
+pem	1
+suk	3
+jo 	3
+tiw	3
+waz	3
+en"	2
+n" 	1
+" t	1
+-up	1
+p-w	1
+o-f	1
+arö	1
+ök-	1
+eu.	1
+p (	3
+(7 	1
+k "	1
+n".	1
+-dv	1
+g.2	1
+ß k	1
+9 ;	1
+ ; 	1
+361	2
+339	2
+th)	2
+cok	1
+otl	1
+m :	1
+xta	1
+vme	1
+h/n	1
+as;	1
+h/t	1
+/ti	1
+äve	1
+ie/	1
+e/b	1
+örl	1
+ceh	2
+(ev	1
+d.h	2
+xyt	1
+ut/	1
+t/ 	1
+gäb	1
+ceg	1
+ozu	1
+dhs	1
+tzq	2
+zqu	2
+im/	2
+m/t	1
+/te	1
+(hp	1
+pr/	1
+/hp	1
+hpv	1
+pv)	1
+v),	1
+cl.	1
+apy	1
+py“	1
+mtk	1
+dht	1
+ühf	1
+ntä	1
+süm	1
+ee:	1
+iee	3
+ubj	1
+h)“	1
+näf	1
+äf:	1
+352	1
+ooi	1
+oij	1
+ij,	1
+- m	1
+it?	1
+t? 	1
+- t	1
+4-5	1
+/ho	1
+n/g	1
+/gö	1
+w.h	1
+.ha	1
+wk-	1
+k-h	1
+-hh	1
+hhg	1
+wk/	1
+k/f	1
+/fk	1
+fk_	1
+k_s	1
+_so	1
+e_a	1
+_ar	1
+t/1	1
+5.p	1
+.ph	1
+php	1
+hp 	1
+06
+	1
+-k,	1
+-54	1
+uß:	1
+rk:	1
+vlg	1
+g.,	1
+bl.	1
+trz	1
+dmo	1
+-35	1
+091	1
+1-9	1
+pf:	1
+lua	1
+rpä	1
+ fw	1
+fwp	1
+wpf	1
+393	1
+348	1
+fci	2
+ci-	1
+kyn	1
+ci
+	1
+ya)	1
+sdu	1
+p 7	1
+a-,	1
+afw	1
+: 8	1
+g)d	1
+3,4	1
+r/k	1
+m²,	1
+², 	1
+bca	1
+ölm	1
+(öl	1
+× 1	1
+756	1
+26:	1
+r–p	1
+249	1
+pf;	1
+üsn	1
+ht/	1
+t/z	1
+/zh	1
+7.u	1
+.un	2
+pfd	1
+fdu	1
+dy-	1
+3.u	1
+esj	1
+2.n	1
+.nu	1
+086	4
+4.v	1
+= l	1
+679	1
+h ن	1
+ نف	1
+نفط	1
+فطة	1
+طة,	1
+ة, 	1
+naf	1
+afṭ	1
+fṭa	1
+ṭa,	1
+suf	1
+hmz	1
+mzi	1
+uks	1
+zao	1
+uia	1
+i,1	1
+,1,	1
+ uo	1
+hue	12
+wdo	1
+ch…	1
+h… 	1
+… m	1
+du!	1
+u! 	1
+! a	1
+ivt	1
+vti	1
+luj	1
+my.	1
+ysz	7
+szk	7
+zki	7
+ lw	1
+lwó	1
+wów	1
+ya.	1
+ść 	1
+ć u	1
+mez	1
+sej	1
+ejm	1
+jm.	1
+lno	2
+isł	1
+sła	1
+buz	1
+97–	1
+„ti	1
+iv;	1
+v; 	1
+(„r	1
+mmw	1
+mwä	1
+.hu	1
+uß,	1
+spf	3
+557	1
+9 4	1
+ €,	1
+€, 	1
+ €.	1
+€.
+	1
+ lf	1
+hs“	3
+izl	1
+ w 	1
+omf	1
+„sa	2
+a)“	1
+)“.	1
+ölp	2
+l &	1
+bh“	1
+p 3	1
+ölw	1
+lwä	1
+(rm	1
+4,8	1
+6–3	1
+–30	1
+59–	1
+9–6	1
+% o	1
+i 6	1
+–74	1
+% m	1
+g/f	1
+/f 	1
+zkl	1
+ a+	1
+a++	1
++++	1
+++.	1
++.
+	1
+zsy	2
+ ((	1
+0 –	2
+– 7	1
+– 9	1
+ wt	1
+h))	1
+)).	1
+ x 	1
+16/	1
+o-h	3
+  2	1
+um|	1
+m|n	1
+|nr	1
+6.3	1
+oie	1
+y).	1
+,14	1
+296	1
+,52	1
+cgi	3
+.es	1
+réa	1
+éal	1
+swü	1
+utö	1
+88–	1
+fmü	1
+fza	1
+äpp	1
+n «	2
+ «b	2
+«b»	2
+b» 	1
+» u	1
+b»,	1
+», 	1
+nff	1
+542	1
+).i	1
+.69	1
+ilö	1
+ha.	1
+h-h	1
+z-d	1
+–3,	1
+s-à	1
+-à-	1
+à-v	1
+ 2–	1
+t.-	1
+.-v	1
+adä	1
+däq	1
+„fu	1
+eg;	1
+öfl	3
+jom	1
+.fü	1
+) −	1
+− e	1
+no“	1
+bör	1
+ptn	1
+e −	1
+− d	1
+t −	1
+− m	1
+j.p	1
+.p.	1
